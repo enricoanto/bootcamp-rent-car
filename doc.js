@@ -1,16 +1,30 @@
-const swaggerJsdoc = require('swagger-jsdoc')
+const swaggerJsdoc = require("swagger-jsdoc");
 
 const options = {
-    definition: {
-        openapi: "3.0.0",
-        info: {
-            title: "Rent-Car",
-            version: "1.0"
-        },
-        servers: [{ url: process.env.URL_SERVERS }]
+  definition: {
+    openapi: "3.0.0",
+    info: {
+      title: "Binar Car Rental",
+      version: "1.0",
     },
-    apis: ["./routes/Admin/*js", "./routes/Customer/*js"]
-}
-const swaggerDocs = swaggerJsdoc(options)
+    servers: [{ url: process.env.URL_SERVERS }],
+    components: {
+      securitySchemes: {
+        AdminAccessToken: {
+          type: "apiKey",
+          in: "header",
+          name: "access_token",
+        },
+        CustomerAccessToken: {
+          type: "apiKey",
+          in: "header",
+          name: "access_token",
+        },
+      },
+    },
+  },
+  apis: ["./routes/**/*.js", "./models/**/*.js"],
+};
+const swaggerDocs = swaggerJsdoc(options);
 
-module.exports = swaggerDocs
+module.exports = swaggerDocs;

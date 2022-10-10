@@ -1,2810 +1,2818 @@
 [
-    {
-        "id": 1,
-        "email": "admin@mail.com",
-        "password": "$2b$10$L2aH9/nJLhUMB19yq27M5OaA2tqnIw/bo89h9dJu3EVLHlSd4CnOS",
-        "role": "admin",
-        "createdAt": "2022-03-09T15:49:41.975Z",
-        "updatedAt": "2022-03-09T15:49:41.975Z"
-    },
-    {
-        "id": 2,
-        "email": "john_doe@mail.com",
-        "password": "$2b$10$86MN7jpDD5bE8F0pwn7kQORkaw//G85Gjl.WsOOKWaPDGXbsD6MbS",
-        "role": "Customer",
-        "createdAt": "2022-03-09T15:50:11.666Z",
-        "updatedAt": "2022-03-09T15:50:11.666Z"
-    },
-    {
-        "id": 3,
-        "email": "elizabeth@mail.com",
-        "password": "$2b$10$V.GhZVt92jpcJyIj6eXdTe2/WNOmERWdocVvXuBopwExU6IJTo.5e",
-        "role": "Customer",
-        "createdAt": "2022-03-09T15:50:21.999Z",
-        "updatedAt": "2022-03-09T15:50:21.999Z"
-    },
-    {
-        "id": 4,
-        "email": "mark@mail.com",
-        "password": "$2b$10$Kv0Hpgqees0Kx10JVyAfG.rH3zuw9ehJuPIaC7yqgId/8Ij91p2tq",
-        "role": "Customer",
-        "createdAt": "2022-03-09T15:50:35.401Z",
-        "updatedAt": "2022-03-09T15:50:35.401Z"
-    },
-    {
-        "id": 5,
-        "email": "michael@mail.com",
-        "password": "$2b$10$L8preybXRv5m4gb4P5SuYOu2fNcwKBVPPvz33qOlvWb5vbJLlCJ6m",
-        "role": "Customer",
-        "createdAt": "2022-03-09T15:50:46.472Z",
-        "updatedAt": "2022-03-09T15:50:46.472Z"
-    },
-    {
-        "id": 6,
-        "email": "androtest@binarmail.com",
-        "password": "$2b$10$M6jlrYj30vu0Yx3wacrcd.wMa/DpU7dQpLLwT.0jpHETtOtMjHg.i",
-        "role": "admin",
-        "createdAt": "2022-03-11T16:53:11.418Z",
-        "updatedAt": "2022-03-11T16:53:11.418Z"
-    },
-    {
-        "id": 7,
-        "email": "androtest+1@mail.com",
-        "password": "$2b$10$hvJgutMIzhwxG71F6QUPiOkABd0PE9QiuUUJyg0MjgQXxwJmn4CmS",
-        "role": "admin",
-        "createdAt": "2022-03-11T17:18:30.754Z",
-        "updatedAt": "2022-03-11T17:18:30.754Z"
-    },
-    {
-        "id": 8,
-        "email": "admissssn@mail.com",
-        "password": "$2b$10$hyjjMjOHT90nr9nmE8i6J.jYHTrC/7VS7SKxYOmg8chOaHmUMqhti",
-        "role": "Customer",
-        "createdAt": "2022-04-01T09:11:46.495Z",
-        "updatedAt": "2022-04-01T09:11:46.495Z"
-    },
-    {
-        "id": 9,
-        "email": "admin2@mail.com",
-        "password": "$2b$10$2I4cL4axLqhNqmEtrZo7Y.lWLCfci1qgbxZgipv5EdjU81WCtPc.y",
-        "role": "Customer",
-        "createdAt": "2022-04-05T14:43:38.818Z",
-        "updatedAt": "2022-04-05T14:43:38.818Z"
-    },
-    {
-        "id": 10,
-        "email": "tes@mail.com",
-        "password": "$2b$10$Sy7Bif90pfGXR0gdyQNiC.3WYpexDnJLqUdp35I0Sm.jAXOJ9YNDe",
-        "role": "Customer",
-        "createdAt": "2022-04-05T14:43:56.667Z",
-        "updatedAt": "2022-04-05T14:43:56.667Z"
-    },
-    {
-        "id": 11,
-        "email": "admin88888@mail.com",
-        "password": "$2b$10$3u6ncS2D0MFYUR5v1ZwxYuxoQNE/WP.6CErOrD7ScnzHLq/Y.kOym",
-        "role": "admin",
-        "createdAt": "2022-04-07T14:34:59.087Z",
-        "updatedAt": "2022-04-07T14:34:59.087Z"
-    },
-    {
-        "id": 12,
-        "email": "admin8eee8888@mail.com",
-        "password": "$2b$10$3c1bgn1ttTD.wNCw81qU6ulA7P4Ms9b9wZzcywItFOq1ou2i76Eve",
-        "role": "admin",
-        "createdAt": "2022-04-07T15:08:39.553Z",
-        "updatedAt": "2022-04-07T15:08:39.553Z"
-    },
-    {
-        "id": 13,
-        "email": "admin8eee8rrr888@mail.com",
-        "password": "$2b$10$bXPdbmGRnMKXjq2N6UQqS.RONm1hgi/wpfDJqA143tY74LP3Q8h8q",
-        "role": "admin",
-        "createdAt": "2022-04-07T15:09:17.641Z",
-        "updatedAt": "2022-04-07T15:09:17.641Z"
-    },
-    {
-        "id": 14,
-        "email": "tesAdmin@gmail.com",
-        "password": "$2b$10$v1Cyxhnc2wvYkUgsCpqlpum7MYifG29zNx6QzpfC6/gEJ35qkHFK.",
-        "role": "admin",
-        "createdAt": "2022-04-07T15:17:05.063Z",
-        "updatedAt": "2022-04-07T15:17:05.063Z"
-    },
-    {
-        "id": 15,
-        "email": "fachrisajovi@gmail.com",
-        "password": "$2b$10$RbWywBFXXd0JPb9T46ofSe9nWbIGkiAVAos5PjSp/bywgrbDQZsz.",
-        "role": "admin",
-        "createdAt": "2022-04-08T18:02:08.127Z",
-        "updatedAt": "2022-04-08T18:02:08.127Z"
-    },
-    {
-        "id": 16,
-        "email": "test123@gmail.com",
-        "password": "$2b$10$RisJoLTdPuxfUQgAv8cq9.BbvwWpySNi4AmrfY23LX0jHNqo9NLCO",
-        "role": "admin",
-        "createdAt": "2022-04-11T16:35:05.157Z",
-        "updatedAt": "2022-04-11T16:35:05.157Z"
-    },
-    {
-        "id": 17,
-        "email": "if300@gmail.com",
-        "password": "$2b$10$XsTHZqBnNcIpfezwTrdTpehDcT9HcxLZsarnZkUSI/UcMOSmbxT2.",
-        "role": "admin",
-        "createdAt": "2022-04-11T16:35:46.348Z",
-        "updatedAt": "2022-04-11T16:35:46.348Z"
-    },
-    {
-        "id": 18,
-        "email": "if300@bin.co",
-        "password": "$2b$10$WbU52Bw54EI6WQf996RQY.ford5a/yg5uEhUfOz800bDnOIO77sJ6",
-        "role": "admin",
-        "createdAt": "2022-04-11T16:35:56.749Z",
-        "updatedAt": "2022-04-11T16:35:56.749Z"
-    },
-    {
-        "id": 19,
-        "email": "admin1231231231231@mail.com",
-        "password": "$2b$10$iIMHbuAzGMNvYGwFrrxzJ.bkgJGs2hRYJAyKRCAdaztQdPY2J5SPm",
-        "role": "admin",
-        "createdAt": "2022-04-12T12:36:28.242Z",
-        "updatedAt": "2022-04-12T12:36:28.242Z"
-    },
-    {
-        "id": 20,
-        "email": "admin1231231231231123123@mail.com",
-        "password": "$2b$10$Ezjr.8NyPLChXKxRU4Etz.jghM2oQNOX2swwTduJ.1an0CUkWZYy2",
-        "role": "admin",
-        "createdAt": "2022-04-12T12:36:29.562Z",
-        "updatedAt": "2022-04-12T12:36:29.562Z"
-    },
-    {
-        "id": 21,
-        "email": "admin1231231231231123123123123@mail.com",
-        "password": "$2b$10$Q2Cq0e8MmYlD5yjoJn8ykuJ7/fE73G2/XWUVvO8q8c48/uQbjCdoG",
-        "role": "admin",
-        "createdAt": "2022-04-12T12:36:31.149Z",
-        "updatedAt": "2022-04-12T12:36:31.149Z"
-    },
-    {
-        "id": 22,
-        "email": "admin1231231231231123123123123123123@mail.com",
-        "password": "$2b$10$WBWuZhJ4RI61IpyvvS4a2emNN7kFQgs6H5yaEY8c1BYyvzp7qokny",
-        "role": "admin",
-        "createdAt": "2022-04-12T12:36:32.486Z",
-        "updatedAt": "2022-04-12T12:36:32.486Z"
-    },
-    {
-        "id": 23,
-        "email": "admin12312@mail.com",
-        "password": "$2b$10$q9nXPV4qCJ2QF2oyQBomMOHDLVL2qV6tNe.qsRQKjuE9jUpcWyN4i",
-        "role": "admin",
-        "createdAt": "2022-04-12T12:36:35.751Z",
-        "updatedAt": "2022-04-12T12:36:35.751Z"
-    },
-    {
-        "id": 24,
-        "email": "and4@mail.com",
-        "password": "$2b$10$xWmOWUFlnqK9gg4bJOi/BOVeaBCzzgMEP7TKEaSQs2olFhPApuGlK",
-        "role": "Customer",
-        "createdAt": "2022-04-12T15:35:02.984Z",
-        "updatedAt": "2022-04-12T15:35:02.984Z"
-    },
-    {
-        "id": 25,
-        "email": "fhafzain@binaracademy.org",
-        "password": "$2b$10$.nmWP57r01K8wNus0unkZush6d.tDW4PaiTdHatRazo7xtzeJwwG2",
-        "role": "admin",
-        "createdAt": "2022-04-13T00:25:31.225Z",
-        "updatedAt": "2022-04-13T00:25:31.225Z"
-    },
-    {
-        "id": 26,
-        "email": "romuty16@gmail.com",
-        "password": "$2b$10$tYhyPRJhu.rJMYpwRilG5./Ny4SAZIpbjVGoN461ypcC7hn6OQuBO",
-        "role": "admin",
-        "createdAt": "2022-04-13T00:29:43.458Z",
-        "updatedAt": "2022-04-13T00:29:43.458Z"
-    },
-    {
-        "id": 27,
-        "email": "test@gmail.com",
-        "password": "$2b$10$8/Lvt.ddnBOL0ygbTq2DBevI8fs.d6S2JwQIVE/wjzInyFKtix0UC",
-        "role": "admin",
-        "createdAt": "2022-04-13T00:30:07.794Z",
-        "updatedAt": "2022-04-13T00:30:07.794Z"
-    },
-    {
-        "id": 28,
-        "email": "romuty17@gmail.com",
-        "password": "$2b$10$PBIiWmEiYnBSf5Bni.mdWuNYaOCK7L1kUsgbvw2aoDq1RCeeAPZia",
-        "role": "admin",
-        "createdAt": "2022-04-13T00:33:09.673Z",
-        "updatedAt": "2022-04-13T00:33:09.673Z"
-    },
-    {
-        "id": 29,
-        "email": "yusuf@binaracademy.org",
-        "password": "$2b$10$dokK9pj8CSDXy8WdnR5Jzevou4TuLvACftTZgmoviAa5hfY4b1VIK",
-        "role": "admin",
-        "createdAt": "2022-04-13T00:33:38.050Z",
-        "updatedAt": "2022-04-13T00:33:38.050Z"
-    },
-    {
-        "id": 30,
-        "email": "iinsn@gmail.com",
-        "password": "$2b$10$LcTGaI4KKddl5j9a9p2CpeFd06i5xofPgo1B9P5rU4A9rdOjikOYy",
-        "role": "admin",
-        "createdAt": "2022-04-13T00:34:24.594Z",
-        "updatedAt": "2022-04-13T00:34:24.594Z"
-    },
-    {
-        "id": 31,
-        "email": "badhrul08@gmail.com",
-        "password": "$2b$10$L/hjlkrsElcRL1QHYNa7Y.RUYfIAgng2BXrB/G9KkcVI/nAPZPR0C",
-        "role": "admin",
-        "createdAt": "2022-04-13T00:37:04.449Z",
-        "updatedAt": "2022-04-13T00:37:04.449Z"
-    },
-    {
-        "id": 32,
-        "email": "adiya17@gmail.com",
-        "password": "$2b$10$XIjGcXrANfNNne9ythEkzeB4KSqPzklQL.gk1fbXQmuLRGCI9sV6W",
-        "role": "admin",
-        "createdAt": "2022-04-13T00:37:10.201Z",
-        "updatedAt": "2022-04-13T00:37:10.201Z"
-    },
-    {
-        "id": 33,
-        "email": "testing@gmail.com",
-        "password": "$2b$10$TumDDxGPhUtb2Eo3c6QHVOOciRgfsWrvM5X.FRq.hn/2kgBNizZfG",
-        "role": "admin",
-        "createdAt": "2022-04-13T00:52:15.038Z",
-        "updatedAt": "2022-04-13T00:52:15.038Z"
-    },
-    {
-        "id": 34,
-        "email": "fhafzain@a.org",
-        "password": "$2b$10$PLcrPvJYFnmQmJc7EhWocOdLSZvQ.VOt3RhuBbUsk6MuMKPEr89b.",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:07:43.266Z",
-        "updatedAt": "2022-04-13T01:07:43.266Z"
-    },
-    {
-        "id": 35,
-        "email": "adiya155@gmail.com",
-        "password": "$2b$10$OFvmTzk1fJ2eTCcOdO.Fs.Uz8f7PYxW4g2.yhsQLUWIs6uaEYsN6K",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:12:19.382Z",
-        "updatedAt": "2022-04-13T01:12:19.382Z"
-    },
-    {
-        "id": 36,
-        "email": "wkwk@gmail.com",
-        "password": "$2b$10$fsl5WE41J/qUW9d9LZYNWOKNebdRrtx4NixI5XhffuK1pBM/MZJM.",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:12:23.956Z",
-        "updatedAt": "2022-04-13T01:12:23.956Z"
-    },
-    {
-        "id": 37,
-        "email": "dzaky@gmail.com",
-        "password": "$2b$10$UmeJCQeDDBIKnu1L7IaxP.GjaG7vUdavw76JrjLqV7gnkaWVEDNmq",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:13:10.191Z",
-        "updatedAt": "2022-04-13T01:13:10.191Z"
-    },
-    {
-        "id": 38,
-        "email": "testing1212@gmail.com",
-        "password": "$2b$10$r9g2HX4EJrq7mDKCKgkdm.OlObswr.AfQWJSLKNp.kS6RImHDkhAe",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:18:39.899Z",
-        "updatedAt": "2022-04-13T01:18:39.899Z"
-    },
-    {
-        "id": 39,
-        "email": "aditya1@gmail.com",
-        "password": "$2b$10$ReMsRc3B/iO4ESDwjcu1OuUxY/uhpfwsG9N.0U.gnlllMF9tXGb/y",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:19:02.917Z",
-        "updatedAt": "2022-04-13T01:19:02.917Z"
-    },
-    {
-        "id": 40,
-        "email": "test1233333@gmail.com",
-        "password": "$2b$10$oC3IpuDj3IelXoZ81Gt6guN1GIcZh5L6obxJKr5T6bld4qQxxo8zK",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:20:04.866Z",
-        "updatedAt": "2022-04-13T01:20:04.866Z"
-    },
-    {
-        "id": 41,
-        "email": "aditya122121@gmail.com",
-        "password": "$2b$10$xYqgORTsNY1B5ccNwO7dSeJHInxoRi3aGfYYMrviDbRkk9GZmYwGG",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:20:52.535Z",
-        "updatedAt": "2022-04-13T01:20:52.535Z"
-    },
-    {
-        "id": 42,
-        "email": "coba@gmail.com",
-        "password": "$2b$10$8fqxv5mCTJsGsWHeV9IbqeajcD5yYhsW9j07HSTcVbG0ifDkoiSQC",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:28:24.295Z",
-        "updatedAt": "2022-04-13T01:28:24.295Z"
-    },
-    {
-        "id": 43,
-        "email": "test12333332@gmail.com",
-        "password": "$2b$10$q1M6V98WEVwgDOlw3d6u9eiM309X06HfdYHgPVFkoYlNrbbwp6zv.",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:30:04.634Z",
-        "updatedAt": "2022-04-13T01:30:04.634Z"
-    },
-    {
-        "id": 44,
-        "email": "salman08@gmail.com",
-        "password": "$2b$10$rD2u064NM5xqJJYxkdKCVO7wbVQ//jGQxKniLgBkc05fAIv2876rK",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:30:37.721Z",
-        "updatedAt": "2022-04-13T01:30:37.721Z"
-    },
-    {
-        "id": 45,
-        "email": "ininyoba@gmail.com",
-        "password": "$2b$10$MsOJeIvtrAjimpDRoC0y0OSUiQr2vKHyTE0UJ3PNNfa4aiiLW.bnu",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:31:51.182Z",
-        "updatedAt": "2022-04-13T01:31:51.182Z"
-    },
-    {
-        "id": 46,
-        "email": "coba08@gmail.com",
-        "password": "$2b$10$ua16qekaEuyLBB/N4B54feZfUSllnY34ZWX284es9d5HR4bCIm6vi",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:32:25.898Z",
-        "updatedAt": "2022-04-13T01:32:25.898Z"
-    },
-    {
-        "id": 47,
-        "email": "testing121wa2@gmail.com",
-        "password": "$2b$10$q58meZPZYAOQZ1WZifnnzeVDVgHfyK7jHEfqyaG3Cf0J46Itljw3a",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:46:29.464Z",
-        "updatedAt": "2022-04-13T01:46:29.464Z"
-    },
-    {
-        "id": 48,
-        "email": "sopian@gmail.com",
-        "password": "$2b$10$NqKli0VU7.XJoHKUHklq0.ELAPnlS5wo8RYsWs/RYNKCle1H8InP.",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:46:39.981Z",
-        "updatedAt": "2022-04-13T01:46:39.981Z"
-    },
-    {
-        "id": 49,
-        "email": "aditya10@gmail.com",
-        "password": "$2b$10$GNOevhPZSbAE3b0brb2lBeIl0a73P6ydmX0CYT.I/SQ.aHWA0ZKmG",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:47:32.187Z",
-        "updatedAt": "2022-04-13T01:47:32.187Z"
-    },
-    {
-        "id": 50,
-        "email": "aditya10k@gmail.com",
-        "password": "$2b$10$FVf/f4E1TEAMG.7tuYxbIun1KWkoZm891G4xR8oqm50HKnRa94tke",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:47:42.683Z",
-        "updatedAt": "2022-04-13T01:47:42.683Z"
-    },
-    {
-        "id": 51,
-        "email": "aditya10k@umail.com",
-        "password": "$2b$10$WlTvQmHCu3IcWzyowCGJZunQ4K1SywgsNGH.U7XpOzSipb6vdeBuG",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:48:36.776Z",
-        "updatedAt": "2022-04-13T01:48:36.776Z"
-    },
-    {
-        "id": 52,
-        "email": "nyobapls@gmail.com",
-        "password": "$2b$10$CtZTKFKT/YGRDHPL99tYEu1X2t9hX5ejRt1qb0/NahXvNqZrDP5rq",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:48:44.787Z",
-        "updatedAt": "2022-04-13T01:48:44.787Z"
-    },
-    {
-        "id": 53,
-        "email": "aya22@gamil.com",
-        "password": "$2b$10$X8POppJLsMm6H23SStK5BeVCgbagyqLtXBezAH43B11dqgOx/1D2.",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:51:13.472Z",
-        "updatedAt": "2022-04-13T01:51:13.472Z"
-    },
-    {
-        "id": 54,
-        "email": "nuel@gmail.com",
-        "password": "$2b$10$Ms..hq5yUZ4n9xro7YFxcORSC47LvsqMbqSFrikogOxSc4py505e6",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:51:41.359Z",
-        "updatedAt": "2022-04-13T01:51:41.359Z"
-    },
-    {
-        "id": 55,
-        "email": "kau22@gmail.com",
-        "password": "$2b$10$jg3/bz2LYiIjob2UHq.f.O3hNqKKU9CT3B7JIY6UY2ID79ZuPHX6W",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:52:13.221Z",
-        "updatedAt": "2022-04-13T01:52:13.221Z"
-    },
-    {
-        "id": 56,
-        "email": "kipasangin@gmail.com",
-        "password": "$2b$10$Ls3bdmpMKE.oRbpkeVYtDuT95w/g4wTnETp0s6wuzfDWvi9LWM9zC",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:54:33.701Z",
-        "updatedAt": "2022-04-13T01:54:33.701Z"
-    },
-    {
-        "id": 57,
-        "email": "kipasngin@gmail.com",
-        "password": "$2b$10$0X0y.8UGuEd9ekcKpDbU/ehGbDwDmegVCQFUFFdfr825/wZI8OIgm",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:57:13.592Z",
-        "updatedAt": "2022-04-13T01:57:13.592Z"
-    },
-    {
-        "id": 58,
-        "email": "salim@gmail.com",
-        "password": "$2b$10$tr6Mk8XvyM9dlz09G1FCfOyPFmVJDw4vYVmH5KJx8HtQQM5arJ202",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:59:31.597Z",
-        "updatedAt": "2022-04-13T01:59:31.597Z"
-    },
-    {
-        "id": 59,
-        "email": "aqua1@gmail.com",
-        "password": "$2b$10$Nx8lgXQ.THYHzxbbkbwVzOWd.dB9EV7C56DHHdns5ObGkPaGMO1sy",
-        "role": "admin",
-        "createdAt": "2022-04-13T01:59:55.052Z",
-        "updatedAt": "2022-04-13T01:59:55.052Z"
-    },
-    {
-        "id": 60,
-        "email": "nueldude@gmail.com",
-        "password": "$2b$10$FZ0y4fuuS2Qq2PGuCnw1D.0qMsw95hXf02LJJqNxGLaqHvSV8PSlG",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:00:50.004Z",
-        "updatedAt": "2022-04-13T02:00:50.004Z"
-    },
-    {
-        "id": 61,
-        "email": "sani22@gmail.com",
-        "password": "$2b$10$PU/KwISq.7/ZIV1vjO5BXu.pvInMod72O5V9qJWhRi3EiK8QcctJK",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:03:41.506Z",
-        "updatedAt": "2022-04-13T02:03:41.506Z"
-    },
-    {
-        "id": 62,
-        "email": "kocak@gmail.com",
-        "password": "$2b$10$qYIPFY7iUQ0EL58e6RwVT.X2JjiWKCQkFg3mJOw8043XBwJv8gz.i",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:05:30.338Z",
-        "updatedAt": "2022-04-13T02:05:30.338Z"
-    },
-    {
-        "id": 63,
-        "email": "lagao@gmail.com",
-        "password": "$2b$10$3qdeU4HpMBJxQaeGcVN8Uu9DtVqeYMBwDSKBTeHNDIFKYkfUW7NOe",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:05:39.775Z",
-        "updatedAt": "2022-04-13T02:05:39.775Z"
-    },
-    {
-        "id": 64,
-        "email": "ayam@gmail.com",
-        "password": "$2b$10$NhCda96ZaTVC4RGPZMAswe/OIWX9CGjoh8XepZJ11OK2O41lTF8MK",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:07:28.265Z",
-        "updatedAt": "2022-04-13T02:07:28.265Z"
-    },
-    {
-        "id": 65,
-        "email": "kipas@gmail.com",
-        "password": "$2b$10$7dNUb7RszA52tYHXJF/mZuHhivW7iMqxK1TFD4ZNtcUz59jG.jyxW",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:08:22.457Z",
-        "updatedAt": "2022-04-13T02:08:22.457Z"
-    },
-    {
-        "id": 66,
-        "email": "nuellucu@gmail.com",
-        "password": "$2b$10$upKD4uatwrXcCsOmlSEQhexUOdysfZb.udb9w7oMRYiwsGYuNy8IC",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:11:39.422Z",
-        "updatedAt": "2022-04-13T02:11:39.422Z"
-    },
-    {
-        "id": 67,
-        "email": "aditrizky@gmail.com",
-        "password": "$2b$10$sJkflMDuRUOtcyzRx.B3e.52FTzhpxRSyCVZXnT.CZRuF5OLnLMeW",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:16:24.245Z",
-        "updatedAt": "2022-04-13T02:16:24.245Z"
-    },
-    {
-        "id": 68,
-        "email": "ayamgeprek@gmail.com",
-        "password": "$2b$10$5qDTX2NdYD8ZJ3HB2dgWteV9f.F5es3Nb6Fqoe2oYpVeh5UGfOzfa",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:18:47.775Z",
-        "updatedAt": "2022-04-13T02:18:47.775Z"
-    },
-    {
-        "id": 69,
-        "email": "test08@gmail.com",
-        "password": "$2b$10$mIclMzRjdvQY0asdE1g4XeAy6dnYeS614EMPpCc8dKbpEpSTsQYkG",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:19:46.168Z",
-        "updatedAt": "2022-04-13T02:19:46.168Z"
-    },
-    {
-        "id": 70,
-        "email": "aditriky@gmail.com",
-        "password": "$2b$10$B9sjWUP0P2HkWJT782EqA.nzp2qNU0qXk/fEYGfGH9tCwRe6adgR2",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:22:10.957Z",
-        "updatedAt": "2022-04-13T02:22:10.957Z"
-    },
-    {
-        "id": 71,
-        "email": "danajya@gmail.com",
-        "password": "$2b$10$yAm13r1lQQTiAyRlu29Ww.zX.MBPjrQZ8vy28aoQqOjFivVMW58eu",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:23:22.116Z",
-        "updatedAt": "2022-04-13T02:23:22.116Z"
-    },
-    {
-        "id": 72,
-        "email": "chance009@gmail.com",
-        "password": "$2b$10$Ma.fooNRGJhHocItOoy9LeHTxExUvTiJMmZFXylLfDNHuge4zopYK",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:23:45.912Z",
-        "updatedAt": "2022-04-13T02:23:45.912Z"
-    },
-    {
-        "id": 73,
-        "email": "aditya103@gmail.com",
-        "password": "$2b$10$NAnPb/M2g9SGyyvLkJfhC.UMyaRPwleluaQYj2wCxFHo4VsBhj.HK",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:24:08.586Z",
-        "updatedAt": "2022-04-13T02:24:08.586Z"
-    },
-    {
-        "id": 74,
-        "email": "aditdananjya@gmail.com",
-        "password": "$2b$10$J/sonnPGUtfgavgw5Ed57uEjIP5yj5dJJxb1uXH5HBaekDVFfAszO",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:31:43.830Z",
-        "updatedAt": "2022-04-13T02:31:43.830Z"
-    },
-    {
-        "id": 75,
-        "email": "gagagagag@gmail.com",
-        "password": "$2b$10$Ag.xwUJnji9u75CVBlM8T.SC1pMp8Om3EC5vYtEQPIHE4sbHbVw1S",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:31:45.081Z",
-        "updatedAt": "2022-04-13T02:31:45.081Z"
-    },
-    {
-        "id": 76,
-        "email": "popopo@gmail.com",
-        "password": "$2b$10$3ZCee.c69XIcXCUfzZVclOzXpPVh2VZhkvX9zvCScygEzyQGxBSwO",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:35:08.502Z",
-        "updatedAt": "2022-04-13T02:35:08.502Z"
-    },
-    {
-        "id": 77,
-        "email": "kuda@gmail.com",
-        "password": "$2b$10$HYwejb1ja1fc/ovV6YBna.8pNf.gnPDINzAJuQd9VBaIiSCfLAsye",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:41:40.855Z",
-        "updatedAt": "2022-04-13T02:41:40.855Z"
-    },
-    {
-        "id": 78,
-        "email": "aditya10399@gmail.com",
-        "password": "$2b$10$THkIn9gUjlOqob17oEtXqusjpnbOKNuXhNiyKOyISMT6ngEcxbboK",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:49:08.545Z",
-        "updatedAt": "2022-04-13T02:49:08.545Z"
-    },
-    {
-        "id": 79,
-        "email": "aditya10399@mail.com",
-        "password": "$2b$10$0tWB5NSwkJqQrbIaW6WefuK8HZbJRde03vyEQ0HqfEFCQkylZm.Vi",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:55:21.121Z",
-        "updatedAt": "2022-04-13T02:55:21.121Z"
-    },
-    {
-        "id": 80,
-        "email": "aqua22@gmail.com",
-        "password": "$2b$10$KD0yDuSHDVHkdXIUlJMFre.g.RpzEK4lJd2iT2Xq46sC7coAJKLf.",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:57:29.567Z",
-        "updatedAt": "2022-04-13T02:57:29.567Z"
-    },
-    {
-        "id": 81,
-        "email": "imanuwlwa@gmail.com",
-        "password": "$2b$10$.sfckZ.pxnT4Ue//FzDuN.GwCqaCZoT1a1txiw6OPWoeKsDFag0JO",
-        "role": "admin",
-        "createdAt": "2022-04-13T02:59:15.771Z",
-        "updatedAt": "2022-04-13T02:59:15.771Z"
-    },
-    {
-        "id": 82,
-        "email": "adityar1034@gmail.com",
-        "password": "$2b$10$.otVJlCi.ed3XTlHvM4wRuAPt.vtzzkxJ/2zJ0rqkRinhxVeI9GnC",
-        "role": "admin",
-        "createdAt": "2022-04-13T03:02:14.543Z",
-        "updatedAt": "2022-04-13T03:02:14.543Z"
-    },
-    {
-        "id": 83,
-        "email": "samer@gmail.com",
-        "password": "$2b$10$6aXNEXdXYjBcV.wSIcBD5O8QF15rR62uQft/38Er5ijK/aAsNmo3S",
-        "role": "admin",
-        "createdAt": "2022-04-13T03:11:24.083Z",
-        "updatedAt": "2022-04-13T03:11:24.083Z"
-    },
-    {
-        "id": 84,
-        "email": "aditya10354@gmail.com",
-        "password": "$2b$10$cBFpSShavVkG6558SBMY7.z2B0VXeks4YhMDKAop.GdeNo.i46UEm",
-        "role": "admin",
-        "createdAt": "2022-04-13T03:15:25.068Z",
-        "updatedAt": "2022-04-13T03:15:25.068Z"
-    },
-    {
-        "id": 85,
-        "email": "adityad22@gmail.com",
-        "password": "$2b$10$pK9nU7G8MkEe4gcIB./7C.6.4KqSy0xq5.VwazEJRPxWfEJh3OXMK",
-        "role": "admin",
-        "createdAt": "2022-04-13T03:17:34.610Z",
-        "updatedAt": "2022-04-13T03:17:34.610Z"
-    },
-    {
-        "id": 86,
-        "email": "adityard22@gmail.com",
-        "password": "$2b$10$m/8no7Dlz/8qopY8yyyKTuTdYWVs97vBiZxqBscdP9UV7P/klsYw6",
-        "role": "admin",
-        "createdAt": "2022-04-13T03:20:29.035Z",
-        "updatedAt": "2022-04-13T03:20:29.035Z"
-    },
-    {
-        "id": 87,
-        "email": "aditgg@gmail.com",
-        "password": "$2b$10$dVxi5/wN5OgdY9dUaVcHGO0kURS.3il5LiJu93Jb6BPInDpsTtGTK",
-        "role": "admin",
-        "createdAt": "2022-04-13T03:23:53.074Z",
-        "updatedAt": "2022-04-13T03:23:53.074Z"
-    },
-    {
-        "id": 88,
-        "email": "rizkya11@gmail.com",
-        "password": "$2b$10$/E79qsKkuTJCW/eyzgFWBuho466wgCGqFSByez17iaLj4YEY0ZI76",
-        "role": "admin",
-        "createdAt": "2022-04-13T03:32:04.833Z",
-        "updatedAt": "2022-04-13T03:32:04.833Z"
-    },
-    {
-        "id": 89,
-        "email": "garas@gmail.com",
-        "password": "$2b$10$1d9EDIOJuRuneVYVJeRLA.5s4few6CNDuORxfXCv9nomutEcDzzke",
-        "role": "admin",
-        "createdAt": "2022-04-13T03:37:43.318Z",
-        "updatedAt": "2022-04-13T03:37:43.318Z"
-    },
-    {
-        "id": 90,
-        "email": "gasra@gmail.com",
-        "password": "$2b$10$NKCOL9I/Jdow35Vkm8TDeeOnbWd.ROzoZLrUf6.y.aKr/nDaAmyaO",
-        "role": "admin",
-        "createdAt": "2022-04-13T03:39:35.241Z",
-        "updatedAt": "2022-04-13T03:39:35.241Z"
-    },
-    {
-        "id": 91,
-        "email": "irfanataukamu@gamail.com",
-        "password": "$2b$10$5AAPVKOgbwiIu.p0yBqszu1J1TTkI7LiG4eYrFSbG54BvYFu3nU5m",
-        "role": "Men",
-        "createdAt": "2022-04-13T03:43:52.743Z",
-        "updatedAt": "2022-04-13T03:43:52.743Z"
-    },
-    {
-        "id": 92,
-        "email": "ayamhjago@gmail.com",
-        "password": "$2b$10$aibO1tZzuA9n835ql5PTMeP4df1jSK7w0/CGNv5DS.m7UUyDPuNhy",
-        "role": "admin",
-        "createdAt": "2022-04-13T03:52:10.703Z",
-        "updatedAt": "2022-04-13T03:52:10.703Z"
-    },
-    {
-        "id": 93,
-        "email": "sinagac@gmail.com",
-        "password": "$2b$10$JXAia9Jc.rOHzMxzH9SiP.WEhr/PWNtnrYLZYyZBk1Pgk3M26Kv8u",
-        "role": "admin",
-        "createdAt": "2022-04-13T04:14:15.308Z",
-        "updatedAt": "2022-04-13T04:14:15.308Z"
-    },
-    {
-        "id": 94,
-        "email": "admin11@mail.com",
-        "password": "$2b$10$lulk2RuDAdg8D0d/pwMCLux6W4Ivaui7fTdcSPKdtu0ci/xUhF9ri",
-        "role": "Customer",
-        "createdAt": "2022-04-13T04:17:29.741Z",
-        "updatedAt": "2022-04-13T04:17:29.741Z"
-    },
-    {
-        "id": 95,
-        "email": "adminAND@mail.com",
-        "password": "$2b$10$qZqkN9xgSGlLLxUHC0nU.uHD6G5tiHnlvlqbSDcBrT4GkVde1AAWa",
-        "role": "Customer",
-        "createdAt": "2022-04-13T04:18:38.919Z",
-        "updatedAt": "2022-04-13T04:18:38.919Z"
-    },
-    {
-        "id": 96,
-        "email": "adminAND1@mail.com",
-        "password": "$2b$10$iSi8r3.8W8LnRGCz2Ca/CeSZ/BC.BNKszCg6V3013KWLWECHoy9FS",
-        "role": "Customer",
-        "createdAt": "2022-04-13T04:20:37.125Z",
-        "updatedAt": "2022-04-13T04:20:37.125Z"
-    },
-    {
-        "id": 97,
-        "email": "adminAND2@mail.com",
-        "password": "$2b$10$5ipuEAZoUNWhGcwoSaAJX.gxZZTRsImDtJmlwv3dyTjicVabquQni",
-        "role": "Customer",
-        "createdAt": "2022-04-13T04:26:57.767Z",
-        "updatedAt": "2022-04-13T04:26:57.767Z"
-    },
-    {
-        "id": 98,
-        "email": "adminAND3@mail.com",
-        "password": "$2b$10$XmbX9exdZgNhRvIatsfwiupPcMmkZgxS77BfIc8KSsVxc.jeTzMZO",
-        "role": "admin",
-        "createdAt": "2022-04-13T04:28:50.598Z",
-        "updatedAt": "2022-04-13T04:28:50.598Z"
-    },
-    {
-        "id": 99,
-        "email": "adminAND4@mail.com",
-        "password": "$2b$10$uQS/oHRf3WUZmmi/YqWi/eg/riUcla0I4VQyeTUouw.rnL1xlDNfq",
-        "role": "admin",
-        "createdAt": "2022-04-13T04:30:22.007Z",
-        "updatedAt": "2022-04-13T04:30:22.007Z"
-    },
-    {
-        "id": 100,
-        "email": "adminAND5@mail.com",
-        "password": "$2b$10$jZHjAOEDeRQ971CHyqLGQu3m3LSt2nS9IRgD16s71sT5WtE2VR7b2",
-        "role": "admin",
-        "createdAt": "2022-04-13T04:32:58.962Z",
-        "updatedAt": "2022-04-13T04:32:58.962Z"
-    },
-    {
-        "id": 101,
-        "email": "asri22@gmail.com",
-        "password": "$2b$10$qXlAfgZJc3BadvgsiucVZ.lDjyMcyPU1ziaUtRUaktEu4Wy5M58u2",
-        "role": "admin",
-        "createdAt": "2022-04-13T07:22:09.440Z",
-        "updatedAt": "2022-04-13T07:22:09.440Z"
-    },
-    {
-        "id": 102,
-        "email": "balad22@gmail.com",
-        "password": "$2b$10$2CyxiIRE4D613fyjLSwVQeeslKMwhUtZh5RsxYzN08HuonBXzhaM6",
-        "role": "admin",
-        "createdAt": "2022-04-13T07:37:12.692Z",
-        "updatedAt": "2022-04-13T07:37:12.692Z"
-    },
-    {
-        "id": 103,
-        "email": "adiya157775@gmail.com",
-        "password": "$2b$10$YQWMBvjJp2YB9/UHonJhjea/kebg14G00bJcFujfv5v3r26VeUE7q",
-        "role": "admin",
-        "createdAt": "2022-04-13T07:42:48.195Z",
-        "updatedAt": "2022-04-13T07:42:48.195Z"
-    },
-    {
-        "id": 104,
-        "email": "adtyar1414@gmail.com",
-        "password": "$2b$10$s9jEWhBYHbrOAdNUxtW1BOuiqbOVbAb8nBKChwW/p5YTOqU9AENXq",
-        "role": "admin",
-        "createdAt": "2022-04-13T07:47:54.256Z",
-        "updatedAt": "2022-04-13T07:47:54.256Z"
-    },
-    {
-        "id": 105,
-        "email": "adityard212@gmail.com",
-        "password": "$2b$10$3VkXEvCHBlzxFh0I.PopJ.DuyX6w4xC7Fw9u0r6IZi9nSAwvWvkvO",
-        "role": "admin",
-        "createdAt": "2022-04-13T08:07:25.259Z",
-        "updatedAt": "2022-04-13T08:07:25.259Z"
-    },
-    {
-        "id": 106,
-        "email": "gagakww22@gmail.com",
-        "password": "$2b$10$fBzf3texrM3BjGoK1TBVk.uhr1E1vy8q0ARXkeoRXkiGKAA7v0PqG",
-        "role": "admin",
-        "createdAt": "2022-04-13T08:13:22.744Z",
-        "updatedAt": "2022-04-13T08:13:22.744Z"
-    },
-    {
-        "id": 107,
-        "email": "haidar@gmail.com",
-        "password": "$2b$10$1Swsg.vuEin6AFrACTang.gEypPVetNIzs2yrH2koRzNfQnBOkm4K",
-        "role": "admin",
-        "createdAt": "2022-04-13T08:16:30.988Z",
-        "updatedAt": "2022-04-13T08:16:30.988Z"
-    },
-    {
-        "id": 108,
-        "email": "aditya1034444@gmail.com",
-        "password": "$2b$10$pQ4Jsaz4uF6Ox36UfqNpSekQ.2zpq64aTbwv7/fqhCLRc0zLgf8PK",
-        "role": "admin",
-        "createdAt": "2022-04-13T08:18:21.335Z",
-        "updatedAt": "2022-04-13T08:18:21.335Z"
-    },
-    {
-        "id": 109,
-        "email": "mongkies127@gmail.com",
-        "password": "$2b$10$S/a1Fno/m3I.0hc0RAAEOuXhzpYyIq9hL/zeapKlTJmUeftgMfNEG",
-        "role": "admin",
-        "createdAt": "2022-04-13T08:33:40.986Z",
-        "updatedAt": "2022-04-13T08:33:40.986Z"
-    },
-    {
-        "id": 110,
-        "email": "irfanaris771@gmail.com",
-        "password": "$2b$10$aVZTEUBZDJwFzkYGZDnxLun3Qe6bLzgw8MurSBSHDU2IkknrXRiW2",
-        "role": "admin",
-        "createdAt": "2022-04-13T08:38:30.517Z",
-        "updatedAt": "2022-04-13T08:38:30.517Z"
-    },
-    {
-        "id": 111,
-        "email": "Mongkis126@gmail.com",
-        "password": "$2b$10$NY3jnXxwN31yd/AeV/mIbe199ctmqZcHvLl5oLghFrCQMR.FJIs/q",
-        "role": "admin",
-        "createdAt": "2022-04-13T08:39:09.467Z",
-        "updatedAt": "2022-04-13T08:39:09.467Z"
-    },
-    {
-        "id": 112,
-        "email": "irfanarbbsnsj@gmail.com",
-        "password": "$2b$10$c8ZueGDamuoX0zuK/B.nrOnQt3A1Bj2ZQYZhpj0xA1/6p3Gn1c8.C",
-        "role": "admin",
-        "createdAt": "2022-04-13T08:42:38.464Z",
-        "updatedAt": "2022-04-13T08:42:38.464Z"
-    },
-    {
-        "id": 113,
-        "email": "yusril@gmail.com",
-        "password": "$2b$10$l3uuyTmMfugNy0pg/na9OOEWKt3qMSzihyP.wXjQijphj4.UkUCrG",
-        "role": "admin",
-        "createdAt": "2022-04-13T08:43:50.646Z",
-        "updatedAt": "2022-04-13T08:43:50.646Z"
-    },
-    {
-        "id": 114,
-        "email": "tyygvcjj@gmail.com",
-        "password": "$2b$10$stbuceYzLEHl6U4ZDX1tyuxFFo/639h2obSmLORNi3mk9ZVm6KHlu",
-        "role": "admin",
-        "createdAt": "2022-04-13T08:46:44.004Z",
-        "updatedAt": "2022-04-13T08:46:44.004Z"
-    },
-    {
-        "id": 115,
-        "email": "vbznznbzb@gmail.com",
-        "password": "$2b$10$pP4WxtNCD/6jezeUCrQZA.gawrrwUkEGDpuzd67l69Yf4i85MJcVu",
-        "role": "admin",
-        "createdAt": "2022-04-13T08:49:02.536Z",
-        "updatedAt": "2022-04-13T08:49:02.536Z"
-    },
-    {
-        "id": 116,
-        "email": "afari@gmail.com",
-        "password": "$2b$10$BwLjMp3oLu3uDZ9fJNcSCuED4ahOLjrRcvAXfMjexK1mXH.5NCOOW",
-        "role": "admin",
-        "createdAt": "2022-04-13T09:02:57.888Z",
-        "updatedAt": "2022-04-13T09:02:57.888Z"
-    },
-    {
-        "id": 117,
-        "email": "aditya66@hotmail.com",
-        "password": "$2b$10$.Ss2HPTdnAlZPJl3ER572eVwgmyWonUcrElmkqn8A9ZhbUcCH9zK2",
-        "role": "admin",
-        "createdAt": "2022-04-13T09:10:09.418Z",
-        "updatedAt": "2022-04-13T09:10:09.418Z"
-    },
-    {
-        "id": 118,
-        "email": "adityagg21@gmail.com",
-        "password": "$2b$10$dUhbpaj0y67LoBwrxsVd2e3/VIn44mlxbaoyDiplojpw3Odo2oLIq",
-        "role": "admin",
-        "createdAt": "2022-04-13T13:58:20.849Z",
-        "updatedAt": "2022-04-13T13:58:20.849Z"
-    },
-    {
-        "id": 119,
-        "email": "adminAND11@mail.com",
-        "password": "$2b$10$4VizKbPgG/jtYhXT2VrQK.mFTc2wPT/u7c5YY64JhNMy4.Dumcid2",
-        "role": "admin",
-        "createdAt": "2022-04-13T14:34:44.793Z",
-        "updatedAt": "2022-04-13T14:34:44.793Z"
-    },
-    {
-        "id": 120,
-        "email": "email@email.com",
-        "password": "$2b$10$4aXnZ/hMxHRyhTIeijx/2ermB33hc3OeG8NAAJuJXdfJVLqPEwZq2",
-        "role": "admin",
-        "createdAt": "2022-04-13T14:35:47.615Z",
-        "updatedAt": "2022-04-13T14:35:47.615Z"
-    },
-    {
-        "id": 121,
-        "email": "adminAND12@mail.com",
-        "password": "$2b$10$QqIWgT43lxQCQshSdVx87uDebLbRAkiYo6oMjq.aqxhQiJH.ttX1e",
-        "role": "admin",
-        "createdAt": "2022-04-13T14:42:52.596Z",
-        "updatedAt": "2022-04-13T14:42:52.596Z"
-    },
-    {
-        "id": 122,
-        "email": "admin1@mail.com",
-        "password": "$2b$10$gT190DTdISvnyuLL0wIqV.WUwP0eQmxHPdMLhDZioXYQgbp4eiAvO",
-        "role": "admin",
-        "createdAt": "2022-04-13T14:47:54.594Z",
-        "updatedAt": "2022-04-13T14:47:54.594Z"
-    },
-    {
-        "id": 123,
-        "email": "admin123@mail.com",
-        "password": "$2b$10$ucUoIrmwHaIjCggnbQGVMuKp6LijIcHlllQjl2hLEoQdjewUujQeu",
-        "role": "admin",
-        "createdAt": "2022-04-13T14:54:40.398Z",
-        "updatedAt": "2022-04-13T14:54:40.398Z"
-    },
-    {
-        "id": 124,
-        "email": "admin12@mail.com",
-        "password": "$2b$10$J07vfBqhc7Jgyau2aB0J6.EIQF3vJi/0Hb4XaEmbXhT3QButGfNcK",
-        "role": "admin",
-        "createdAt": "2022-04-13T15:02:48.996Z",
-        "updatedAt": "2022-04-13T15:02:48.996Z"
-    },
-    {
-        "id": 125,
-        "email": "adminAND222@mail.com",
-        "password": "$2b$10$Pk4nFNmkul1dc7SbcSsnEeUwA7V0wJzjdmOPYqhq0casufnv2SbjK",
-        "role": "admin",
-        "createdAt": "2022-04-13T15:25:02.766Z",
-        "updatedAt": "2022-04-13T15:25:02.766Z"
-    },
-    {
-        "id": 126,
-        "email": "7vh@gmail.com",
-        "password": "$2b$10$rETfwrdMa67rqNpUPNQyIOs.VnudADbY1sd1W3C9GhH9oJzEsB2Oa",
-        "role": "admin",
-        "createdAt": "2022-04-13T15:41:52.684Z",
-        "updatedAt": "2022-04-13T15:41:52.684Z"
-    },
-    {
-        "id": 127,
-        "email": "Nameishsj@gmail.com",
-        "password": "$2b$10$qQbxfLuWNFzk2vwknV1NRudqBkaF.xS.aXnmxxKiDyrMcxwmOjsQG",
-        "role": "admin",
-        "createdAt": "2022-04-13T15:44:16.874Z",
-        "updatedAt": "2022-04-13T15:44:16.874Z"
-    },
-    {
-        "id": 128,
-        "email": "Nameishysj@gmail.com",
-        "password": "$2b$10$o9UZOCQkbYjhWwrhVkaOFuB0tuhxmUmzHiMPhukqkVDoEoh2Onrke",
-        "role": "admin",
-        "createdAt": "2022-04-13T15:44:32.436Z",
-        "updatedAt": "2022-04-13T15:44:32.436Z"
-    },
-    {
-        "id": 129,
-        "email": "Nam5d6c@gmail.com",
-        "password": "$2b$10$kdyYi4R5xrBKMyhkwYg39epO4kjaXZ4oNJPAORaIqLwCWU7Hw23AG",
-        "role": "admin",
-        "createdAt": "2022-04-13T15:49:41.178Z",
-        "updatedAt": "2022-04-13T15:49:41.178Z"
-    },
-    {
-        "id": 130,
-        "email": "Name7v7v@gmail.com",
-        "password": "$2b$10$E9uOU18a5ync.BOeLHBucOnHrSfOOqZguzKfWwh4IFuj8yzfPAqFW",
-        "role": "admin",
-        "createdAt": "2022-04-13T15:50:49.449Z",
-        "updatedAt": "2022-04-13T15:50:49.449Z"
-    },
-    {
-        "id": 131,
-        "email": "adminAND223@mail.com",
-        "password": "$2b$10$lonjUo9quoDl3GCBQaY87.bjqlMMH/9lSQagdUTpUqesQ09mw0wda",
-        "role": "admin",
-        "createdAt": "2022-04-13T15:58:10.692Z",
-        "updatedAt": "2022-04-13T15:58:10.692Z"
-    },
-    {
-        "id": 132,
-        "email": "Nikontol@gmail.com",
-        "password": "$2b$10$1mOMT4FH3LZYVAwLuZwe/.d05Jc.RUroynhekGZdfpmexycacM2dm",
-        "role": "admin",
-        "createdAt": "2022-04-13T15:59:17.234Z",
-        "updatedAt": "2022-04-13T15:59:17.234Z"
-    },
-    {
-        "id": 133,
-        "email": "admin@gmail.com",
-        "password": "$2b$10$6r6is2iNu9pSPvY6yeImteCTZm59DtQEkIVamwBADKxw6XDPfPewu",
-        "role": "admin10",
-        "createdAt": "2022-04-13T16:36:04.326Z",
-        "updatedAt": "2022-04-13T16:36:04.326Z"
-    },
-    {
-        "id": 134,
-        "email": "rafly@gmail.com",
-        "password": "$2b$10$qMQdu6tyoOFQDxOx05SMIu4FOsVIBEvM8EBMxcVtQkc/SfF7.vBRC",
-        "role": "Customer",
-        "createdAt": "2022-04-13T16:38:49.608Z",
-        "updatedAt": "2022-04-13T16:38:49.608Z"
-    },
-    {
-        "id": 135,
-        "email": "aldi7.indo@gmail.com",
-        "password": "$2b$10$AGcINMiB0Qym9T1lfQP/QOVojjql2/3.Fsh1kKfTmkzA/KSGCCSnq",
-        "role": "admin",
-        "createdAt": "2022-04-13T17:18:07.811Z",
-        "updatedAt": "2022-04-13T17:18:07.811Z"
-    },
-    {
-        "id": 136,
-        "email": "aldi7.id@gmail.com",
-        "password": "$2b$10$hRJPOb1FbvSje.3SvVaoNuFi5ewmdxS.9..Wm85fNMK2xu09gvwh.",
-        "role": "admin",
-        "createdAt": "2022-04-13T17:18:14.372Z",
-        "updatedAt": "2022-04-13T17:18:14.372Z"
-    },
-    {
-        "id": 137,
-        "email": "aldi@googl.com",
-        "password": "$2b$10$1SO/6YIntyhIf4ApmQXnUu87HEmpRwE1s/FTa8ZZ5vdZ4rzWzhrPS",
-        "role": "admin",
-        "createdAt": "2022-04-13T17:18:31.276Z",
-        "updatedAt": "2022-04-13T17:18:31.276Z"
-    },
-    {
-        "id": 138,
-        "email": "admin115212@mail.com",
-        "password": "$2b$10$5EOgyd3Cu9ouuZqOjm0Vm.w8OpZhuF9I39Syma48oyH18yiPSH7iS",
-        "role": "admin",
-        "createdAt": "2022-04-13T17:20:29.789Z",
-        "updatedAt": "2022-04-13T17:20:29.789Z"
-    },
-    {
-        "id": 139,
-        "email": "test@test.com",
-        "password": "$2b$10$wHkgDHulpW2ef8BiAiqNUO4ZNgFlI3OdU56ftts6961eKx7OKDqS.",
-        "role": "admin",
-        "createdAt": "2022-04-13T17:21:12.780Z",
-        "updatedAt": "2022-04-13T17:21:12.780Z"
-    },
-    {
-        "id": 140,
-        "email": "admin789@mail.com",
-        "password": "$2b$10$MKLt7i9ZsrxBZZk/6gHcQOIm3H5htU.SpDbk6BtjhSpzsT1qd5.xO",
-        "role": "admin",
-        "createdAt": "2022-04-13T17:24:40.292Z",
-        "updatedAt": "2022-04-13T17:24:40.292Z"
-    },
-    {
-        "id": 141,
-        "email": "yaumul11008080@webmail.uad.ac.id",
-        "password": "$2b$10$r5SKkWHfMpXbIKMMFyhM0eJXuoURMy5Zdpir6pqEUGE.y6HXs1CIm",
-        "role": "admin",
-        "createdAt": "2022-04-13T17:34:58.320Z",
-        "updatedAt": "2022-04-13T17:34:58.320Z"
-    },
-    {
-        "id": 142,
-        "email": "musnadil@mail.com",
-        "password": "$2b$10$6Wuo10IwzmgtsI5zo1fJJ.uFaPu1tp/NyM431ni39UnW3Ikgi1zJK",
-        "role": "admin",
-        "createdAt": "2022-04-13T17:36:59.242Z",
-        "updatedAt": "2022-04-13T17:36:59.242Z"
-    },
-    {
-        "id": 143,
-        "email": "berhasil@gmail.com",
-        "password": "$2b$10$frgSZPraNDPZQqL1NFTw2u8gAsUbd6Rzuw83lk2ylZmeiJqZZh3GS",
-        "role": "admin",
-        "createdAt": "2022-04-13T17:38:58.188Z",
-        "updatedAt": "2022-04-13T17:38:58.188Z"
-    },
-    {
-        "id": 144,
-        "email": "sulthan@gmail.com",
-        "password": "$2b$10$aGgtUuN6GCxlWh99cuNK1Orptpst1sIjlU7actfqY1nNMXn8L38T.",
-        "role": "admin",
-        "createdAt": "2022-04-13T18:34:48.436Z",
-        "updatedAt": "2022-04-13T18:34:48.436Z"
-    },
-    {
-        "id": 145,
-        "email": "Sulthan@gmail.com",
-        "password": "$2b$10$/gl64JuzInkLThCfse8hcOFA4DSkbYpraHWHIRR91tFvna8MbXDB2",
-        "role": "admin",
-        "createdAt": "2022-04-13T18:36:22.383Z",
-        "updatedAt": "2022-04-13T18:36:22.383Z"
-    },
-    {
-        "id": 146,
-        "email": "isna@gmail.com",
-        "password": "$2b$10$ax2PYq.5P9jXeR956xEJS.vNUVvr3ZY2ajfhfDDzBgoMhRThpBWrW",
-        "role": "admin",
-        "createdAt": "2022-04-13T18:46:40.867Z",
-        "updatedAt": "2022-04-13T18:46:40.867Z"
-    },
-    {
-        "id": 147,
-        "email": "udin@gmail.com",
-        "password": "$2b$10$UsnNqWKp5EnsA/omG1I86u3qRzRTWLSrFq2eYaf7zQF3zlB9lyJTW",
-        "role": "admin",
-        "createdAt": "2022-04-13T19:59:54.700Z",
-        "updatedAt": "2022-04-13T19:59:54.700Z"
-    },
-    {
-        "id": 148,
-        "email": "asep@gmail.com",
-        "password": "$2b$10$DM5ZIJyE8704/lL/RkSA5.7AfPOs0.5Vpr2WT3V7jBDdLldqpI9Lm",
-        "role": "admin",
-        "createdAt": "2022-04-13T20:16:31.265Z",
-        "updatedAt": "2022-04-13T20:16:31.265Z"
-    },
-    {
-        "id": 149,
-        "email": "uajsj@gmail.com",
-        "password": "$2b$10$mMBak/ZJy3hndEjVP1UBsOlnRsNIcYZGM2ZfCFPa7vwtu4.wqO5ay",
-        "role": "admin",
-        "createdAt": "2022-04-13T20:56:23.098Z",
-        "updatedAt": "2022-04-13T20:56:23.098Z"
-    },
-    {
-        "id": 150,
-        "email": "hai@gmail.com",
-        "password": "$2b$10$1h/zTAIMCvVrjvaovhJm8.wcFlCtsTBf.SzSOuHi1VeXeE8HBdayO",
-        "role": "admin",
-        "createdAt": "2022-04-14T00:43:18.672Z",
-        "updatedAt": "2022-04-14T00:43:18.672Z"
-    },
-    {
-        "id": 151,
-        "email": "zans@yahoo.com",
-        "password": "$2b$10$r3YPXxg65KLE1oZAk19Ege/.Fe9PPuzHFQzgj33bgSLyppXffZNRC",
-        "role": null,
-        "createdAt": "2022-04-14T00:52:01.729Z",
-        "updatedAt": "2022-04-14T00:52:01.729Z"
-    },
-    {
-        "id": 152,
-        "email": "febrianto02@gmail.com",
-        "password": "$2b$10$Uj9sUEyfsa/21zCC5GdEzOLp0pBkp88yFHhBjD8ru/VauvbxXn2Cy",
-        "role": "admin",
-        "createdAt": "2022-04-14T02:51:42.327Z",
-        "updatedAt": "2022-04-14T02:51:42.327Z"
-    },
-    {
-        "id": 153,
-        "email": "koirulanwar98@gmail.com",
-        "password": "$2b$10$2FkGsl2PErJG3JtraubkZutU4G1nUzP27xg6TTPu94hKFUA7LQvpm",
-        "role": "admin",
-        "createdAt": "2022-04-14T05:05:10.929Z",
-        "updatedAt": "2022-04-14T05:05:10.929Z"
-    },
-    {
-        "id": 154,
-        "email": "admn@mail.com",
-        "password": "$2b$10$7oSSDuyS84gg9soS2elku.SP/zgiYY0cIch81Gw/Id.Nunxh0FL6C",
-        "role": "admin",
-        "createdAt": "2022-04-14T07:06:35.633Z",
-        "updatedAt": "2022-04-14T07:06:35.633Z"
-    },
-    {
-        "id": 155,
-        "email": "Musnadil@mail.com",
-        "password": "$2b$10$yAVXFtd37oeCPvdOOoPnp.EA99ahu0dp5wv1uJmGZtIs3TnECax/y",
-        "role": "admin",
-        "createdAt": "2022-04-14T07:35:20.525Z",
-        "updatedAt": "2022-04-14T07:35:20.525Z"
-    },
-    {
-        "id": 156,
-        "email": "asdjkashdjfas@mail.com",
-        "password": "$2b$10$p/apj1LT3HZqhl5R0LXr6uqVfe5yJcChLrploX.82k58RjuSmenEG",
-        "role": "admin",
-        "createdAt": "2022-04-14T07:35:35.008Z",
-        "updatedAt": "2022-04-14T07:35:35.008Z"
-    },
-    {
-        "id": 157,
-        "email": "admna@mail.com",
-        "password": "$2b$10$gRs8JOJUslEujUm7aiF32.65QrZ9KF3o92b/0V8b3.3JJC3dqLMNy",
-        "role": "admin",
-        "createdAt": "2022-04-14T07:39:52.422Z",
-        "updatedAt": "2022-04-14T07:39:52.422Z"
-    },
-    {
-        "id": 158,
-        "email": "admna@gmail.com",
-        "password": "$2b$10$okXWkQeN53pqio3GoRZnmupIO5RFJnpE94gCMUcUumldQn8LBDfp2",
-        "role": "admin",
-        "createdAt": "2022-04-14T07:40:15.311Z",
-        "updatedAt": "2022-04-14T07:40:15.311Z"
-    },
-    {
-        "id": 159,
-        "email": "klkl@gmail.com",
-        "password": "$2b$10$bYANqxLOX./UrIPG.oobkO84UiU9JnbLazhuvoxptl.z4Tt12Jfzi",
-        "role": "admin",
-        "createdAt": "2022-04-14T07:57:55.286Z",
-        "updatedAt": "2022-04-14T07:57:55.286Z"
-    },
-    {
-        "id": 160,
-        "email": "user@mail.com",
-        "password": "$2b$10$MG2ybCfhNduhDC4o4YX.f.FjnOd46DzvIWTfhPLez3RfCeb6LsB.6",
-        "role": "admin",
-        "createdAt": "2022-04-14T08:05:25.665Z",
-        "updatedAt": "2022-04-14T08:05:25.665Z"
-    },
-    {
-        "id": 161,
-        "email": "firman@gmail.com",
-        "password": "$2b$10$yogG02QGixVVLGatUJo7M.fW/.f2HnLH0x0LS.vnLIqGVM5lphh.6",
-        "role": "admin",
-        "createdAt": "2022-04-14T08:11:54.331Z",
-        "updatedAt": "2022-04-14T08:11:54.331Z"
-    },
-    {
-        "id": 162,
-        "email": "nanangarif404@gmail.com",
-        "password": "$2b$10$qs.pZG9HEPfSjhQ2UW4J3eHsrgZoHRb5402kUHCrYFqKsCgKYiUvS",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:07:53.736Z",
-        "updatedAt": "2022-04-14T15:07:53.736Z"
-    },
-    {
-        "id": 163,
-        "email": "cek@mail.com",
-        "password": "$2b$10$41WOs8R25kgFxZkDUrJ3KezYvZ6RMrNIDijzzVoaV5ovrHNi0Ey.m",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:09:01.363Z",
-        "updatedAt": "2022-04-14T15:09:01.363Z"
-    },
-    {
-        "id": 164,
-        "email": "admingj@mail.com",
-        "password": "$2b$10$529JAlZmtwx5MvYwVZ4NEuczXyyKyCYZgcl4Y/hLRLvbEgBs7XZUm",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:24:30.291Z",
-        "updatedAt": "2022-04-14T15:24:30.291Z"
-    },
-    {
-        "id": 165,
-        "email": "lim123@gmail.com",
-        "password": "$2b$10$L/du8RSuVwQyyOYg45L85.IkETLqSQjSshHq3HA1uIYJsJkXmv9GK",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:28:26.574Z",
-        "updatedAt": "2022-04-14T15:28:26.574Z"
-    },
-    {
-        "id": 166,
-        "email": "limfd@gmail.com",
-        "password": "$2b$10$zGkS58xlmC/e2MO4R7ef6OxAscJvdarfk9t3BRjzRGP6mGNsFXPs.",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:30:54.321Z",
-        "updatedAt": "2022-04-14T15:30:54.321Z"
-    },
-    {
-        "id": 167,
-        "email": "tsting@mail.com",
-        "password": "$2b$10$pc5JTRIywHaUa.gy2I/Iru8wMN.LvY7m3aIVF1tq2CZRjRApngh1q",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:36:34.891Z",
-        "updatedAt": "2022-04-14T15:36:34.891Z"
-    },
-    {
-        "id": 168,
-        "email": "tsting123@mail.com",
-        "password": "$2b$10$Z6B.EYiglRMSjoayjnfHnO8bpBFgvFB2p00gkf/zk.F/q51LQb4v2",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:36:39.379Z",
-        "updatedAt": "2022-04-14T15:36:39.379Z"
-    },
-    {
-        "id": 169,
-        "email": "tsting123asd@mail.com",
-        "password": "$2b$10$Abupy/1sfbxitrnPQ2jx6uvRriMqRk2N8MktxK.4G7Mafj2rWF3uS",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:36:42.477Z",
-        "updatedAt": "2022-04-14T15:36:42.477Z"
-    },
-    {
-        "id": 170,
-        "email": "tsting123asdasd@mail.com",
-        "password": "$2b$10$rIrIMrxF/m9o1LJUg3UAV.5Omot2ecXV2oRBY6xPIAQhNgBczjrkC",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:36:47.387Z",
-        "updatedAt": "2022-04-14T15:36:47.387Z"
-    },
-    {
-        "id": 171,
-        "email": "tsting123asdasdasd@mail.com",
-        "password": "$2b$10$BHtCrqFFp6LWBjPOBs1cROFREwuAGE5fvM1p1fiuDckgZiAt./Vb2",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:36:52.085Z",
-        "updatedAt": "2022-04-14T15:36:52.085Z"
-    },
-    {
-        "id": 172,
-        "email": "tsting123asdasdasdasd@mail.com",
-        "password": "$2b$10$9jdGS1Nxb9DTIyP5U0tQo.DtCPfrfdxh.52oyvPUPaefeEdR.38cm",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:36:59.233Z",
-        "updatedAt": "2022-04-14T15:36:59.233Z"
-    },
-    {
-        "id": 173,
-        "email": "tsting123asddasd@mail.com",
-        "password": "$2b$10$rQcl4n2lbCQo37djwkd6vOrakpP5rcS05NgLgpBjI0qkSDF9IAqNq",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:37:09.741Z",
-        "updatedAt": "2022-04-14T15:37:09.741Z"
-    },
-    {
-        "id": 174,
-        "email": "tsting123asddasd123@mail.com",
-        "password": "$2b$10$.BuThs2b1LzZ.PU/2uu6DOYswMGSm5QbVFb8PBF7U9HZIblEyrDu2",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:37:18.750Z",
-        "updatedAt": "2022-04-14T15:37:18.750Z"
-    },
-    {
-        "id": 175,
-        "email": "adminAND16@mail.com",
-        "password": "$2b$10$4a2GuG6hbmS3PG5QX7wu/OE.MJQGUK29rD0YQSc9hvL9ll3zD3aAW",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:39:01.250Z",
-        "updatedAt": "2022-04-14T15:39:01.250Z"
-    },
-    {
-        "id": 176,
-        "email": "admin1234@mail.com",
-        "password": "$2b$10$crAyU1UDfCI59lzUOYZuo.B6EIwb.LIk6jD6PcCEDFdZgQj/z4l76",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:40:06.569Z",
-        "updatedAt": "2022-04-14T15:40:06.569Z"
-    },
-    {
-        "id": 177,
-        "email": "asd134567890@gmail.com",
-        "password": "$2b$10$NtWpYKHYqfrOaaBs6caWcuxTUmTll.pxoVj39RGpRMUC.6yTJ0Yum",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:40:11.265Z",
-        "updatedAt": "2022-04-14T15:40:11.265Z"
-    },
-    {
-        "id": 178,
-        "email": "asd134567890asd@gmail.com",
-        "password": "$2b$10$bF11BnkoFTeq4yIZ7.SfL.MN6sQS5JvBblvjhXtlzZrSM2lHRHnOe",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:40:15.262Z",
-        "updatedAt": "2022-04-14T15:40:15.262Z"
-    },
-    {
-        "id": 179,
-        "email": "asd134567890asdasd@gmail.com",
-        "password": "$2b$10$S0r7iO2S7qfKY32N0ty79.wqCqx70IQdXz8FrUnW4ierO50gDYnFm",
-        "role": "admin",
-        "createdAt": "2022-04-14T15:40:17.226Z",
-        "updatedAt": "2022-04-14T15:40:17.226Z"
-    },
-    {
-        "id": 180,
-        "email": "firmananhar09@gmail.com",
-        "password": "$2b$10$Llej7AuOuf9q6nhPAuXn5u4KNgT44VwVwP9bFcog1zDPd7togH5uS",
-        "role": "admin",
-        "createdAt": "2022-04-14T16:12:36.946Z",
-        "updatedAt": "2022-04-14T16:12:36.946Z"
-    },
-    {
-        "id": 181,
-        "email": "kgjn2612@gmail.com",
-        "password": "$2b$10$GrCOvA7w7dN7EMZBQAAhHeSbiaLMuz22kJfF8/nROLPbOGmhL5M/W",
-        "role": "admin",
-        "createdAt": "2022-04-14T16:15:03.042Z",
-        "updatedAt": "2022-04-14T16:15:03.042Z"
-    },
-    {
-        "id": 182,
-        "email": "zeti@gmail.com",
-        "password": "$2b$10$ETMbgZvyjyWAsbYOnCzfh.SDuG/.Q/kudmfEEGdkmta2VeoooTTQ2",
-        "role": "admin",
-        "createdAt": "2022-04-14T16:15:13.099Z",
-        "updatedAt": "2022-04-14T16:15:13.099Z"
-    },
-    {
-        "id": 183,
-        "email": "firdausanhar09@gmail.com",
-        "password": "$2b$10$cfaqD.dhwFrPgw/pcpHMJOnMcFpDTlSRCpsaVifZVOyDRxQ4k0BTG",
-        "role": "admin",
-        "createdAt": "2022-04-14T16:22:03.145Z",
-        "updatedAt": "2022-04-14T16:22:03.145Z"
-    },
-    {
-        "id": 184,
-        "email": "firdausanhar090@gmail.com",
-        "password": "$2b$10$tu/ZJ4YmDQlD.EdwUlH.xOhWUA10QnXPd8K21gexRCH2bENKgpz6W",
-        "role": "admin",
-        "createdAt": "2022-04-14T16:22:09.978Z",
-        "updatedAt": "2022-04-14T16:22:09.978Z"
-    },
-    {
-        "id": 185,
-        "email": "firdausanhar09000@gmail.com",
-        "password": "$2b$10$IDSN28PTkTqC0ZJi1U5SN.fx2DPBWdW3u7ivPBirm.9j9LCsP67Gi",
-        "role": "admin",
-        "createdAt": "2022-04-14T16:22:14.510Z",
-        "updatedAt": "2022-04-14T16:22:14.510Z"
-    },
-    {
-        "id": 186,
-        "email": "mail@mail.com",
-        "password": "$2b$10$AdBr.SzeoBIUaXDfBmEOl.NeZR3zqkOTpmDr9SvqKEmXwaw9IAVy6",
-        "role": "admin",
-        "createdAt": "2022-04-14T16:24:28.446Z",
-        "updatedAt": "2022-04-14T16:24:28.446Z"
-    },
-    {
-        "id": 187,
-        "email": "fafirmansyah20@gmail.commm",
-        "password": "$2b$10$u3RuQqFfZEvjjuuRwTowcO6JfHARKuYtXF7lu1Zriw1W/JKTRaQlm",
-        "role": "admin",
-        "createdAt": "2022-04-14T16:26:02.695Z",
-        "updatedAt": "2022-04-14T16:26:02.695Z"
-    },
-    {
-        "id": 188,
-        "email": "maiel@mail.com",
-        "password": "$2b$10$biMXeUf.VZbrC9D/VSC7iuE9gqNQevKfriAvJxAs49gHpGiJTTR5e",
-        "role": "admin",
-        "createdAt": "2022-04-14T16:26:18.400Z",
-        "updatedAt": "2022-04-14T16:26:18.400Z"
-    },
-    {
-        "id": 189,
-        "email": "agusgimang@gmail.com",
-        "password": "$2b$10$0NbvgxL93n4rqedqT3fu6eDOh0rAGLN.BGwI21WYLOdFQN5xhwapC",
-        "role": "admin",
-        "createdAt": "2022-04-14T16:27:08.267Z",
-        "updatedAt": "2022-04-14T16:27:08.267Z"
-    },
-    {
-        "id": 190,
-        "email": "agusgimangwwww123@gmail.com",
-        "password": "$2b$10$c3uSdaxSZHoLDxvr2dRtC.vo/VwP9sddHLcIST7ZG5vG8IJiHc86W",
-        "role": "admin",
-        "createdAt": "2022-04-14T16:27:20.949Z",
-        "updatedAt": "2022-04-14T16:27:20.949Z"
-    },
-    {
-        "id": 191,
-        "email": "naruto1234qwer@gmail.com",
-        "password": "$2b$10$at2/MwXkE62dftL.gz20mOM.NkRYLhJ0ao9iWTnWQaXCgdYVzt78O",
-        "role": "admin",
-        "createdAt": "2022-04-14T16:29:13.421Z",
-        "updatedAt": "2022-04-14T16:29:13.421Z"
-    },
-    {
-        "id": 192,
-        "email": "test@mail.com",
-        "password": "$2b$10$vhUk3AmcUZe7lUgMGddaFuU5oIreAjpeZJbRjByeuxItjc94ViK5G",
-        "role": "admin",
-        "createdAt": "2022-04-14T16:50:13.047Z",
-        "updatedAt": "2022-04-14T16:50:13.047Z"
-    },
-    {
-        "id": 193,
-        "email": "android2@mail.com",
-        "password": "$2b$10$h7Lk.qnTdpYVYOYRKtcyUuJyHou6Le.HDsL7NAs2xI6MVm9q9SKdm",
-        "role": "admin",
-        "createdAt": "2022-04-14T16:57:43.939Z",
-        "updatedAt": "2022-04-14T16:57:43.939Z"
-    },
-    {
-        "id": 194,
-        "email": "satu@email.com",
-        "password": "$2b$10$OHb3yW74188ohaKnQaiQvOuYnven87S/WXJjmNjJp2yrtThTBvF0K",
-        "role": "admin",
-        "createdAt": "2022-04-14T17:13:46.602Z",
-        "updatedAt": "2022-04-14T17:13:46.602Z"
-    },
-    {
-        "id": 195,
-        "email": "dua@email.com",
-        "password": "$2b$10$EhmViJ3RzwlyErmaQRSZXObKA65dKqob3qaa5mkoY4ZzNA/lsc5Su",
-        "role": "admin",
-        "createdAt": "2022-04-14T17:28:42.867Z",
-        "updatedAt": "2022-04-14T17:28:42.867Z"
-    },
-    {
-        "id": 196,
-        "email": "kzm@mail.com",
-        "password": "$2b$10$0ctXoROq/4YfqgfA3rcYE./4gNeXaSyYCDDkkb7w7Ko7tTTjvb1R2",
-        "role": "admin",
-        "createdAt": "2022-04-14T23:06:24.977Z",
-        "updatedAt": "2022-04-14T23:06:24.977Z"
-    },
-    {
-        "id": 197,
-        "email": "fjdjxj@mail.com",
-        "password": "$2b$10$b6nH/y/mDA7lmMdiHl6dtecTncvMnpdvCoQBt5DWYNJJZh7NDCd4W",
-        "role": "admin",
-        "createdAt": "2022-04-15T00:26:07.046Z",
-        "updatedAt": "2022-04-15T00:26:07.046Z"
-    },
-    {
-        "id": 198,
-        "email": "aji@mail.com",
-        "password": "$2b$10$IOUH6TQhVQDUND8NAthn4u6VBeN6shu3VK9lwX3TdyFsNtX92TYCW",
-        "role": "admin",
-        "createdAt": "2022-04-15T00:42:20.864Z",
-        "updatedAt": "2022-04-15T00:42:20.864Z"
-    },
-    {
-        "id": 199,
-        "email": "kzmru@mail.com",
-        "password": "$2b$10$lT9OOvmwXHN.YUNM2uibWuJY7IxPxa16XYUYmO/gqtOeaOoMnQL.i",
-        "role": "admin",
-        "createdAt": "2022-04-15T00:44:26.106Z",
-        "updatedAt": "2022-04-15T00:44:26.106Z"
-    },
-    {
-        "id": 200,
-        "email": "android3@mail.com",
-        "password": "$2b$10$mmso9vY3C6TY.qxxg.bqAOic5FAqc2W4PaY6yIugQtxmoTAgLBYCu",
-        "role": "admin",
-        "createdAt": "2022-04-15T01:52:44.307Z",
-        "updatedAt": "2022-04-15T01:52:44.307Z"
-    },
-    {
-        "id": 201,
-        "email": "android2@email.com",
-        "password": "$2b$10$W64c51LosB.LJ.IZNsf.beEkPCzuVmE1yfyYcpiSnLWh1Cg2zskwa",
-        "role": "admin",
-        "createdAt": "2022-04-15T02:22:17.510Z",
-        "updatedAt": "2022-04-15T02:22:17.510Z"
-    },
-    {
-        "id": 202,
-        "email": "android@gmail.com",
-        "password": "$2b$10$VYjqIvXrZLlhRBfXS/Ywpu3QL5XDu5Aedl.fuL/6ItsX3QgzwXLfy",
-        "role": "admin",
-        "createdAt": "2022-04-15T02:25:18.369Z",
-        "updatedAt": "2022-04-15T02:25:18.369Z"
-    },
-    {
-        "id": 203,
-        "email": "xdss@gmail.com",
-        "password": "$2b$10$C2i5ksTVsCQsRjZTe/zJ0eah0Ur6i91bEDSdlsVp4wKgCamLL66/.",
-        "role": "admin",
-        "createdAt": "2022-04-15T05:33:02.488Z",
-        "updatedAt": "2022-04-15T05:33:02.488Z"
-    },
-    {
-        "id": 204,
-        "email": "mora@gmail.com",
-        "password": "$2b$10$4ko0L6ubXZsrnC0iB73tuuXPXm96G8amOVIg7EyVxBL4Ba.PaAqBS",
-        "role": "admin",
-        "createdAt": "2022-04-15T06:03:24.125Z",
-        "updatedAt": "2022-04-15T06:03:24.125Z"
-    },
-    {
-        "id": 205,
-        "email": "adminacshani@mail.com",
-        "password": "$2b$10$cgxlAOBuWXhZxNU800lUjuN0ThPvhZCvRAXyWJkSmGO4cnCnCEksy",
-        "role": "admin",
-        "createdAt": "2022-04-15T06:34:33.950Z",
-        "updatedAt": "2022-04-15T06:34:33.950Z"
-    },
-    {
-        "id": 206,
-        "email": "adminAND229@mail.com",
-        "password": "$2b$10$AZTqW5Da63Gt3cR.Mvu2tuMHip1pbyAXrQ4hOilwo.FN.iUQy3PMW",
-        "role": "admin",
-        "createdAt": "2022-04-15T06:36:26.654Z",
-        "updatedAt": "2022-04-15T06:36:26.654Z"
-    },
-    {
-        "id": 207,
-        "email": "adminAND17@mail.com",
-        "password": "$2b$10$rqXYmlfcOWAjOTMcgweR8eddt2NrIezyzANCyvCZttC.PjvC9HDOi",
-        "role": "admin",
-        "createdAt": "2022-04-15T07:13:54.413Z",
-        "updatedAt": "2022-04-15T07:13:54.413Z"
-    },
-    {
-        "id": 208,
-        "email": "abdan@gmail.com",
-        "password": "$2b$10$gyLbsmopqVkDGhxmXf8zuuZsq2XDqldep0MLt6n6P1KWyRba5kyYS",
-        "role": "admin",
-        "createdAt": "2022-04-15T07:14:23.154Z",
-        "updatedAt": "2022-04-15T07:14:23.154Z"
-    },
-    {
-        "id": 209,
-        "email": "admin123123@mail.com",
-        "password": "$2b$10$cOknAHXyaLC2Ls7xQHp2/OyFn1dqwZ.T0vY7p5noYzp0SMkF/a4um",
-        "role": " admin",
-        "createdAt": "2022-04-15T07:16:25.318Z",
-        "updatedAt": "2022-04-15T07:16:25.318Z"
-    },
-    {
-        "id": 210,
-        "email": "admin123123@mailadaasd.com",
-        "password": "$2b$10$8Fo/uhYKsy9.ic67w.5VuudFEVQ7hh7MEuqsCeGBLYrQusdKu8Blm",
-        "role": " admin",
-        "createdAt": "2022-04-15T07:16:33.652Z",
-        "updatedAt": "2022-04-15T07:16:33.652Z"
-    },
-    {
-        "id": 211,
-        "email": "admintest123oxm@ansasd.com",
-        "password": "$2b$10$tdID8kUmEhFypTyyqQeh.ea2fI9SWIJOc5yC8RgsCOD6gHqqIwnzu",
-        "role": " admin",
-        "createdAt": "2022-04-15T07:16:41.949Z",
-        "updatedAt": "2022-04-15T07:16:41.949Z"
-    },
-    {
-        "id": 212,
-        "email": "testadmin@mailasd.com",
-        "password": "$2b$10$fHFWs1sH6YJGQAj4Ti/f1uMVTZM8zvvVQIbZsV9v1wRhun4OP3Tcu",
-        "role": "admin",
-        "createdAt": "2022-04-15T07:17:45.966Z",
-        "updatedAt": "2022-04-15T07:17:45.966Z"
-    },
-    {
-        "id": 213,
-        "email": "laras123@gmail.com",
-        "password": "$2b$10$ovYe6452S.tra9VysZcyve5aESSIE6YCNBLeu.xsdPE8bh0oUpdkG",
-        "role": "admin",
-        "createdAt": "2022-04-15T07:19:46.357Z",
-        "updatedAt": "2022-04-15T07:19:46.357Z"
-    },
-    {
-        "id": 214,
-        "email": "testing@mailasd.com",
-        "password": "$2b$10$WmQOJnrjdq2DvhZFrCbHPO/SExPWGaetF4EOFROKKFt80gJz60h4u",
-        "role": "admin",
-        "createdAt": "2022-04-15T07:21:16.838Z",
-        "updatedAt": "2022-04-15T07:21:16.838Z"
-    },
-    {
-        "id": 215,
-        "email": "fuad123@gmail.com",
-        "password": "$2b$10$S8HEGPRh.tGM0cmulmblY.ZPOyfjaGFAWvjNB9kN/Go/UXw5wb6ke",
-        "role": "admin",
-        "createdAt": "2022-04-15T07:21:21.145Z",
-        "updatedAt": "2022-04-15T07:21:21.145Z"
-    },
-    {
-        "id": 216,
-        "email": "nuradi@gmail.com",
-        "password": "$2b$10$mFg1viOVNsI7h7ER1GaZA.UQ9mkwPIqSIFRW7GONsnhAwydYSZIO6",
-        "role": "admin",
-        "createdAt": "2022-04-15T07:24:59.452Z",
-        "updatedAt": "2022-04-15T07:24:59.452Z"
-    },
-    {
-        "id": 217,
-        "email": "asdasd@mail.com",
-        "password": "$2b$10$4qqLgQ3ARQHaAJKgXpF2JOasGaw4ZpZ0ff22wWUqKNoroR9QmdW/e",
-        "role": "admin",
-        "createdAt": "2022-04-15T07:26:37.739Z",
-        "updatedAt": "2022-04-15T07:26:37.739Z"
-    },
-    {
-        "id": 218,
-        "email": "test@asdasd.com",
-        "password": "$2b$10$rx2m/skudg25eryiglqGXuFsIbK9/Ql5eF6oubKOHSjqJasMLXUWu",
-        "role": "admin",
-        "createdAt": "2022-04-15T07:28:41.619Z",
-        "updatedAt": "2022-04-15T07:28:41.619Z"
-    },
-    {
-        "id": 219,
-        "email": "admintest1s23oxm@ansasd.com",
-        "password": "$2b$10$nLXCRG2Gb8z.FC2VdtGGduoJSvCbjP0vg1kQTWHXZpIrxC4Gc/pe6",
-        "role": " admin",
-        "createdAt": "2022-04-15T07:32:15.624Z",
-        "updatedAt": "2022-04-15T07:32:15.624Z"
-    },
-    {
-        "id": 220,
-        "email": "khamsa@gmail.com",
-        "password": "$2b$10$MhS4d2zmN5QlVKQKRhf9L.7d3Vbam33RWPmaxZsalToKApi2PW6NS",
-        "role": "admin",
-        "createdAt": "2022-04-15T07:40:24.365Z",
-        "updatedAt": "2022-04-15T07:40:24.365Z"
-    },
-    {
-        "id": 221,
-        "email": "zeti23@gmail.com",
-        "password": "$2b$10$srgjm.3HJ6iM0.MW8S.hme.cM8xYl0Qbsqx70OkrsGFx4WWmeSjZu",
-        "role": "admin",
-        "createdAt": "2022-04-15T07:58:13.278Z",
-        "updatedAt": "2022-04-15T07:58:13.278Z"
-    },
-    {
-        "id": 222,
-        "email": "asd@asdasd.com",
-        "password": "$2b$10$ciYctaGeb4TM8EOYol3RF.MKjkZDr0XPVcc2UxmNjxx37gsFhCwi6",
-        "role": "admin",
-        "createdAt": "2022-04-15T09:34:53.294Z",
-        "updatedAt": "2022-04-15T09:34:53.294Z"
-    },
-    {
-        "id": 223,
-        "email": "asd@asdasdasd.com",
-        "password": "$2b$10$WiObZLRnU78Sgu1eTHp7xO4uupta6quqherw8TTWrTT2toUvUgL0W",
-        "role": "admin",
-        "createdAt": "2022-04-15T09:35:21.363Z",
-        "updatedAt": "2022-04-15T09:35:21.363Z"
-    },
-    {
-        "id": 224,
-        "email": "asdasdasd@gmail.com",
-        "password": "$2b$10$2N2j6kQh6xwDo.JCH/DC/OwoWThvJRhT5gHdUXQjvZJrLhKU6mYyC",
-        "role": "admin",
-        "createdAt": "2022-04-15T09:37:25.716Z",
-        "updatedAt": "2022-04-15T09:37:25.716Z"
-    },
-    {
-        "id": 225,
-        "email": "adminshopee@mail.com",
-        "password": "$2b$10$W0.flv9qcQkH6eslZSWbF.IQcYYNH1OLtPFlqw3ItxQv.UqiUo1Li",
-        "role": "admin",
-        "createdAt": "2022-04-15T12:09:08.241Z",
-        "updatedAt": "2022-04-15T12:09:08.241Z"
-    },
-    {
-        "id": 226,
-        "email": "coba@mail.com",
-        "password": "$2b$10$PUQxiQ4pLwsE53nyCsyMhOQgH.VJebWhqCZ08Tu8s/yisOmvvLAvW",
-        "role": "admin",
-        "createdAt": "2022-04-15T12:55:05.457Z",
-        "updatedAt": "2022-04-15T12:55:05.457Z"
-    },
-    {
-        "id": 227,
-        "email": "bayu@gmail.com",
-        "password": "$2b$10$YhYosHJqWge69yDiVxrr8eji9.yGW359lg5Coqk3AFI5TL2ZsTMkG",
-        "role": "admin",
-        "createdAt": "2022-04-15T12:57:54.932Z",
-        "updatedAt": "2022-04-15T12:57:54.932Z"
-    },
-    {
-        "id": 228,
-        "email": "adminshopee1@mail.com",
-        "password": "$2b$10$.I5eQ51rT/YI004vUvUSV.yp8kyd0Oz8DFFbmkxS.giYlPOA5CrsC",
-        "role": "admin",
-        "createdAt": "2022-04-15T13:03:23.774Z",
-        "updatedAt": "2022-04-15T13:03:23.774Z"
-    },
-    {
-        "id": 229,
-        "email": "akucobanich@mail.com",
-        "password": "$2b$10$gdF2k9GFEHSsZ0KdSYm0ROaHTNMuuDIpEF/IZkL2GTPwaWnIYHB3e",
-        "role": "admin",
-        "createdAt": "2022-04-15T13:04:49.241Z",
-        "updatedAt": "2022-04-15T13:04:49.241Z"
-    },
-    {
-        "id": 230,
-        "email": "gmail@gmail.com",
-        "password": "$2b$10$tL9igYsE8FFF2oMCd5/2QOoKGcHK/v7rx9eqZHyaHHegWrFxlpe8S",
-        "role": "admin",
-        "createdAt": "2022-04-15T14:02:40.474Z",
-        "updatedAt": "2022-04-15T14:02:40.474Z"
-    },
-    {
-        "id": 231,
-        "email": "farhanfadhlurrahman@gmail.com",
-        "password": "$2b$10$rgCJUxuXoJonKrl4Es97g.PkDbOiw1pHBQY8S6Vf6uIzFxAiY6y8K",
-        "role": "admin",
-        "createdAt": "2022-04-15T14:16:25.093Z",
-        "updatedAt": "2022-04-15T14:16:25.093Z"
-    },
-    {
-        "id": 232,
-        "email": "farhanfadhlurrahm98888888888an@gmail.com",
-        "password": "$2b$10$uxzc1PpqIBpKRWm1Own.7uUAmcxstxfN5lkKWjdiBYU6/C3Qm0zNq",
-        "role": "admin",
-        "createdAt": "2022-04-15T14:16:43.704Z",
-        "updatedAt": "2022-04-15T14:16:43.704Z"
-    },
-    {
-        "id": 233,
-        "email": "admin@mailbaru.com",
-        "password": "$2b$10$mQaMQX7bC.RCIO8qYqylFek8hAzGnHfIJUS1FlDbPuALfE/PJFIie",
-        "role": "admin",
-        "createdAt": "2022-04-15T14:22:19.737Z",
-        "updatedAt": "2022-04-15T14:22:19.737Z"
-    },
-    {
-        "id": 234,
-        "email": "farhan@gmail.com",
-        "password": "$2b$10$U4Z5e0Jcj5zyDDMI0x9cwuePYC4mspFOBLlLQVV4HjTvtslLgFrOC",
-        "role": "admin",
-        "createdAt": "2022-04-15T14:48:48.924Z",
-        "updatedAt": "2022-04-15T14:48:48.924Z"
-    },
-    {
-        "id": 235,
-        "email": "agusgimangwawawawawa@awadoawdoaw.com",
-        "password": "$2b$10$1Ucl/3YSkP7Puovb0gIR0uNC0smPJihtOZVVyUCLa4qTyabfM5a7u",
-        "role": "admin",
-        "createdAt": "2022-04-15T14:52:20.833Z",
-        "updatedAt": "2022-04-15T14:52:20.833Z"
-    },
-    {
-        "id": 236,
-        "email": "asd@qwerqwrfaefas.com",
-        "password": "$2b$10$vmVOVHQnb3kv5vgcocxOceqBkybze9mMoWrSoBb940NaRxY/c5WFu",
-        "role": "admin",
-        "createdAt": "2022-04-15T14:58:25.230Z",
-        "updatedAt": "2022-04-15T14:58:25.230Z"
-    },
-    {
-        "id": 237,
-        "email": "asd@qwerqwrfaefdfqwerqwas.com",
-        "password": "$2b$10$VuYshmZ5/JM44GO7qqPUBulyIho9bldWBxr3uHiGYq0AhCTNbaw.q",
-        "role": "admin",
-        "createdAt": "2022-04-15T14:58:35.662Z",
-        "updatedAt": "2022-04-15T14:58:35.662Z"
-    },
-    {
-        "id": 238,
-        "email": "qrqawfaw@aefaf.com",
-        "password": "$2b$10$PUJXe1E4wpTtmsGWWDQU5e7a.vgsNccwzxa8R9gcrimjRPMWIBwZu",
-        "role": "admin",
-        "createdAt": "2022-04-15T14:59:55.644Z",
-        "updatedAt": "2022-04-15T14:59:55.644Z"
-    },
-    {
-        "id": 239,
-        "email": "fasdfaef@qwreqwrwq.com",
-        "password": "$2b$10$JxacdPKI5AqBz4DflUdhy.Lq.gp9kk6xPD7XnBzHje4ZnpUiYO/H.",
-        "role": "admin",
-        "createdAt": "2022-04-15T15:00:47.291Z",
-        "updatedAt": "2022-04-15T15:00:47.291Z"
-    },
-    {
-        "id": 240,
-        "email": "fudinafif45@gmail.com",
-        "password": "$2b$10$1Re6CeVuTTaiqiSDXm.k6ufCMAIc85vjTxLyDPQZhE3y7yhRLB4PS",
-        "role": "admin",
-        "createdAt": "2022-04-15T15:05:49.266Z",
-        "updatedAt": "2022-04-15T15:05:49.266Z"
-    },
-    {
-        "id": 241,
-        "email": "admin123@gmail.com",
-        "password": "$2b$10$1dX60HpwjnxNlWmNf83zX.WAN.Nr55pMAx3h62YtJmFg6BzOUBNpy",
-        "role": "admin",
-        "createdAt": "2022-04-15T19:48:05.433Z",
-        "updatedAt": "2022-04-15T19:48:05.433Z"
-    },
-    {
-        "id": 242,
-        "email": "adminnnn@mail.com",
-        "password": "$2b$10$g/uzh2eWwdTXgr5oNc1JxuRL6MLNtPkrzDpRngPBvsBOi88NhEgOm",
-        "role": "admin",
-        "createdAt": "2022-04-16T01:39:56.991Z",
-        "updatedAt": "2022-04-16T01:39:56.991Z"
-    },
-    {
-        "id": 243,
-        "email": "admin@main.com",
-        "password": "$2b$10$5EZzrjeiQGFp7Kvgjyy/UOzoEMxUc9Bpp19dlAK5V0H.ogfK9jHMu",
-        "role": "admin",
-        "createdAt": "2022-04-17T07:01:38.225Z",
-        "updatedAt": "2022-04-17T07:01:38.225Z"
-    },
-    {
-        "id": 244,
-        "email": "sunardi@gmail.com",
-        "password": "$2b$10$Jex8FfJMq8tWpOEnBdY6euwd4nX8yVkiegc.3UB8jTfrPnETXbKqe",
-        "role": "admin",
-        "createdAt": "2022-04-18T01:05:23.416Z",
-        "updatedAt": "2022-04-18T01:05:23.416Z"
-    },
-    {
-        "id": 245,
-        "email": "ronal@gmail.com",
-        "password": "$2b$10$88DRnfe5nUkfucDmzOT9Ue36JaSRnDLVA8s4xAk2Sj9xbf20hXeVi",
-        "role": "admin",
-        "createdAt": "2022-04-18T01:07:27.658Z",
-        "updatedAt": "2022-04-18T01:07:27.658Z"
-    },
-    {
-        "id": 246,
-        "email": "chap5day4@mail.com",
-        "password": "$2b$10$vNfWCaRTd3ZDtEP2Z6ciM.X0ol6QKR0J1L5CNtiUMIVS.FiKr6gny",
-        "role": "admin",
-        "createdAt": "2022-04-18T02:01:33.633Z",
-        "updatedAt": "2022-04-18T02:01:33.633Z"
-    },
-    {
-        "id": 247,
-        "email": "hudza@gmail.com",
-        "password": "$2b$10$kcobgGV6qG46XatkzS2n/OHpHQeMZ7/CVD9nDUkDFiMUllWvBPc96",
-        "role": "admin",
-        "createdAt": "2022-04-18T02:05:47.664Z",
-        "updatedAt": "2022-04-18T02:05:47.664Z"
-    },
-    {
-        "id": 248,
-        "email": "tegar@gmail.com",
-        "password": "$2b$10$92tUtXHnqm2xvE1kW/1lTuCDafPXJHWsPvtHZ6lcsKuBgXGpftyz2",
-        "role": "admin",
-        "createdAt": "2022-04-18T02:36:53.373Z",
-        "updatedAt": "2022-04-18T02:36:53.373Z"
-    },
-    {
-        "id": 249,
-        "email": "dul@gmail.com",
-        "password": "$2b$10$3DNZJv33n.DCIMmu8bVIC.HharB0tlxm8uri3Ohqwz.4tGR.V.Nz2",
-        "role": "admin",
-        "createdAt": "2022-04-18T02:46:39.577Z",
-        "updatedAt": "2022-04-18T02:46:39.577Z"
-    },
-    {
-        "id": 250,
-        "email": "far@gmail.com",
-        "password": "$2b$10$YED1znxxzdmWXyMbPw5Y0uAtmD0k/bhDuutejnRhIdFPPwSYe2R7i",
-        "role": "admin",
-        "createdAt": "2022-04-18T02:58:42.974Z",
-        "updatedAt": "2022-04-18T02:58:42.974Z"
-    },
-    {
-        "id": 251,
-        "email": "ardanspaga@gmail.com",
-        "password": "$2b$10$ODUM6lu6mdO4i7wt55eRZOUyHGqUxpQVBT/9apXaT/phem7TKoZCq",
-        "role": "admin",
-        "createdAt": "2022-04-18T03:38:39.399Z",
-        "updatedAt": "2022-04-18T03:38:39.399Z"
-    },
-    {
-        "id": 252,
-        "email": "ardanspaga@gmail.acom",
-        "password": "$2b$10$dpRkdDkl45gkz7oj5txPR.rqaaC2wQs2zxRo1j/ej5sf2YcLgRmcC",
-        "role": "admin",
-        "createdAt": "2022-04-18T03:39:55.595Z",
-        "updatedAt": "2022-04-18T03:39:55.595Z"
-    },
-    {
-        "id": 253,
-        "email": "ardanspaga@gmail.cssom",
-        "password": "$2b$10$fY0DK8OWV3ATV1/k8AH8IO7oT06y0fjoyZ3ggZCa9/q2abxMdLS4K",
-        "role": "admin",
-        "createdAt": "2022-04-18T03:43:53.649Z",
-        "updatedAt": "2022-04-18T03:43:53.649Z"
-    },
-    {
-        "id": 254,
-        "email": "ardanspaga@gmaidsadsadsal.cssom",
-        "password": "$2b$10$sUKhwb.sL805HIDqlwywv.JPCE0sI8AQjaYtBirpCSXv1uW0KayBG",
-        "role": "admin",
-        "createdAt": "2022-04-18T03:44:13.383Z",
-        "updatedAt": "2022-04-18T03:44:13.383Z"
-    },
-    {
-        "id": 255,
-        "email": "ardanspaga@gsadsadmaidsadsadsal.cssom",
-        "password": "$2b$10$JFVaL2buMgc5V.xMr8uP2eE3X495P9OJz5lnGjrfYXLdtcMdrg.Si",
-        "role": "admin",
-        "createdAt": "2022-04-18T03:44:31.084Z",
-        "updatedAt": "2022-04-18T03:44:31.084Z"
-    },
-    {
-        "id": 256,
-        "email": "lala@mail.com",
-        "password": "$2b$10$K/3sV77aa36LcHNECnxzB.6wUOzuzJtUD7V/2HWOpBBwQJJSxAXzm",
-        "role": "admin",
-        "createdAt": "2022-04-18T04:08:02.323Z",
-        "updatedAt": "2022-04-18T04:08:02.323Z"
-    },
-    {
-        "id": 257,
-        "email": "hayulutukan@gmail.com",
-        "password": "$2b$10$Vdj2rVcC0jq3JcLDDF2UGeAw3SKh9lq59pcOvK7VP0enlLFYl0ud6",
-        "role": "admin",
-        "createdAt": "2022-04-18T05:33:21.058Z",
-        "updatedAt": "2022-04-18T05:33:21.058Z"
-    },
-    {
-        "id": 258,
-        "email": "ayen@gmail.com",
-        "password": "$2b$10$8rtSoypudmEkT2xT/XkuCes6wI/qxkfd5E5aq.XFZkYlg4o7Of3Pm",
-        "role": "admin",
-        "createdAt": "2022-04-18T06:48:19.799Z",
-        "updatedAt": "2022-04-18T06:48:19.799Z"
-    },
-    {
-        "id": 259,
-        "email": "sasdad@das.com",
-        "password": "$2b$10$II51srfJuxkQy//26NiXIObLIi4D5hCadKRHP2nXdf7xR33nDyGJ2",
-        "role": "admin",
-        "createdAt": "2022-04-18T08:12:03.480Z",
-        "updatedAt": "2022-04-18T08:12:03.480Z"
-    },
-    {
-        "id": 260,
-        "email": "admin10@mail.com",
-        "password": "$2b$10$5r3p3dwqrWfU07I93dMrQeErBbHOaqeWueWeXOkvm3YxqegHMcg4u",
-        "role": "admin",
-        "createdAt": "2022-04-18T09:47:50.886Z",
-        "updatedAt": "2022-04-18T09:47:50.886Z"
-    },
-    {
-        "id": 261,
-        "email": "agdmin10@mail.com",
-        "password": "$2b$10$aIPsFgd2Mttu7iq2aNNzIeB.HkvyBKJgkGPIaAcQAuKQId/yYmSqu",
-        "role": "admin",
-        "createdAt": "2022-04-18T10:06:27.361Z",
-        "updatedAt": "2022-04-18T10:06:27.361Z"
-    },
-    {
-        "id": 262,
-        "email": "aggdmin10@mail.com",
-        "password": "$2b$10$.y6jGxda1/dtFQcbSJFyrulh/W.LMZRD8p25eikDInnndrsj3PsMK",
-        "role": "admin",
-        "createdAt": "2022-04-18T10:11:50.717Z",
-        "updatedAt": "2022-04-18T10:11:50.717Z"
-    },
-    {
-        "id": 263,
-        "email": "y@mail.com",
-        "password": "$2b$10$2OLSgmAGhT6t/ljlTFSABulOW3ZR.xjIusZT5DG/zT0GfV47fDuIS",
-        "role": "admin",
-        "createdAt": "2022-04-18T10:12:19.835Z",
-        "updatedAt": "2022-04-18T10:12:19.835Z"
-    },
-    {
-        "id": 264,
-        "email": "dccxf@mail.com",
-        "password": "$2b$10$dXjw5EaR.QgCUEO4Vxz0Zux44.VyYKGu1w3VCyzVD3asRhqzcWeZu",
-        "role": "admin",
-        "createdAt": "2022-04-18T10:16:33.391Z",
-        "updatedAt": "2022-04-18T10:16:33.391Z"
-    },
-    {
-        "id": 265,
-        "email": "admin666@mail.com",
-        "password": "$2b$10$AWpnxRT7LHfoUq4der8AieeWeiHTyCvtWm92NPcuOG/6TtiknNyyi",
-        "role": "admin",
-        "createdAt": "2022-04-18T11:51:39.546Z",
-        "updatedAt": "2022-04-18T11:51:39.546Z"
-    },
-    {
-        "id": 266,
-        "email": "admin669@mail.com",
-        "password": "$2b$10$vDl6xq/Ms39TwJQjeGaSZuvj7yec7FYLqlEKVJwiR6rPLzCJmb7US",
-        "role": "admin",
-        "createdAt": "2022-04-18T11:52:58.597Z",
-        "updatedAt": "2022-04-18T11:52:58.597Z"
-    },
-    {
-        "id": 267,
-        "email": "admin699@mail.com",
-        "password": "$2b$10$oGxpPpkrELZcy8Ct/4ggOeXDttrf.xD1bpIzFefUerPyrerM5jdSe",
-        "role": "admin",
-        "createdAt": "2022-04-18T11:54:53.991Z",
-        "updatedAt": "2022-04-18T11:54:53.991Z"
-    },
-    {
-        "id": 268,
-        "email": "admin0000@mail.com",
-        "password": "$2b$10$t5MwJc6fIcn6qBwPYS7NZOxPGMKI.eu9XwWVT/2ouEYR1UGFO8qPm",
-        "role": "admin",
-        "createdAt": "2022-04-18T11:58:58.345Z",
-        "updatedAt": "2022-04-18T11:58:58.345Z"
-    },
-    {
-        "id": 269,
-        "email": "admin0001@mail.com",
-        "password": "$2b$10$uMKM2fgk.GF//ZRT28lg6OumyHhD7WlzWLynY2eUsnog6SDDmg0pu",
-        "role": "admin",
-        "createdAt": "2022-04-18T12:42:26.490Z",
-        "updatedAt": "2022-04-18T12:42:26.490Z"
-    },
-    {
-        "id": 270,
-        "email": "adminAND224@mail.com",
-        "password": "$2b$10$YgMBlwT7Kn0jiTsA2cMuXuku5iW6mVjfjkX4P1KLmpM0o3tYh2Fae",
-        "role": "admin",
-        "createdAt": "2022-04-18T13:02:59.339Z",
-        "updatedAt": "2022-04-18T13:02:59.339Z"
-    },
-    {
-        "id": 271,
-        "email": "dwadkoawodkawkokoaw@gmail.com",
-        "password": "$2b$10$5ni5Fbue7qqTGDXsFANUR.GcRDCike65B4t8K8QnzAoQz0KNmz0PK",
-        "role": "admin",
-        "createdAt": "2022-04-18T13:12:12.194Z",
-        "updatedAt": "2022-04-18T13:12:12.194Z"
-    },
-    {
-        "id": 272,
-        "email": "Namesisiw9@gmail.com",
-        "password": "$2b$10$MwHoOvOqWsRiR5qbGMmaF.j8V3HZJT5OFevLMKP5e6fPN4trYgZ4C",
-        "role": "admin",
-        "createdAt": "2022-04-18T13:15:12.740Z",
-        "updatedAt": "2022-04-18T13:15:12.740Z"
-    },
-    {
-        "id": 273,
-        "email": "admin0002@mail.com",
-        "password": "$2b$10$8xgHvx6DoFh9ktLve7sZk.IGsNv0HpLDmQWiI5W9LDSsZMXxx2IMK",
-        "role": "admin",
-        "createdAt": "2022-04-18T13:22:23.996Z",
-        "updatedAt": "2022-04-18T13:22:23.996Z"
-    },
-    {
-        "id": 274,
-        "email": "admin0003@mail.com",
-        "password": "$2b$10$WI0uEfXKr/iAxhv3a6OFjOc1ksnmcsSOXrA12Jy5WN0aWg0IuUug2",
-        "role": "admin",
-        "createdAt": "2022-04-18T13:23:16.505Z",
-        "updatedAt": "2022-04-18T13:23:16.505Z"
-    },
-    {
-        "id": 275,
-        "email": "admin0004@mail.com",
-        "password": "$2b$10$dk41IeN/m.9v5KI4aDdD9u6BVc5sLjKibc6LdR2y5zWGR7XqUR8Jy",
-        "role": "admin",
-        "createdAt": "2022-04-18T13:26:17.890Z",
-        "updatedAt": "2022-04-18T13:26:17.890Z"
-    },
-    {
-        "id": 276,
-        "email": "admin0005@mail.com",
-        "password": "$2b$10$eoIIgPvOXOZ3eGqlAQa6ye8Bu7eAHzEgstt5Q4xGekrJYd5DOvzNC",
-        "role": "admin",
-        "createdAt": "2022-04-18T13:26:51.072Z",
-        "updatedAt": "2022-04-18T13:26:51.072Z"
-    },
-    {
-        "id": 277,
-        "email": "admin0007@mail.com",
-        "password": "$2b$10$LceL3uaRNEFc6V8aghWhUOuk2M8yOkFOQ/pn0jGIpVy2nw6hX2HMe",
-        "role": "admin",
-        "createdAt": "2022-04-18T14:24:35.821Z",
-        "updatedAt": "2022-04-18T14:24:35.821Z"
-    },
-    {
-        "id": 278,
-        "email": "tes001@email.com",
-        "password": "$2b$10$hDfgH0LOXLBR6IlfBTO8dePKZUrGgvXjNQ.Um3d5MQ8GMsxYm0eWG",
-        "role": "admin",
-        "createdAt": "2022-04-18T14:34:34.248Z",
-        "updatedAt": "2022-04-18T14:34:34.248Z"
-    },
-    {
-        "id": 279,
-        "email": "email123123@email.com",
-        "password": "$2b$10$WkjPKD9iUEvo5ZbHdNhaXey/wFqHHCCk5jPtKJ3Dtm8CpX3zrVuXC",
-        "role": null,
-        "createdAt": "2022-04-18T15:34:35.727Z",
-        "updatedAt": "2022-04-18T15:34:35.727Z"
-    },
-    {
-        "id": 280,
-        "email": "email1231231@email.com",
-        "password": "$2b$10$uHCD8ybucHS3Ei4dyjsoOOQJVZr535a53rt7iVQrLgZrRT0KOXAqi",
-        "role": "admin",
-        "createdAt": "2022-04-18T15:34:55.944Z",
-        "updatedAt": "2022-04-18T15:34:55.944Z"
-    },
-    {
-        "id": 281,
-        "email": "custMaik1@mail.com",
-        "password": "$2b$10$FOYvzqsbvfKW339Gs6wE/.XY8fJmz3pn.ZrAPwWlqNk8M/ALAxdeW",
-        "role": "Customer",
-        "createdAt": "2022-04-18T15:37:16.020Z",
-        "updatedAt": "2022-04-18T15:37:16.020Z"
-    },
-    {
-        "id": 282,
-        "email": "admi123n@mail.com",
-        "password": "$2b$10$KoUEFq7Enqyg4JsIEOxQnOoLX5q7tlnybnxcGxZS1.uoF4cNIlPWi",
-        "role": "Customer",
-        "createdAt": "2022-04-18T15:37:31.178Z",
-        "updatedAt": "2022-04-18T15:37:31.178Z"
-    },
-    {
-        "id": 283,
-        "email": "emailcustomer123@email.com",
-        "password": "$2b$10$I.X..wQ7cEmsaHoMkAH7.ujLGIbzrm5cm6zB/dc0ktwLNBXyESJle",
-        "role": "Customer",
-        "createdAt": "2022-04-18T15:39:34.832Z",
-        "updatedAt": "2022-04-18T15:39:34.832Z"
-    },
-    {
-        "id": 284,
-        "email": "valentinetsinaga14@gmail.com",
-        "password": "$2b$10$Yk7ExYiut8iVYDUxfA16Q.AhgAp3jSp5p1fvpeJuaA8o6afGeV5Z.",
-        "role": "siswa",
-        "createdAt": "2022-04-18T16:57:30.504Z",
-        "updatedAt": "2022-04-18T16:57:30.504Z"
-    },
-    {
-        "id": 285,
-        "email": "al@mail.com",
-        "password": "$2b$10$LFHBJrMRjk7BQaUzWBpTV.f9Wm3sNe8FTcn1Gmt5a9DCKLLnDHS7S",
-        "role": "admin",
-        "createdAt": "2022-04-18T16:57:44.920Z",
-        "updatedAt": "2022-04-18T16:57:44.920Z"
-    },
-    {
-        "id": 286,
-        "email": "adminbinar1@mail.com",
-        "password": "$2b$10$heEjmtxS5fIl.cMOpuhG8etmVqK3IX1mKPaiTfJwPqInTbrAucKV6",
-        "role": "admin",
-        "createdAt": "2022-04-18T21:25:08.854Z",
-        "updatedAt": "2022-04-18T21:25:08.854Z"
-    },
-    {
-        "id": 287,
-        "email": "custMaik2@gmail.com",
-        "password": "$2b$10$3KUdLgpYV1B6f/cEc9mqJ.XfBPISW/PQnB2hOW3VBkNTGo8aB/eLi",
-        "role": "Customer",
-        "createdAt": "2022-04-19T00:36:34.930Z",
-        "updatedAt": "2022-04-19T00:36:34.930Z"
-    },
-    {
-        "id": 288,
-        "email": "emailcustomer123123@email.com",
-        "password": "$2b$10$pNGC6cJpNjZbgGPHrAQzZOLalIZ.50YXBh/9b9h8uTS5mkgZy.51e",
-        "role": "Customer",
-        "createdAt": "2022-04-19T04:26:07.545Z",
-        "updatedAt": "2022-04-19T04:26:07.545Z"
-    },
-    {
-        "id": 289,
-        "email": "testtest123@gmail.com",
-        "password": "$2b$10$/h1t9552NFtqICptS1l8r.ikOv6jqKPE4DOWKAqRJHL0YyriA3APG",
-        "role": "Customer",
-        "createdAt": "2022-04-19T04:47:04.777Z",
-        "updatedAt": "2022-04-19T04:47:04.777Z"
-    },
-    {
-        "id": 290,
-        "email": "testtest123321@gmail.com",
-        "password": "$2b$10$fD8tAwjpTygKMbbEwGXe8u.jN8sJFj.LFuPP9iPDegIzAm7Eblcki",
-        "role": "Customer",
-        "createdAt": "2022-04-19T04:50:36.429Z",
-        "updatedAt": "2022-04-19T04:50:36.429Z"
-    },
-    {
-        "id": 291,
-        "email": "testtest12323@gmail.com",
-        "password": "$2b$10$ov6mLIlA444WNWKwP04i1uqdJeYnqL/cYNTXRuc3M6ivqjJPiBmGG",
-        "role": "Customer",
-        "createdAt": "2022-04-19T04:57:01.366Z",
-        "updatedAt": "2022-04-19T04:57:01.366Z"
-    },
-    {
-        "id": 292,
-        "email": "testest12332@gmail.com",
-        "password": "$2b$10$TREkB0Bt8RE1bJZVlzUfB.zWh/JwXyXvjUYAktBS8rUxZ09EupxlW",
-        "role": "Customer",
-        "createdAt": "2022-04-19T04:58:56.505Z",
-        "updatedAt": "2022-04-19T04:58:56.505Z"
-    },
-    {
-        "id": 293,
-        "email": "testtest123455@gmail.com",
-        "password": "$2b$10$S6RoWeBjjRIt7Bu8r/YjT.1wp0.gV4gMszeeTUStei7RekOx6F5SG",
-        "role": "Customer",
-        "createdAt": "2022-04-19T04:59:54.196Z",
-        "updatedAt": "2022-04-19T04:59:54.196Z"
-    },
-    {
-        "id": 294,
-        "email": "mytest@gmail.com",
-        "password": "$2b$10$E4wR63coWa4ma3mQzilZWeIGdhVcI80Ps8.CnPp46RWWSboC.ggJm",
-        "role": "Customer",
-        "createdAt": "2022-04-19T05:40:31.660Z",
-        "updatedAt": "2022-04-19T05:40:31.660Z"
-    },
-    {
-        "id": 295,
-        "email": "testakun1@gmail.com",
-        "password": "$2b$10$gtXwu0jsya.JjeKYc2UQj.AbuBPOfE/vOModJDPe4XXy9lah9bdoe",
-        "role": "Customer",
-        "createdAt": "2022-04-19T05:43:17.665Z",
-        "updatedAt": "2022-04-19T05:43:17.665Z"
-    },
-    {
-        "id": 296,
-        "email": "customer001@gmail.com",
-        "password": "$2b$10$1AwzMv32CH7XPzohuRNpBeYeSnWFnVz9/rOKLI7qUSfhCx31Oklpa",
-        "role": "Customer",
-        "createdAt": "2022-04-19T05:43:34.238Z",
-        "updatedAt": "2022-04-19T05:43:34.238Z"
-    },
-    {
-        "id": 297,
-        "email": "testakun2@gmail.com",
-        "password": "$2b$10$bSv6MffJ7yRUCyzn5/AXwue4NVPnXOc3yFIe6FL5.LEqQHx4FTYUW",
-        "role": "Customer",
-        "createdAt": "2022-04-19T05:43:34.970Z",
-        "updatedAt": "2022-04-19T05:43:34.970Z"
-    },
-    {
-        "id": 298,
-        "email": "TESTAKUN3@gmail.com",
-        "password": "$2b$10$0Znzjpv0UjXYaH0KT2cFZuZro4sztT3t6FtlfN8OfHydlR6NbXc/K",
-        "role": "Customer",
-        "createdAt": "2022-04-19T05:47:44.940Z",
-        "updatedAt": "2022-04-19T05:47:44.940Z"
-    },
-    {
-        "id": 299,
-        "email": "testakun3@gmail.com",
-        "password": "$2b$10$WaBMl29tt.TBo8W46fZ1oOprXBTVzeW6.EHAGM3pYePRMpxpf9BJu",
-        "role": "Customer",
-        "createdAt": "2022-04-19T05:48:02.967Z",
-        "updatedAt": "2022-04-19T05:48:02.967Z"
-    },
-    {
-        "id": 300,
-        "email": "testakun4@gmail.com",
-        "password": "$2b$10$olp7lJBOThTBkMhEz5mFMOwlrmV37OXKw//oZ9V9wSwtL5yPos2Ee",
-        "role": "Customer",
-        "createdAt": "2022-04-19T05:48:23.189Z",
-        "updatedAt": "2022-04-19T05:48:23.189Z"
-    },
-    {
-        "id": 301,
-        "email": "testakun5@gmail.com",
-        "password": "$2b$10$RmctcnwSYFxwLCYMwen5S.pMnjDMWMzgyaG7lm4B722xdVdqeMx.O",
-        "role": "Customer",
-        "createdAt": "2022-04-19T05:48:55.465Z",
-        "updatedAt": "2022-04-19T05:48:55.465Z"
-    },
-    {
-        "id": 302,
-        "email": "testakun6@gmail.com",
-        "password": "$2b$10$D2ZJ1R93uh18gpf5JjA4..gkEBqeZ3tqCqx5o.hkStRqRf2ZMRPBq",
-        "role": "Customer",
-        "createdAt": "2022-04-19T05:49:13.482Z",
-        "updatedAt": "2022-04-19T05:49:13.482Z"
-    },
-    {
-        "id": 303,
-        "email": "admin12@main.com",
-        "password": "$2b$10$bC/YJQog6bHbQMoRQsqmeelvq9kj2pP9g1W8lZeoBHka74kPtfxIG",
-        "role": "admin",
-        "createdAt": "2022-04-19T06:28:04.846Z",
-        "updatedAt": "2022-04-19T06:28:04.846Z"
-    },
-    {
-        "id": 304,
-        "email": "customer002@gmail.com",
-        "password": "$2b$10$D8GXuNlo5tNBD0wII4NZpeMycON7Qwc/eyZaCLsm640.ZRELjEddW",
-        "role": "Customer",
-        "createdAt": "2022-04-19T06:47:11.145Z",
-        "updatedAt": "2022-04-19T06:47:11.145Z"
-    },
-    {
-        "id": 305,
-        "email": "customer003@gmail.com",
-        "password": "$2b$10$rtuQs3gVVmLC88yphVn.eeemNYNijtObNZsTFjSB4vvmAGviUEY/W",
-        "role": "Customer",
-        "createdAt": "2022-04-19T06:51:50.965Z",
-        "updatedAt": "2022-04-19T06:51:50.965Z"
-    },
-    {
-        "id": 306,
-        "email": "custumer003@gmail.com",
-        "password": "$2b$10$ACDkKCPXZo1Mws1mxxn1Eu.fZl/R1G5Fc.SVdV/tMW7L2JjnXIYBm",
-        "role": "Customer",
-        "createdAt": "2022-04-19T06:56:06.950Z",
-        "updatedAt": "2022-04-19T06:56:06.950Z"
-    },
-    {
-        "id": 307,
-        "email": "cusomer001@gmail.com",
-        "password": "$2b$10$/UcajWe0lgTz/NHUdVp.JuUnIivVwL91Athgy9cqMcuKDBbl6MdWi",
-        "role": "Customer",
-        "createdAt": "2022-04-19T07:08:17.847Z",
-        "updatedAt": "2022-04-19T07:08:17.847Z"
-    },
-    {
-        "id": 308,
-        "email": "customer004@gmail.com",
-        "password": "$2b$10$svKG/TG/ufbEzIuae3bZQeBQvBWWIldTBBWCMkimLE8cuCX8d.ZpO",
-        "role": "Customer",
-        "createdAt": "2022-04-19T07:17:05.518Z",
-        "updatedAt": "2022-04-19T07:17:05.518Z"
-    },
-    {
-        "id": 309,
-        "email": "customer005@gmail.com",
-        "password": "$2b$10$XyNXiGEItWS8B/VKPatM1OaXXvQcFXjYXd7rcLUFaOfpKPTdGq0Qi",
-        "role": "Customer",
-        "createdAt": "2022-04-19T07:23:03.290Z",
-        "updatedAt": "2022-04-19T07:23:03.290Z"
-    },
-    {
-        "id": 310,
-        "email": "customer006@gmail.com",
-        "password": "$2b$10$z3/6wELV/Nq/np7ZEzG6WuiNlL9TJYUJM7lJAZaG3yookyIABDy4W",
-        "role": "Customer",
-        "createdAt": "2022-04-19T08:07:01.402Z",
-        "updatedAt": "2022-04-19T08:07:01.402Z"
-    },
-    {
-        "id": 311,
-        "email": "customer007@gmail.com",
-        "password": "$2b$10$YIbuXDFv4PXto23EEPGKw.OMDoONsu16t4VBy7dg.Kb888qUXkXX6",
-        "role": "Customer",
-        "createdAt": "2022-04-19T08:41:41.728Z",
-        "updatedAt": "2022-04-19T08:41:41.728Z"
-    },
-    {
-        "id": 312,
-        "email": "customer008@gmail.com",
-        "password": "$2b$10$6ZQro4uWlv/awuZ7PanfLeEZeva9.7XKnIcpxhbp2gd1TMJrP7IVy",
-        "role": "Customer",
-        "createdAt": "2022-04-19T08:44:29.798Z",
-        "updatedAt": "2022-04-19T08:44:29.798Z"
-    },
-    {
-        "id": 313,
-        "email": "testbn@gmail.com",
-        "password": "$2b$10$h7s4miO.c5unz3xjEhMWGO3dyvzLE/j7kjhFcE5548iw7zXV30QSK",
-        "role": "Customer",
-        "createdAt": "2022-04-19T13:11:16.016Z",
-        "updatedAt": "2022-04-19T13:11:16.016Z"
-    },
-    {
-        "id": 314,
-        "email": "testmail@mail.com",
-        "password": "$2b$10$3vJ.fNxInm.xPH9BgTuNu.tNspiHIzOGyxriUG0sW4oLywcBb8lhS",
-        "role": null,
-        "createdAt": "2022-04-19T13:14:41.476Z",
-        "updatedAt": "2022-04-19T13:14:41.476Z"
-    },
-    {
-        "id": 315,
-        "email": "testbn1@mail.com",
-        "password": "$2b$10$ZQnZjjBv6d9nW0TwBDcULeVVfuwmmg8xWxv2GC3oS8bQ9GloHSEd2",
-        "role": "admin",
-        "createdAt": "2022-04-19T13:18:46.996Z",
-        "updatedAt": "2022-04-19T13:18:46.996Z"
-    },
-    {
-        "id": 316,
-        "email": "testbn2@mail.com",
-        "password": "$2b$10$oBcKUT0.Fu/Hz3SjLIC4sOLvEL8Vda5xgKa8EjlNl2u2o4VSPYHNO",
-        "role": "Customer",
-        "createdAt": "2022-04-19T13:19:28.212Z",
-        "updatedAt": "2022-04-19T13:19:28.212Z"
-    },
-    {
-        "id": 317,
-        "email": "testbn4@gmail.com",
-        "password": "$2b$10$K6CSjguW1ynBIDJ9ZWoXMOrZm36iPEJi8e9tl5p.yUnsdVbcUGUiW",
-        "role": "Customer",
-        "createdAt": "2022-04-19T13:54:13.942Z",
-        "updatedAt": "2022-04-19T13:54:13.942Z"
-    },
-    {
-        "id": 318,
-        "email": "testbn5@gmail.com",
-        "password": "$2b$10$Yz3jd7bFUWyPELTvumdwjOWy860grj1nr/VJQNIdprC1fZe23JMxa",
-        "role": "Customer",
-        "createdAt": "2022-04-19T13:56:37.417Z",
-        "updatedAt": "2022-04-19T13:56:37.417Z"
-    },
-    {
-        "id": 319,
-        "email": "testbn6@gmail.com",
-        "password": "$2b$10$raZk4cMM8ybb.oU1I9hKleJO16tLis5bE4yncW6.c4TWPV.cloF2e",
-        "role": "Customer",
-        "createdAt": "2022-04-19T14:27:58.597Z",
-        "updatedAt": "2022-04-19T14:27:58.597Z"
-    },
-    {
-        "id": 320,
-        "email": "admin111@mail.com",
-        "password": "$2b$10$4c119EJwJB.F8X1O4azx4O7GNRgRc9GbRB.41MZRI8OGB3jzc3qRi",
-        "role": "Customer",
-        "createdAt": "2022-04-19T14:43:08.648Z",
-        "updatedAt": "2022-04-19T14:43:08.648Z"
-    },
-    {
-        "id": 321,
-        "email": "admin098@mail.com",
-        "password": "$2b$10$jBaa7T/yCI89aGZkysxlj.3pvcnVCyuOaomWEDV0vv/ZvDkxdeXNK",
-        "role": "admin",
-        "createdAt": "2022-04-19T14:53:34.809Z",
-        "updatedAt": "2022-04-19T14:53:34.809Z"
-    },
-    {
-        "id": 322,
-        "email": "admin4323@mail.com",
-        "password": "$2b$10$j4dPXmBsH.hp0DAVQZh.gO91XRCt67xpfClISs6qS6z9Iw2MrilxW",
-        "role": "Customer",
-        "createdAt": "2022-04-19T14:54:43.483Z",
-        "updatedAt": "2022-04-19T14:54:43.483Z"
-    },
-    {
-        "id": 323,
-        "email": "user@gmail.com",
-        "password": "$2b$10$x41WtgYOr7nzlvubRDgh6eaayv/fYENHegywaoM8VtryX4M3LtVVy",
-        "role": "Customer",
-        "createdAt": "2022-04-19T14:59:20.233Z",
-        "updatedAt": "2022-04-19T14:59:20.233Z"
-    },
-    {
-        "id": 324,
-        "email": "adminMaik12@mail.com",
-        "password": "$2b$10$RlpsIC3TJGFVNHZGamMvtuV9aRWhQgtm.Jr.k7AXrqnMuTWsnmFga",
-        "role": "admin",
-        "createdAt": "2022-04-19T15:05:51.144Z",
-        "updatedAt": "2022-04-19T15:05:51.144Z"
-    },
-    {
-        "id": 325,
-        "email": "tesuser001@email.com",
-        "password": "$2b$10$aGnuZJwQQ9cQUQ/tucnBoOL/H8qIX5U4i1bCpoMgxPD.ShdGOsCSm",
-        "role": "Customer",
-        "createdAt": "2022-04-19T15:13:17.219Z",
-        "updatedAt": "2022-04-19T15:13:17.219Z"
-    },
-    {
-        "id": 326,
-        "email": "tesadmin001@email.com",
-        "password": "$2b$10$x5lfTV42HvZ8C4OScw2koOz74IuOUJK2LE0hy7lOjFs6s2uSCnklS",
-        "role": "admin",
-        "createdAt": "2022-04-19T15:14:02.005Z",
-        "updatedAt": "2022-04-19T15:14:02.005Z"
-    },
-    {
-        "id": 327,
-        "email": "admin1111@mail.com",
-        "password": "$2b$10$UhnFg8S3vNL8IPRWi1OKg.FF9rfVtHC.7dkE9ASWs6WxeNOUCuSv.",
-        "role": "admin",
-        "createdAt": "2022-04-19T15:22:50.985Z",
-        "updatedAt": "2022-04-19T15:22:50.985Z"
-    },
-    {
-        "id": 328,
-        "email": "custMaik3@gmail.com",
-        "password": "$2b$10$3bZPKlmAAroC3VmKBuzILewi2jF1C5ikj19qRF.t03TuKvUFx6Kj6",
-        "role": "Customer",
-        "createdAt": "2022-04-19T15:26:13.254Z",
-        "updatedAt": "2022-04-19T15:26:13.254Z"
-    },
-    {
-        "id": 329,
-        "email": "admin15@gmail.com",
-        "password": "$2b$10$bnRj62hnU0ooAsymUm8fseAM.zun0womqdc0JotbQ6iVu1p0QBP/C",
-        "role": "admin",
-        "createdAt": "2022-04-20T00:57:37.874Z",
-        "updatedAt": "2022-04-20T00:57:37.874Z"
-    },
-    {
-        "id": 330,
-        "email": "adminhayuk@main.com",
-        "password": "$2b$10$Hynr8mNZN0msWue7orwHZuZdiBSLXpxZzsZSnv.uZtT5zXHFmllNK",
-        "role": "admin",
-        "createdAt": "2022-04-20T07:49:01.045Z",
-        "updatedAt": "2022-04-20T07:49:01.045Z"
-    },
-    {
-        "id": 331,
-        "email": "chap5day4@gmail.com",
-        "password": "$2b$10$NYpcVT2uQ.2SaejslKqUBeZh600Od9dk1pZUg3egdUJySsQUlNSbi",
-        "role": "admin",
-        "createdAt": "2022-04-20T13:25:18.098Z",
-        "updatedAt": "2022-04-20T13:25:18.098Z"
-    },
-    {
-        "id": 332,
-        "email": "tes1@gmail.com",
-        "password": "$2b$10$EYzDJEFwnuwUqR3x6TAD1.sp/q1I7vk6QgCcHlvrWAAKPsqPdNBAW",
-        "role": "admin",
-        "createdAt": "2022-04-20T14:03:08.731Z",
-        "updatedAt": "2022-04-20T14:03:08.731Z"
-    },
-    {
-        "id": 333,
-        "email": "testakun10@gmail.com",
-        "password": "$2b$10$H.RWTRD8jBYtBgc9EqKIquKZVJygubdvhkdSkkI3yyALiOn4peYVe",
-        "role": "Customer",
-        "createdAt": "2022-04-20T14:17:42.309Z",
-        "updatedAt": "2022-04-20T14:17:42.309Z"
-    },
-    {
-        "id": 334,
-        "email": "testercos1@email.com",
-        "password": "$2b$10$1Cl.V0IZJxpaqI0oTtBiIuJ/wVwiCAeSkgbFSo6J9Hy5e3/yuk7Si",
-        "role": "Customer",
-        "createdAt": "2022-04-20T14:28:49.677Z",
-        "updatedAt": "2022-04-20T14:28:49.677Z"
-    },
-    {
-        "id": 335,
-        "email": "cuctomer00001@mail.com",
-        "password": "$2b$10$c4/uG90.dqVCwp7D19P0G.ptmSYHSDX7rBfVxtzV5Dyf.agYVKZrC",
-        "role": "Customer",
-        "createdAt": "2022-04-20T14:33:46.504Z",
-        "updatedAt": "2022-04-20T14:33:46.504Z"
-    },
-    {
-        "id": 336,
-        "email": "hai@gmail.c.om",
-        "password": "$2b$10$.0E9OtbE3sxjeDz9V71cO.0DEVsL/zjb32rGb/92dawtKs.le64lq",
-        "role": "admin",
-        "createdAt": "2022-04-20T14:35:38.017Z",
-        "updatedAt": "2022-04-20T14:35:38.017Z"
-    },
-    {
-        "id": 337,
-        "email": "akuntest5@gmail.com",
-        "password": "$2b$10$uMNQSvRhrw/HxU5AvahFdOS.vGMBfnfVPvohfD/gnt017h0w2iomK",
-        "role": "Customer",
-        "createdAt": "2022-04-21T03:51:56.587Z",
-        "updatedAt": "2022-04-21T03:51:56.587Z"
-    },
-    {
-        "id": 338,
-        "email": "poop@gmail.com",
-        "password": "$2b$10$vlER0.4ExHgxkTmiSCcq.uMHfy75upfZUQ0AfD4dIwwTmcVuSeyhO",
-        "role": "admin",
-        "createdAt": "2022-04-21T20:52:25.529Z",
-        "updatedAt": "2022-04-21T20:52:25.529Z"
-    },
-    {
-        "id": 339,
-        "email": "testing1@gmail.com",
-        "password": "$2b$10$PQ0wrNGvMexrJBM63lJuz.vJFcusQ83m/2.NnXAWid1n6QMWkhZnu",
-        "role": "admin",
-        "createdAt": "2022-04-21T21:08:41.617Z",
-        "updatedAt": "2022-04-21T21:08:41.617Z"
-    },
-    {
-        "id": 340,
-        "email": "testing2@gmail.com",
-        "password": "$2b$10$XZ4pN43dlOFFXJKZ0cjv.estb0VWdfp1o7McMxLoNyx0H1iOs9YYe",
-        "role": "admin",
-        "createdAt": "2022-04-21T21:12:38.061Z",
-        "updatedAt": "2022-04-21T21:12:38.061Z"
-    },
-    {
-        "id": 341,
-        "email": "testing3@gmail.com",
-        "password": "$2b$10$ib9Q1YjeIX83mejmOMJQ3eOvO.O91n/e5qlj3X6k44ZlNPmr2pP6a",
-        "role": "admin",
-        "createdAt": "2022-04-21T21:13:41.974Z",
-        "updatedAt": "2022-04-21T21:13:41.974Z"
-    },
-    {
-        "id": 342,
-        "email": "testing4@gmail.com",
-        "password": "$2b$10$T6boR1AcUqv4B.Df9ihz7ex.O4zVc4oa9cQhkZRRXZb1TZx83wuBW",
-        "role": "admin",
-        "createdAt": "2022-04-21T21:22:43.101Z",
-        "updatedAt": "2022-04-21T21:22:43.101Z"
-    },
-    {
-        "id": 343,
-        "email": "xnsj@mail.com",
-        "password": "$2b$10$YnGN64rqjsTms.F6uMjyh.InN/tw0KVnkyEdEe3k6jSpgkkayMppe",
-        "role": "admin",
-        "createdAt": "2022-04-22T12:29:15.995Z",
-        "updatedAt": "2022-04-22T12:29:15.995Z"
-    },
-    {
-        "id": 344,
-        "email": "a.abdulah3@gmail.com",
-        "password": "$2b$10$y6bxv0VkdKYHCsGPcR.CJu6jK86T3DH9HtAAW5aZzNr5SsRIlWR0.",
-        "role": "admin",
-        "createdAt": "2022-04-22T15:28:47.228Z",
-        "updatedAt": "2022-04-22T15:28:47.228Z"
-    },
-    {
-        "id": 345,
-        "email": "abdullah3@gmail.com",
-        "password": "$2b$10$KFhUeaXYnieWVXGBxlTEoOmpGSqhB5Sc4EE64GyoTtreH0WjWL2qG",
-        "role": "admin",
-        "createdAt": "2022-04-22T15:29:05.442Z",
-        "updatedAt": "2022-04-22T15:29:05.442Z"
-    },
-    {
-        "id": 346,
-        "email": "dtyrtest@mail.com",
-        "password": "$2b$10$hipRgVV3V5iwmWCAauFLte1GmDfRj7ooHwudgsZT/S35mVrP7e98S",
-        "role": "admin",
-        "createdAt": "2022-04-23T09:17:17.976Z",
-        "updatedAt": "2022-04-23T09:17:17.976Z"
-    },
-    {
-        "id": 347,
-        "email": "rizkygg55@gmail.com",
-        "password": "$2b$10$B8WgMsg.ojzjQ.eMs7tCX.ufLQCvqjSJzmraHLOI20zAbLWHDjXmO",
-        "role": "admin",
-        "createdAt": "2022-04-23T15:21:01.310Z",
-        "updatedAt": "2022-04-23T15:21:01.310Z"
-    },
-    {
-        "id": 348,
-        "email": "adit@test.com",
-        "password": "$2b$10$l6pxFIreYifANZ/QnPxULuj9T1yVvr1xzry2Q32OIoxZeaO/nsLM6",
-        "role": "admin",
-        "createdAt": "2022-04-23T15:22:33.350Z",
-        "updatedAt": "2022-04-23T15:22:33.350Z"
-    },
-    {
-        "id": 349,
-        "email": "bebe@gmail.com",
-        "password": "$2b$10$b97apcdjaI7VcuQbDtb6F.IKvV6LyWW8uB4DaTJQvEoaeVknRYeFe",
-        "role": "admin",
-        "createdAt": "2022-04-26T02:06:00.654Z",
-        "updatedAt": "2022-04-26T02:06:00.654Z"
-    },
-    {
-        "id": 350,
-        "email": "admin12321313213213@mail.com",
-        "password": "$2b$10$6GZ.kTlSv8nabOFsyD5jD.uBh5V0W8q5VNSzKyDxYR9YW3YWvMVeS",
-        "role": "Customer",
-        "createdAt": "2022-04-26T09:55:10.973Z",
-        "updatedAt": "2022-04-26T09:55:10.973Z"
-    },
-    {
-        "id": 351,
-        "email": "admin324245545@mail.com",
-        "password": "$2b$10$Vi6gSMBqgrMFO7Mv3erPFuO8jx708lxQip.km4965Y6GZXBYgblq2",
-        "role": "Customer",
-        "createdAt": "2022-04-26T13:55:14.163Z",
-        "updatedAt": "2022-04-26T13:55:14.163Z"
-    }
+  {
+    "id": 1,
+    "email": "admin@mail.com",
+    "password": "$2b$10$L2aH9/nJLhUMB19yq27M5OaA2tqnIw/bo89h9dJu3EVLHlSd4CnOS",
+    "role": "admin",
+    "createdAt": "2022-03-09T15:49:41.975Z",
+    "updatedAt": "2022-03-09T15:49:41.975Z"
+  },
+  {
+    "id": 2,
+    "email": "john_doe@mail.com",
+    "password": "$2b$10$86MN7jpDD5bE8F0pwn7kQORkaw//G85Gjl.WsOOKWaPDGXbsD6MbS",
+    "role": "Customer",
+    "createdAt": "2022-03-09T15:50:11.666Z",
+    "updatedAt": "2022-03-09T15:50:11.666Z"
+  },
+  {
+    "id": 3,
+    "email": "elizabeth@mail.com",
+    "password": "$2b$10$V.GhZVt92jpcJyIj6eXdTe2/WNOmERWdocVvXuBopwExU6IJTo.5e",
+    "role": "Customer",
+    "createdAt": "2022-03-09T15:50:21.999Z",
+    "updatedAt": "2022-03-09T15:50:21.999Z"
+  },
+  {
+    "id": 4,
+    "email": "mark@mail.com",
+    "password": "$2b$10$Kv0Hpgqees0Kx10JVyAfG.rH3zuw9ehJuPIaC7yqgId/8Ij91p2tq",
+    "role": "Customer",
+    "createdAt": "2022-03-09T15:50:35.401Z",
+    "updatedAt": "2022-03-09T15:50:35.401Z"
+  },
+  {
+    "id": 5,
+    "email": "michael@mail.com",
+    "password": "$2b$10$L8preybXRv5m4gb4P5SuYOu2fNcwKBVPPvz33qOlvWb5vbJLlCJ6m",
+    "role": "Customer",
+    "createdAt": "2022-03-09T15:50:46.472Z",
+    "updatedAt": "2022-03-09T15:50:46.472Z"
+  },
+  {
+    "id": 6,
+    "email": "androtest@binarmail.com",
+    "password": "$2b$10$M6jlrYj30vu0Yx3wacrcd.wMa/DpU7dQpLLwT.0jpHETtOtMjHg.i",
+    "role": "admin",
+    "createdAt": "2022-03-11T16:53:11.418Z",
+    "updatedAt": "2022-03-11T16:53:11.418Z"
+  },
+  {
+    "id": 7,
+    "email": "androtest+1@mail.com",
+    "password": "$2b$10$hvJgutMIzhwxG71F6QUPiOkABd0PE9QiuUUJyg0MjgQXxwJmn4CmS",
+    "role": "admin",
+    "createdAt": "2022-03-11T17:18:30.754Z",
+    "updatedAt": "2022-03-11T17:18:30.754Z"
+  },
+  {
+    "id": 8,
+    "email": "admissssn@mail.com",
+    "password": "$2b$10$hyjjMjOHT90nr9nmE8i6J.jYHTrC/7VS7SKxYOmg8chOaHmUMqhti",
+    "role": "Customer",
+    "createdAt": "2022-04-01T09:11:46.495Z",
+    "updatedAt": "2022-04-01T09:11:46.495Z"
+  },
+  {
+    "id": 9,
+    "email": "admin2@mail.com",
+    "password": "$2b$10$2I4cL4axLqhNqmEtrZo7Y.lWLCfci1qgbxZgipv5EdjU81WCtPc.y",
+    "role": "Customer",
+    "createdAt": "2022-04-05T14:43:38.818Z",
+    "updatedAt": "2022-04-05T14:43:38.818Z"
+  },
+  {
+    "id": 10,
+    "email": "tes@mail.com",
+    "password": "$2b$10$Sy7Bif90pfGXR0gdyQNiC.3WYpexDnJLqUdp35I0Sm.jAXOJ9YNDe",
+    "role": "Customer",
+    "createdAt": "2022-04-05T14:43:56.667Z",
+    "updatedAt": "2022-04-05T14:43:56.667Z"
+  },
+  {
+    "id": 11,
+    "email": "admin88888@mail.com",
+    "password": "$2b$10$3u6ncS2D0MFYUR5v1ZwxYuxoQNE/WP.6CErOrD7ScnzHLq/Y.kOym",
+    "role": "admin",
+    "createdAt": "2022-04-07T14:34:59.087Z",
+    "updatedAt": "2022-04-07T14:34:59.087Z"
+  },
+  {
+    "id": 12,
+    "email": "admin8eee8888@mail.com",
+    "password": "$2b$10$3c1bgn1ttTD.wNCw81qU6ulA7P4Ms9b9wZzcywItFOq1ou2i76Eve",
+    "role": "admin",
+    "createdAt": "2022-04-07T15:08:39.553Z",
+    "updatedAt": "2022-04-07T15:08:39.553Z"
+  },
+  {
+    "id": 13,
+    "email": "admin8eee8rrr888@mail.com",
+    "password": "$2b$10$bXPdbmGRnMKXjq2N6UQqS.RONm1hgi/wpfDJqA143tY74LP3Q8h8q",
+    "role": "admin",
+    "createdAt": "2022-04-07T15:09:17.641Z",
+    "updatedAt": "2022-04-07T15:09:17.641Z"
+  },
+  {
+    "id": 14,
+    "email": "tesAdmin@gmail.com",
+    "password": "$2b$10$v1Cyxhnc2wvYkUgsCpqlpum7MYifG29zNx6QzpfC6/gEJ35qkHFK.",
+    "role": "admin",
+    "createdAt": "2022-04-07T15:17:05.063Z",
+    "updatedAt": "2022-04-07T15:17:05.063Z"
+  },
+  {
+    "id": 15,
+    "email": "fachrisajovi@gmail.com",
+    "password": "$2b$10$RbWywBFXXd0JPb9T46ofSe9nWbIGkiAVAos5PjSp/bywgrbDQZsz.",
+    "role": "admin",
+    "createdAt": "2022-04-08T18:02:08.127Z",
+    "updatedAt": "2022-04-08T18:02:08.127Z"
+  },
+  {
+    "id": 16,
+    "email": "test123@gmail.com",
+    "password": "$2b$10$RisJoLTdPuxfUQgAv8cq9.BbvwWpySNi4AmrfY23LX0jHNqo9NLCO",
+    "role": "admin",
+    "createdAt": "2022-04-11T16:35:05.157Z",
+    "updatedAt": "2022-04-11T16:35:05.157Z"
+  },
+  {
+    "id": 17,
+    "email": "if300@gmail.com",
+    "password": "$2b$10$XsTHZqBnNcIpfezwTrdTpehDcT9HcxLZsarnZkUSI/UcMOSmbxT2.",
+    "role": "admin",
+    "createdAt": "2022-04-11T16:35:46.348Z",
+    "updatedAt": "2022-04-11T16:35:46.348Z"
+  },
+  {
+    "id": 18,
+    "email": "if300@bin.co",
+    "password": "$2b$10$WbU52Bw54EI6WQf996RQY.ford5a/yg5uEhUfOz800bDnOIO77sJ6",
+    "role": "admin",
+    "createdAt": "2022-04-11T16:35:56.749Z",
+    "updatedAt": "2022-04-11T16:35:56.749Z"
+  },
+  {
+    "id": 19,
+    "email": "admin1231231231231@mail.com",
+    "password": "$2b$10$iIMHbuAzGMNvYGwFrrxzJ.bkgJGs2hRYJAyKRCAdaztQdPY2J5SPm",
+    "role": "admin",
+    "createdAt": "2022-04-12T12:36:28.242Z",
+    "updatedAt": "2022-04-12T12:36:28.242Z"
+  },
+  {
+    "id": 20,
+    "email": "admin1231231231231123123@mail.com",
+    "password": "$2b$10$Ezjr.8NyPLChXKxRU4Etz.jghM2oQNOX2swwTduJ.1an0CUkWZYy2",
+    "role": "admin",
+    "createdAt": "2022-04-12T12:36:29.562Z",
+    "updatedAt": "2022-04-12T12:36:29.562Z"
+  },
+  {
+    "id": 21,
+    "email": "admin1231231231231123123123123@mail.com",
+    "password": "$2b$10$Q2Cq0e8MmYlD5yjoJn8ykuJ7/fE73G2/XWUVvO8q8c48/uQbjCdoG",
+    "role": "admin",
+    "createdAt": "2022-04-12T12:36:31.149Z",
+    "updatedAt": "2022-04-12T12:36:31.149Z"
+  },
+  {
+    "id": 22,
+    "email": "admin1231231231231123123123123123123@mail.com",
+    "password": "$2b$10$WBWuZhJ4RI61IpyvvS4a2emNN7kFQgs6H5yaEY8c1BYyvzp7qokny",
+    "role": "admin",
+    "createdAt": "2022-04-12T12:36:32.486Z",
+    "updatedAt": "2022-04-12T12:36:32.486Z"
+  },
+  {
+    "id": 23,
+    "email": "admin12312@mail.com",
+    "password": "$2b$10$q9nXPV4qCJ2QF2oyQBomMOHDLVL2qV6tNe.qsRQKjuE9jUpcWyN4i",
+    "role": "admin",
+    "createdAt": "2022-04-12T12:36:35.751Z",
+    "updatedAt": "2022-04-12T12:36:35.751Z"
+  },
+  {
+    "id": 24,
+    "email": "and4@mail.com",
+    "password": "$2b$10$xWmOWUFlnqK9gg4bJOi/BOVeaBCzzgMEP7TKEaSQs2olFhPApuGlK",
+    "role": "Customer",
+    "createdAt": "2022-04-12T15:35:02.984Z",
+    "updatedAt": "2022-04-12T15:35:02.984Z"
+  },
+  {
+    "id": 25,
+    "email": "fhafzain@binaracademy.org",
+    "password": "$2b$10$.nmWP57r01K8wNus0unkZush6d.tDW4PaiTdHatRazo7xtzeJwwG2",
+    "role": "admin",
+    "createdAt": "2022-04-13T00:25:31.225Z",
+    "updatedAt": "2022-04-13T00:25:31.225Z"
+  },
+  {
+    "id": 26,
+    "email": "romuty16@gmail.com",
+    "password": "$2b$10$tYhyPRJhu.rJMYpwRilG5./Ny4SAZIpbjVGoN461ypcC7hn6OQuBO",
+    "role": "admin",
+    "createdAt": "2022-04-13T00:29:43.458Z",
+    "updatedAt": "2022-04-13T00:29:43.458Z"
+  },
+  {
+    "id": 27,
+    "email": "test@gmail.com",
+    "password": "$2b$10$8/Lvt.ddnBOL0ygbTq2DBevI8fs.d6S2JwQIVE/wjzInyFKtix0UC",
+    "role": "admin",
+    "createdAt": "2022-04-13T00:30:07.794Z",
+    "updatedAt": "2022-04-13T00:30:07.794Z"
+  },
+  {
+    "id": 28,
+    "email": "romuty17@gmail.com",
+    "password": "$2b$10$PBIiWmEiYnBSf5Bni.mdWuNYaOCK7L1kUsgbvw2aoDq1RCeeAPZia",
+    "role": "admin",
+    "createdAt": "2022-04-13T00:33:09.673Z",
+    "updatedAt": "2022-04-13T00:33:09.673Z"
+  },
+  {
+    "id": 29,
+    "email": "yusuf@binaracademy.org",
+    "password": "$2b$10$dokK9pj8CSDXy8WdnR5Jzevou4TuLvACftTZgmoviAa5hfY4b1VIK",
+    "role": "admin",
+    "createdAt": "2022-04-13T00:33:38.050Z",
+    "updatedAt": "2022-04-13T00:33:38.050Z"
+  },
+  {
+    "id": 30,
+    "email": "iinsn@gmail.com",
+    "password": "$2b$10$LcTGaI4KKddl5j9a9p2CpeFd06i5xofPgo1B9P5rU4A9rdOjikOYy",
+    "role": "admin",
+    "createdAt": "2022-04-13T00:34:24.594Z",
+    "updatedAt": "2022-04-13T00:34:24.594Z"
+  },
+  {
+    "id": 31,
+    "email": "badhrul08@gmail.com",
+    "password": "$2b$10$L/hjlkrsElcRL1QHYNa7Y.RUYfIAgng2BXrB/G9KkcVI/nAPZPR0C",
+    "role": "admin",
+    "createdAt": "2022-04-13T00:37:04.449Z",
+    "updatedAt": "2022-04-13T00:37:04.449Z"
+  },
+  {
+    "id": 32,
+    "email": "adiya17@gmail.com",
+    "password": "$2b$10$XIjGcXrANfNNne9ythEkzeB4KSqPzklQL.gk1fbXQmuLRGCI9sV6W",
+    "role": "admin",
+    "createdAt": "2022-04-13T00:37:10.201Z",
+    "updatedAt": "2022-04-13T00:37:10.201Z"
+  },
+  {
+    "id": 33,
+    "email": "testing@gmail.com",
+    "password": "$2b$10$TumDDxGPhUtb2Eo3c6QHVOOciRgfsWrvM5X.FRq.hn/2kgBNizZfG",
+    "role": "admin",
+    "createdAt": "2022-04-13T00:52:15.038Z",
+    "updatedAt": "2022-04-13T00:52:15.038Z"
+  },
+  {
+    "id": 34,
+    "email": "fhafzain@a.org",
+    "password": "$2b$10$PLcrPvJYFnmQmJc7EhWocOdLSZvQ.VOt3RhuBbUsk6MuMKPEr89b.",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:07:43.266Z",
+    "updatedAt": "2022-04-13T01:07:43.266Z"
+  },
+  {
+    "id": 35,
+    "email": "adiya155@gmail.com",
+    "password": "$2b$10$OFvmTzk1fJ2eTCcOdO.Fs.Uz8f7PYxW4g2.yhsQLUWIs6uaEYsN6K",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:12:19.382Z",
+    "updatedAt": "2022-04-13T01:12:19.382Z"
+  },
+  {
+    "id": 36,
+    "email": "wkwk@gmail.com",
+    "password": "$2b$10$fsl5WE41J/qUW9d9LZYNWOKNebdRrtx4NixI5XhffuK1pBM/MZJM.",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:12:23.956Z",
+    "updatedAt": "2022-04-13T01:12:23.956Z"
+  },
+  {
+    "id": 37,
+    "email": "dzaky@gmail.com",
+    "password": "$2b$10$UmeJCQeDDBIKnu1L7IaxP.GjaG7vUdavw76JrjLqV7gnkaWVEDNmq",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:13:10.191Z",
+    "updatedAt": "2022-04-13T01:13:10.191Z"
+  },
+  {
+    "id": 38,
+    "email": "testing1212@gmail.com",
+    "password": "$2b$10$r9g2HX4EJrq7mDKCKgkdm.OlObswr.AfQWJSLKNp.kS6RImHDkhAe",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:18:39.899Z",
+    "updatedAt": "2022-04-13T01:18:39.899Z"
+  },
+  {
+    "id": 39,
+    "email": "aditya1@gmail.com",
+    "password": "$2b$10$ReMsRc3B/iO4ESDwjcu1OuUxY/uhpfwsG9N.0U.gnlllMF9tXGb/y",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:19:02.917Z",
+    "updatedAt": "2022-04-13T01:19:02.917Z"
+  },
+  {
+    "id": 40,
+    "email": "test1233333@gmail.com",
+    "password": "$2b$10$oC3IpuDj3IelXoZ81Gt6guN1GIcZh5L6obxJKr5T6bld4qQxxo8zK",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:20:04.866Z",
+    "updatedAt": "2022-04-13T01:20:04.866Z"
+  },
+  {
+    "id": 41,
+    "email": "aditya122121@gmail.com",
+    "password": "$2b$10$xYqgORTsNY1B5ccNwO7dSeJHInxoRi3aGfYYMrviDbRkk9GZmYwGG",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:20:52.535Z",
+    "updatedAt": "2022-04-13T01:20:52.535Z"
+  },
+  {
+    "id": 42,
+    "email": "coba@gmail.com",
+    "password": "$2b$10$8fqxv5mCTJsGsWHeV9IbqeajcD5yYhsW9j07HSTcVbG0ifDkoiSQC",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:28:24.295Z",
+    "updatedAt": "2022-04-13T01:28:24.295Z"
+  },
+  {
+    "id": 43,
+    "email": "test12333332@gmail.com",
+    "password": "$2b$10$q1M6V98WEVwgDOlw3d6u9eiM309X06HfdYHgPVFkoYlNrbbwp6zv.",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:30:04.634Z",
+    "updatedAt": "2022-04-13T01:30:04.634Z"
+  },
+  {
+    "id": 44,
+    "email": "salman08@gmail.com",
+    "password": "$2b$10$rD2u064NM5xqJJYxkdKCVO7wbVQ//jGQxKniLgBkc05fAIv2876rK",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:30:37.721Z",
+    "updatedAt": "2022-04-13T01:30:37.721Z"
+  },
+  {
+    "id": 45,
+    "email": "ininyoba@gmail.com",
+    "password": "$2b$10$MsOJeIvtrAjimpDRoC0y0OSUiQr2vKHyTE0UJ3PNNfa4aiiLW.bnu",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:31:51.182Z",
+    "updatedAt": "2022-04-13T01:31:51.182Z"
+  },
+  {
+    "id": 46,
+    "email": "coba08@gmail.com",
+    "password": "$2b$10$ua16qekaEuyLBB/N4B54feZfUSllnY34ZWX284es9d5HR4bCIm6vi",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:32:25.898Z",
+    "updatedAt": "2022-04-13T01:32:25.898Z"
+  },
+  {
+    "id": 47,
+    "email": "testing121wa2@gmail.com",
+    "password": "$2b$10$q58meZPZYAOQZ1WZifnnzeVDVgHfyK7jHEfqyaG3Cf0J46Itljw3a",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:46:29.464Z",
+    "updatedAt": "2022-04-13T01:46:29.464Z"
+  },
+  {
+    "id": 48,
+    "email": "sopian@gmail.com",
+    "password": "$2b$10$NqKli0VU7.XJoHKUHklq0.ELAPnlS5wo8RYsWs/RYNKCle1H8InP.",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:46:39.981Z",
+    "updatedAt": "2022-04-13T01:46:39.981Z"
+  },
+  {
+    "id": 49,
+    "email": "aditya10@gmail.com",
+    "password": "$2b$10$GNOevhPZSbAE3b0brb2lBeIl0a73P6ydmX0CYT.I/SQ.aHWA0ZKmG",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:47:32.187Z",
+    "updatedAt": "2022-04-13T01:47:32.187Z"
+  },
+  {
+    "id": 50,
+    "email": "aditya10k@gmail.com",
+    "password": "$2b$10$FVf/f4E1TEAMG.7tuYxbIun1KWkoZm891G4xR8oqm50HKnRa94tke",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:47:42.683Z",
+    "updatedAt": "2022-04-13T01:47:42.683Z"
+  },
+  {
+    "id": 51,
+    "email": "aditya10k@umail.com",
+    "password": "$2b$10$WlTvQmHCu3IcWzyowCGJZunQ4K1SywgsNGH.U7XpOzSipb6vdeBuG",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:48:36.776Z",
+    "updatedAt": "2022-04-13T01:48:36.776Z"
+  },
+  {
+    "id": 52,
+    "email": "nyobapls@gmail.com",
+    "password": "$2b$10$CtZTKFKT/YGRDHPL99tYEu1X2t9hX5ejRt1qb0/NahXvNqZrDP5rq",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:48:44.787Z",
+    "updatedAt": "2022-04-13T01:48:44.787Z"
+  },
+  {
+    "id": 53,
+    "email": "aya22@gamil.com",
+    "password": "$2b$10$X8POppJLsMm6H23SStK5BeVCgbagyqLtXBezAH43B11dqgOx/1D2.",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:51:13.472Z",
+    "updatedAt": "2022-04-13T01:51:13.472Z"
+  },
+  {
+    "id": 54,
+    "email": "nuel@gmail.com",
+    "password": "$2b$10$Ms..hq5yUZ4n9xro7YFxcORSC47LvsqMbqSFrikogOxSc4py505e6",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:51:41.359Z",
+    "updatedAt": "2022-04-13T01:51:41.359Z"
+  },
+  {
+    "id": 55,
+    "email": "kau22@gmail.com",
+    "password": "$2b$10$jg3/bz2LYiIjob2UHq.f.O3hNqKKU9CT3B7JIY6UY2ID79ZuPHX6W",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:52:13.221Z",
+    "updatedAt": "2022-04-13T01:52:13.221Z"
+  },
+  {
+    "id": 56,
+    "email": "kipasangin@gmail.com",
+    "password": "$2b$10$Ls3bdmpMKE.oRbpkeVYtDuT95w/g4wTnETp0s6wuzfDWvi9LWM9zC",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:54:33.701Z",
+    "updatedAt": "2022-04-13T01:54:33.701Z"
+  },
+  {
+    "id": 57,
+    "email": "kipasngin@gmail.com",
+    "password": "$2b$10$0X0y.8UGuEd9ekcKpDbU/ehGbDwDmegVCQFUFFdfr825/wZI8OIgm",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:57:13.592Z",
+    "updatedAt": "2022-04-13T01:57:13.592Z"
+  },
+  {
+    "id": 58,
+    "email": "salim@gmail.com",
+    "password": "$2b$10$tr6Mk8XvyM9dlz09G1FCfOyPFmVJDw4vYVmH5KJx8HtQQM5arJ202",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:59:31.597Z",
+    "updatedAt": "2022-04-13T01:59:31.597Z"
+  },
+  {
+    "id": 59,
+    "email": "aqua1@gmail.com",
+    "password": "$2b$10$Nx8lgXQ.THYHzxbbkbwVzOWd.dB9EV7C56DHHdns5ObGkPaGMO1sy",
+    "role": "admin",
+    "createdAt": "2022-04-13T01:59:55.052Z",
+    "updatedAt": "2022-04-13T01:59:55.052Z"
+  },
+  {
+    "id": 60,
+    "email": "nueldude@gmail.com",
+    "password": "$2b$10$FZ0y4fuuS2Qq2PGuCnw1D.0qMsw95hXf02LJJqNxGLaqHvSV8PSlG",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:00:50.004Z",
+    "updatedAt": "2022-04-13T02:00:50.004Z"
+  },
+  {
+    "id": 61,
+    "email": "sani22@gmail.com",
+    "password": "$2b$10$PU/KwISq.7/ZIV1vjO5BXu.pvInMod72O5V9qJWhRi3EiK8QcctJK",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:03:41.506Z",
+    "updatedAt": "2022-04-13T02:03:41.506Z"
+  },
+  {
+    "id": 62,
+    "email": "kocak@gmail.com",
+    "password": "$2b$10$qYIPFY7iUQ0EL58e6RwVT.X2JjiWKCQkFg3mJOw8043XBwJv8gz.i",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:05:30.338Z",
+    "updatedAt": "2022-04-13T02:05:30.338Z"
+  },
+  {
+    "id": 63,
+    "email": "lagao@gmail.com",
+    "password": "$2b$10$3qdeU4HpMBJxQaeGcVN8Uu9DtVqeYMBwDSKBTeHNDIFKYkfUW7NOe",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:05:39.775Z",
+    "updatedAt": "2022-04-13T02:05:39.775Z"
+  },
+  {
+    "id": 64,
+    "email": "ayam@gmail.com",
+    "password": "$2b$10$NhCda96ZaTVC4RGPZMAswe/OIWX9CGjoh8XepZJ11OK2O41lTF8MK",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:07:28.265Z",
+    "updatedAt": "2022-04-13T02:07:28.265Z"
+  },
+  {
+    "id": 65,
+    "email": "kipas@gmail.com",
+    "password": "$2b$10$7dNUb7RszA52tYHXJF/mZuHhivW7iMqxK1TFD4ZNtcUz59jG.jyxW",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:08:22.457Z",
+    "updatedAt": "2022-04-13T02:08:22.457Z"
+  },
+  {
+    "id": 66,
+    "email": "nuellucu@gmail.com",
+    "password": "$2b$10$upKD4uatwrXcCsOmlSEQhexUOdysfZb.udb9w7oMRYiwsGYuNy8IC",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:11:39.422Z",
+    "updatedAt": "2022-04-13T02:11:39.422Z"
+  },
+  {
+    "id": 67,
+    "email": "aditrizky@gmail.com",
+    "password": "$2b$10$sJkflMDuRUOtcyzRx.B3e.52FTzhpxRSyCVZXnT.CZRuF5OLnLMeW",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:16:24.245Z",
+    "updatedAt": "2022-04-13T02:16:24.245Z"
+  },
+  {
+    "id": 68,
+    "email": "ayamgeprek@gmail.com",
+    "password": "$2b$10$5qDTX2NdYD8ZJ3HB2dgWteV9f.F5es3Nb6Fqoe2oYpVeh5UGfOzfa",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:18:47.775Z",
+    "updatedAt": "2022-04-13T02:18:47.775Z"
+  },
+  {
+    "id": 69,
+    "email": "test08@gmail.com",
+    "password": "$2b$10$mIclMzRjdvQY0asdE1g4XeAy6dnYeS614EMPpCc8dKbpEpSTsQYkG",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:19:46.168Z",
+    "updatedAt": "2022-04-13T02:19:46.168Z"
+  },
+  {
+    "id": 70,
+    "email": "aditriky@gmail.com",
+    "password": "$2b$10$B9sjWUP0P2HkWJT782EqA.nzp2qNU0qXk/fEYGfGH9tCwRe6adgR2",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:22:10.957Z",
+    "updatedAt": "2022-04-13T02:22:10.957Z"
+  },
+  {
+    "id": 71,
+    "email": "danajya@gmail.com",
+    "password": "$2b$10$yAm13r1lQQTiAyRlu29Ww.zX.MBPjrQZ8vy28aoQqOjFivVMW58eu",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:23:22.116Z",
+    "updatedAt": "2022-04-13T02:23:22.116Z"
+  },
+  {
+    "id": 72,
+    "email": "chance009@gmail.com",
+    "password": "$2b$10$Ma.fooNRGJhHocItOoy9LeHTxExUvTiJMmZFXylLfDNHuge4zopYK",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:23:45.912Z",
+    "updatedAt": "2022-04-13T02:23:45.912Z"
+  },
+  {
+    "id": 73,
+    "email": "aditya103@gmail.com",
+    "password": "$2b$10$NAnPb/M2g9SGyyvLkJfhC.UMyaRPwleluaQYj2wCxFHo4VsBhj.HK",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:24:08.586Z",
+    "updatedAt": "2022-04-13T02:24:08.586Z"
+  },
+  {
+    "id": 74,
+    "email": "aditdananjya@gmail.com",
+    "password": "$2b$10$J/sonnPGUtfgavgw5Ed57uEjIP5yj5dJJxb1uXH5HBaekDVFfAszO",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:31:43.830Z",
+    "updatedAt": "2022-04-13T02:31:43.830Z"
+  },
+  {
+    "id": 75,
+    "email": "gagagagag@gmail.com",
+    "password": "$2b$10$Ag.xwUJnji9u75CVBlM8T.SC1pMp8Om3EC5vYtEQPIHE4sbHbVw1S",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:31:45.081Z",
+    "updatedAt": "2022-04-13T02:31:45.081Z"
+  },
+  {
+    "id": 76,
+    "email": "popopo@gmail.com",
+    "password": "$2b$10$3ZCee.c69XIcXCUfzZVclOzXpPVh2VZhkvX9zvCScygEzyQGxBSwO",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:35:08.502Z",
+    "updatedAt": "2022-04-13T02:35:08.502Z"
+  },
+  {
+    "id": 77,
+    "email": "kuda@gmail.com",
+    "password": "$2b$10$HYwejb1ja1fc/ovV6YBna.8pNf.gnPDINzAJuQd9VBaIiSCfLAsye",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:41:40.855Z",
+    "updatedAt": "2022-04-13T02:41:40.855Z"
+  },
+  {
+    "id": 78,
+    "email": "aditya10399@gmail.com",
+    "password": "$2b$10$THkIn9gUjlOqob17oEtXqusjpnbOKNuXhNiyKOyISMT6ngEcxbboK",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:49:08.545Z",
+    "updatedAt": "2022-04-13T02:49:08.545Z"
+  },
+  {
+    "id": 79,
+    "email": "aditya10399@mail.com",
+    "password": "$2b$10$0tWB5NSwkJqQrbIaW6WefuK8HZbJRde03vyEQ0HqfEFCQkylZm.Vi",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:55:21.121Z",
+    "updatedAt": "2022-04-13T02:55:21.121Z"
+  },
+  {
+    "id": 80,
+    "email": "aqua22@gmail.com",
+    "password": "$2b$10$KD0yDuSHDVHkdXIUlJMFre.g.RpzEK4lJd2iT2Xq46sC7coAJKLf.",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:57:29.567Z",
+    "updatedAt": "2022-04-13T02:57:29.567Z"
+  },
+  {
+    "id": 81,
+    "email": "imanuwlwa@gmail.com",
+    "password": "$2b$10$.sfckZ.pxnT4Ue//FzDuN.GwCqaCZoT1a1txiw6OPWoeKsDFag0JO",
+    "role": "admin",
+    "createdAt": "2022-04-13T02:59:15.771Z",
+    "updatedAt": "2022-04-13T02:59:15.771Z"
+  },
+  {
+    "id": 82,
+    "email": "adityar1034@gmail.com",
+    "password": "$2b$10$.otVJlCi.ed3XTlHvM4wRuAPt.vtzzkxJ/2zJ0rqkRinhxVeI9GnC",
+    "role": "admin",
+    "createdAt": "2022-04-13T03:02:14.543Z",
+    "updatedAt": "2022-04-13T03:02:14.543Z"
+  },
+  {
+    "id": 83,
+    "email": "samer@gmail.com",
+    "password": "$2b$10$6aXNEXdXYjBcV.wSIcBD5O8QF15rR62uQft/38Er5ijK/aAsNmo3S",
+    "role": "admin",
+    "createdAt": "2022-04-13T03:11:24.083Z",
+    "updatedAt": "2022-04-13T03:11:24.083Z"
+  },
+  {
+    "id": 84,
+    "email": "aditya10354@gmail.com",
+    "password": "$2b$10$cBFpSShavVkG6558SBMY7.z2B0VXeks4YhMDKAop.GdeNo.i46UEm",
+    "role": "admin",
+    "createdAt": "2022-04-13T03:15:25.068Z",
+    "updatedAt": "2022-04-13T03:15:25.068Z"
+  },
+  {
+    "id": 85,
+    "email": "adityad22@gmail.com",
+    "password": "$2b$10$pK9nU7G8MkEe4gcIB./7C.6.4KqSy0xq5.VwazEJRPxWfEJh3OXMK",
+    "role": "admin",
+    "createdAt": "2022-04-13T03:17:34.610Z",
+    "updatedAt": "2022-04-13T03:17:34.610Z"
+  },
+  {
+    "id": 86,
+    "email": "adityard22@gmail.com",
+    "password": "$2b$10$m/8no7Dlz/8qopY8yyyKTuTdYWVs97vBiZxqBscdP9UV7P/klsYw6",
+    "role": "admin",
+    "createdAt": "2022-04-13T03:20:29.035Z",
+    "updatedAt": "2022-04-13T03:20:29.035Z"
+  },
+  {
+    "id": 87,
+    "email": "aditgg@gmail.com",
+    "password": "$2b$10$dVxi5/wN5OgdY9dUaVcHGO0kURS.3il5LiJu93Jb6BPInDpsTtGTK",
+    "role": "admin",
+    "createdAt": "2022-04-13T03:23:53.074Z",
+    "updatedAt": "2022-04-13T03:23:53.074Z"
+  },
+  {
+    "id": 88,
+    "email": "rizkya11@gmail.com",
+    "password": "$2b$10$/E79qsKkuTJCW/eyzgFWBuho466wgCGqFSByez17iaLj4YEY0ZI76",
+    "role": "admin",
+    "createdAt": "2022-04-13T03:32:04.833Z",
+    "updatedAt": "2022-04-13T03:32:04.833Z"
+  },
+  {
+    "id": 89,
+    "email": "garas@gmail.com",
+    "password": "$2b$10$1d9EDIOJuRuneVYVJeRLA.5s4few6CNDuORxfXCv9nomutEcDzzke",
+    "role": "admin",
+    "createdAt": "2022-04-13T03:37:43.318Z",
+    "updatedAt": "2022-04-13T03:37:43.318Z"
+  },
+  {
+    "id": 90,
+    "email": "gasra@gmail.com",
+    "password": "$2b$10$NKCOL9I/Jdow35Vkm8TDeeOnbWd.ROzoZLrUf6.y.aKr/nDaAmyaO",
+    "role": "admin",
+    "createdAt": "2022-04-13T03:39:35.241Z",
+    "updatedAt": "2022-04-13T03:39:35.241Z"
+  },
+  {
+    "id": 91,
+    "email": "irfanataukamu@gamail.com",
+    "password": "$2b$10$5AAPVKOgbwiIu.p0yBqszu1J1TTkI7LiG4eYrFSbG54BvYFu3nU5m",
+    "role": "Men",
+    "createdAt": "2022-04-13T03:43:52.743Z",
+    "updatedAt": "2022-04-13T03:43:52.743Z"
+  },
+  {
+    "id": 92,
+    "email": "ayamhjago@gmail.com",
+    "password": "$2b$10$aibO1tZzuA9n835ql5PTMeP4df1jSK7w0/CGNv5DS.m7UUyDPuNhy",
+    "role": "admin",
+    "createdAt": "2022-04-13T03:52:10.703Z",
+    "updatedAt": "2022-04-13T03:52:10.703Z"
+  },
+  {
+    "id": 93,
+    "email": "sinagac@gmail.com",
+    "password": "$2b$10$JXAia9Jc.rOHzMxzH9SiP.WEhr/PWNtnrYLZYyZBk1Pgk3M26Kv8u",
+    "role": "admin",
+    "createdAt": "2022-04-13T04:14:15.308Z",
+    "updatedAt": "2022-04-13T04:14:15.308Z"
+  },
+  {
+    "id": 94,
+    "email": "admin11@mail.com",
+    "password": "$2b$10$lulk2RuDAdg8D0d/pwMCLux6W4Ivaui7fTdcSPKdtu0ci/xUhF9ri",
+    "role": "Customer",
+    "createdAt": "2022-04-13T04:17:29.741Z",
+    "updatedAt": "2022-04-13T04:17:29.741Z"
+  },
+  {
+    "id": 95,
+    "email": "adminAND@mail.com",
+    "password": "$2b$10$qZqkN9xgSGlLLxUHC0nU.uHD6G5tiHnlvlqbSDcBrT4GkVde1AAWa",
+    "role": "Customer",
+    "createdAt": "2022-04-13T04:18:38.919Z",
+    "updatedAt": "2022-04-13T04:18:38.919Z"
+  },
+  {
+    "id": 96,
+    "email": "adminAND1@mail.com",
+    "password": "$2b$10$iSi8r3.8W8LnRGCz2Ca/CeSZ/BC.BNKszCg6V3013KWLWECHoy9FS",
+    "role": "Customer",
+    "createdAt": "2022-04-13T04:20:37.125Z",
+    "updatedAt": "2022-04-13T04:20:37.125Z"
+  },
+  {
+    "id": 97,
+    "email": "adminAND2@mail.com",
+    "password": "$2b$10$5ipuEAZoUNWhGcwoSaAJX.gxZZTRsImDtJmlwv3dyTjicVabquQni",
+    "role": "Customer",
+    "createdAt": "2022-04-13T04:26:57.767Z",
+    "updatedAt": "2022-04-13T04:26:57.767Z"
+  },
+  {
+    "id": 98,
+    "email": "adminAND3@mail.com",
+    "password": "$2b$10$XmbX9exdZgNhRvIatsfwiupPcMmkZgxS77BfIc8KSsVxc.jeTzMZO",
+    "role": "admin",
+    "createdAt": "2022-04-13T04:28:50.598Z",
+    "updatedAt": "2022-04-13T04:28:50.598Z"
+  },
+  {
+    "id": 99,
+    "email": "adminAND4@mail.com",
+    "password": "$2b$10$uQS/oHRf3WUZmmi/YqWi/eg/riUcla0I4VQyeTUouw.rnL1xlDNfq",
+    "role": "admin",
+    "createdAt": "2022-04-13T04:30:22.007Z",
+    "updatedAt": "2022-04-13T04:30:22.007Z"
+  },
+  {
+    "id": 100,
+    "email": "adminAND5@mail.com",
+    "password": "$2b$10$jZHjAOEDeRQ971CHyqLGQu3m3LSt2nS9IRgD16s71sT5WtE2VR7b2",
+    "role": "admin",
+    "createdAt": "2022-04-13T04:32:58.962Z",
+    "updatedAt": "2022-04-13T04:32:58.962Z"
+  },
+  {
+    "id": 101,
+    "email": "asri22@gmail.com",
+    "password": "$2b$10$qXlAfgZJc3BadvgsiucVZ.lDjyMcyPU1ziaUtRUaktEu4Wy5M58u2",
+    "role": "admin",
+    "createdAt": "2022-04-13T07:22:09.440Z",
+    "updatedAt": "2022-04-13T07:22:09.440Z"
+  },
+  {
+    "id": 102,
+    "email": "balad22@gmail.com",
+    "password": "$2b$10$2CyxiIRE4D613fyjLSwVQeeslKMwhUtZh5RsxYzN08HuonBXzhaM6",
+    "role": "admin",
+    "createdAt": "2022-04-13T07:37:12.692Z",
+    "updatedAt": "2022-04-13T07:37:12.692Z"
+  },
+  {
+    "id": 103,
+    "email": "adiya157775@gmail.com",
+    "password": "$2b$10$YQWMBvjJp2YB9/UHonJhjea/kebg14G00bJcFujfv5v3r26VeUE7q",
+    "role": "admin",
+    "createdAt": "2022-04-13T07:42:48.195Z",
+    "updatedAt": "2022-04-13T07:42:48.195Z"
+  },
+  {
+    "id": 104,
+    "email": "adtyar1414@gmail.com",
+    "password": "$2b$10$s9jEWhBYHbrOAdNUxtW1BOuiqbOVbAb8nBKChwW/p5YTOqU9AENXq",
+    "role": "admin",
+    "createdAt": "2022-04-13T07:47:54.256Z",
+    "updatedAt": "2022-04-13T07:47:54.256Z"
+  },
+  {
+    "id": 105,
+    "email": "adityard212@gmail.com",
+    "password": "$2b$10$3VkXEvCHBlzxFh0I.PopJ.DuyX6w4xC7Fw9u0r6IZi9nSAwvWvkvO",
+    "role": "admin",
+    "createdAt": "2022-04-13T08:07:25.259Z",
+    "updatedAt": "2022-04-13T08:07:25.259Z"
+  },
+  {
+    "id": 106,
+    "email": "gagakww22@gmail.com",
+    "password": "$2b$10$fBzf3texrM3BjGoK1TBVk.uhr1E1vy8q0ARXkeoRXkiGKAA7v0PqG",
+    "role": "admin",
+    "createdAt": "2022-04-13T08:13:22.744Z",
+    "updatedAt": "2022-04-13T08:13:22.744Z"
+  },
+  {
+    "id": 107,
+    "email": "haidar@gmail.com",
+    "password": "$2b$10$1Swsg.vuEin6AFrACTang.gEypPVetNIzs2yrH2koRzNfQnBOkm4K",
+    "role": "admin",
+    "createdAt": "2022-04-13T08:16:30.988Z",
+    "updatedAt": "2022-04-13T08:16:30.988Z"
+  },
+  {
+    "id": 108,
+    "email": "aditya1034444@gmail.com",
+    "password": "$2b$10$pQ4Jsaz4uF6Ox36UfqNpSekQ.2zpq64aTbwv7/fqhCLRc0zLgf8PK",
+    "role": "admin",
+    "createdAt": "2022-04-13T08:18:21.335Z",
+    "updatedAt": "2022-04-13T08:18:21.335Z"
+  },
+  {
+    "id": 109,
+    "email": "mongkies127@gmail.com",
+    "password": "$2b$10$S/a1Fno/m3I.0hc0RAAEOuXhzpYyIq9hL/zeapKlTJmUeftgMfNEG",
+    "role": "admin",
+    "createdAt": "2022-04-13T08:33:40.986Z",
+    "updatedAt": "2022-04-13T08:33:40.986Z"
+  },
+  {
+    "id": 110,
+    "email": "irfanaris771@gmail.com",
+    "password": "$2b$10$aVZTEUBZDJwFzkYGZDnxLun3Qe6bLzgw8MurSBSHDU2IkknrXRiW2",
+    "role": "admin",
+    "createdAt": "2022-04-13T08:38:30.517Z",
+    "updatedAt": "2022-04-13T08:38:30.517Z"
+  },
+  {
+    "id": 111,
+    "email": "Mongkis126@gmail.com",
+    "password": "$2b$10$NY3jnXxwN31yd/AeV/mIbe199ctmqZcHvLl5oLghFrCQMR.FJIs/q",
+    "role": "admin",
+    "createdAt": "2022-04-13T08:39:09.467Z",
+    "updatedAt": "2022-04-13T08:39:09.467Z"
+  },
+  {
+    "id": 112,
+    "email": "irfanarbbsnsj@gmail.com",
+    "password": "$2b$10$c8ZueGDamuoX0zuK/B.nrOnQt3A1Bj2ZQYZhpj0xA1/6p3Gn1c8.C",
+    "role": "admin",
+    "createdAt": "2022-04-13T08:42:38.464Z",
+    "updatedAt": "2022-04-13T08:42:38.464Z"
+  },
+  {
+    "id": 113,
+    "email": "yusril@gmail.com",
+    "password": "$2b$10$l3uuyTmMfugNy0pg/na9OOEWKt3qMSzihyP.wXjQijphj4.UkUCrG",
+    "role": "admin",
+    "createdAt": "2022-04-13T08:43:50.646Z",
+    "updatedAt": "2022-04-13T08:43:50.646Z"
+  },
+  {
+    "id": 114,
+    "email": "tyygvcjj@gmail.com",
+    "password": "$2b$10$stbuceYzLEHl6U4ZDX1tyuxFFo/639h2obSmLORNi3mk9ZVm6KHlu",
+    "role": "admin",
+    "createdAt": "2022-04-13T08:46:44.004Z",
+    "updatedAt": "2022-04-13T08:46:44.004Z"
+  },
+  {
+    "id": 115,
+    "email": "vbznznbzb@gmail.com",
+    "password": "$2b$10$pP4WxtNCD/6jezeUCrQZA.gawrrwUkEGDpuzd67l69Yf4i85MJcVu",
+    "role": "admin",
+    "createdAt": "2022-04-13T08:49:02.536Z",
+    "updatedAt": "2022-04-13T08:49:02.536Z"
+  },
+  {
+    "id": 116,
+    "email": "afari@gmail.com",
+    "password": "$2b$10$BwLjMp3oLu3uDZ9fJNcSCuED4ahOLjrRcvAXfMjexK1mXH.5NCOOW",
+    "role": "admin",
+    "createdAt": "2022-04-13T09:02:57.888Z",
+    "updatedAt": "2022-04-13T09:02:57.888Z"
+  },
+  {
+    "id": 117,
+    "email": "aditya66@hotmail.com",
+    "password": "$2b$10$.Ss2HPTdnAlZPJl3ER572eVwgmyWonUcrElmkqn8A9ZhbUcCH9zK2",
+    "role": "admin",
+    "createdAt": "2022-04-13T09:10:09.418Z",
+    "updatedAt": "2022-04-13T09:10:09.418Z"
+  },
+  {
+    "id": 118,
+    "email": "adityagg21@gmail.com",
+    "password": "$2b$10$dUhbpaj0y67LoBwrxsVd2e3/VIn44mlxbaoyDiplojpw3Odo2oLIq",
+    "role": "admin",
+    "createdAt": "2022-04-13T13:58:20.849Z",
+    "updatedAt": "2022-04-13T13:58:20.849Z"
+  },
+  {
+    "id": 119,
+    "email": "adminAND11@mail.com",
+    "password": "$2b$10$4VizKbPgG/jtYhXT2VrQK.mFTc2wPT/u7c5YY64JhNMy4.Dumcid2",
+    "role": "admin",
+    "createdAt": "2022-04-13T14:34:44.793Z",
+    "updatedAt": "2022-04-13T14:34:44.793Z"
+  },
+  {
+    "id": 120,
+    "email": "email@email.com",
+    "password": "$2b$10$4aXnZ/hMxHRyhTIeijx/2ermB33hc3OeG8NAAJuJXdfJVLqPEwZq2",
+    "role": "admin",
+    "createdAt": "2022-04-13T14:35:47.615Z",
+    "updatedAt": "2022-04-13T14:35:47.615Z"
+  },
+  {
+    "id": 121,
+    "email": "adminAND12@mail.com",
+    "password": "$2b$10$QqIWgT43lxQCQshSdVx87uDebLbRAkiYo6oMjq.aqxhQiJH.ttX1e",
+    "role": "admin",
+    "createdAt": "2022-04-13T14:42:52.596Z",
+    "updatedAt": "2022-04-13T14:42:52.596Z"
+  },
+  {
+    "id": 122,
+    "email": "admin1@mail.com",
+    "password": "$2b$10$gT190DTdISvnyuLL0wIqV.WUwP0eQmxHPdMLhDZioXYQgbp4eiAvO",
+    "role": "admin",
+    "createdAt": "2022-04-13T14:47:54.594Z",
+    "updatedAt": "2022-04-13T14:47:54.594Z"
+  },
+  {
+    "id": 123,
+    "email": "admin123@mail.com",
+    "password": "$2b$10$ucUoIrmwHaIjCggnbQGVMuKp6LijIcHlllQjl2hLEoQdjewUujQeu",
+    "role": "admin",
+    "createdAt": "2022-04-13T14:54:40.398Z",
+    "updatedAt": "2022-04-13T14:54:40.398Z"
+  },
+  {
+    "id": 124,
+    "email": "admin12@mail.com",
+    "password": "$2b$10$J07vfBqhc7Jgyau2aB0J6.EIQF3vJi/0Hb4XaEmbXhT3QButGfNcK",
+    "role": "admin",
+    "createdAt": "2022-04-13T15:02:48.996Z",
+    "updatedAt": "2022-04-13T15:02:48.996Z"
+  },
+  {
+    "id": 125,
+    "email": "adminAND222@mail.com",
+    "password": "$2b$10$Pk4nFNmkul1dc7SbcSsnEeUwA7V0wJzjdmOPYqhq0casufnv2SbjK",
+    "role": "admin",
+    "createdAt": "2022-04-13T15:25:02.766Z",
+    "updatedAt": "2022-04-13T15:25:02.766Z"
+  },
+  {
+    "id": 126,
+    "email": "7vh@gmail.com",
+    "password": "$2b$10$rETfwrdMa67rqNpUPNQyIOs.VnudADbY1sd1W3C9GhH9oJzEsB2Oa",
+    "role": "admin",
+    "createdAt": "2022-04-13T15:41:52.684Z",
+    "updatedAt": "2022-04-13T15:41:52.684Z"
+  },
+  {
+    "id": 127,
+    "email": "Nameishsj@gmail.com",
+    "password": "$2b$10$qQbxfLuWNFzk2vwknV1NRudqBkaF.xS.aXnmxxKiDyrMcxwmOjsQG",
+    "role": "admin",
+    "createdAt": "2022-04-13T15:44:16.874Z",
+    "updatedAt": "2022-04-13T15:44:16.874Z"
+  },
+  {
+    "id": 128,
+    "email": "Nameishysj@gmail.com",
+    "password": "$2b$10$o9UZOCQkbYjhWwrhVkaOFuB0tuhxmUmzHiMPhukqkVDoEoh2Onrke",
+    "role": "admin",
+    "createdAt": "2022-04-13T15:44:32.436Z",
+    "updatedAt": "2022-04-13T15:44:32.436Z"
+  },
+  {
+    "id": 129,
+    "email": "Nam5d6c@gmail.com",
+    "password": "$2b$10$kdyYi4R5xrBKMyhkwYg39epO4kjaXZ4oNJPAORaIqLwCWU7Hw23AG",
+    "role": "admin",
+    "createdAt": "2022-04-13T15:49:41.178Z",
+    "updatedAt": "2022-04-13T15:49:41.178Z"
+  },
+  {
+    "id": 130,
+    "email": "Name7v7v@gmail.com",
+    "password": "$2b$10$E9uOU18a5ync.BOeLHBucOnHrSfOOqZguzKfWwh4IFuj8yzfPAqFW",
+    "role": "admin",
+    "createdAt": "2022-04-13T15:50:49.449Z",
+    "updatedAt": "2022-04-13T15:50:49.449Z"
+  },
+  {
+    "id": 131,
+    "email": "adminAND223@mail.com",
+    "password": "$2b$10$lonjUo9quoDl3GCBQaY87.bjqlMMH/9lSQagdUTpUqesQ09mw0wda",
+    "role": "admin",
+    "createdAt": "2022-04-13T15:58:10.692Z",
+    "updatedAt": "2022-04-13T15:58:10.692Z"
+  },
+  {
+    "id": 132,
+    "email": "Nikontol@gmail.com",
+    "password": "$2b$10$1mOMT4FH3LZYVAwLuZwe/.d05Jc.RUroynhekGZdfpmexycacM2dm",
+    "role": "admin",
+    "createdAt": "2022-04-13T15:59:17.234Z",
+    "updatedAt": "2022-04-13T15:59:17.234Z"
+  },
+  {
+    "id": 133,
+    "email": "admin@gmail.com",
+    "password": "$2b$10$6r6is2iNu9pSPvY6yeImteCTZm59DtQEkIVamwBADKxw6XDPfPewu",
+    "role": "admin10",
+    "createdAt": "2022-04-13T16:36:04.326Z",
+    "updatedAt": "2022-04-13T16:36:04.326Z"
+  },
+  {
+    "id": 134,
+    "email": "rafly@gmail.com",
+    "password": "$2b$10$qMQdu6tyoOFQDxOx05SMIu4FOsVIBEvM8EBMxcVtQkc/SfF7.vBRC",
+    "role": "Customer",
+    "createdAt": "2022-04-13T16:38:49.608Z",
+    "updatedAt": "2022-04-13T16:38:49.608Z"
+  },
+  {
+    "id": 135,
+    "email": "aldi7.indo@gmail.com",
+    "password": "$2b$10$AGcINMiB0Qym9T1lfQP/QOVojjql2/3.Fsh1kKfTmkzA/KSGCCSnq",
+    "role": "admin",
+    "createdAt": "2022-04-13T17:18:07.811Z",
+    "updatedAt": "2022-04-13T17:18:07.811Z"
+  },
+  {
+    "id": 136,
+    "email": "aldi7.id@gmail.com",
+    "password": "$2b$10$hRJPOb1FbvSje.3SvVaoNuFi5ewmdxS.9..Wm85fNMK2xu09gvwh.",
+    "role": "admin",
+    "createdAt": "2022-04-13T17:18:14.372Z",
+    "updatedAt": "2022-04-13T17:18:14.372Z"
+  },
+  {
+    "id": 137,
+    "email": "aldi@googl.com",
+    "password": "$2b$10$1SO/6YIntyhIf4ApmQXnUu87HEmpRwE1s/FTa8ZZ5vdZ4rzWzhrPS",
+    "role": "admin",
+    "createdAt": "2022-04-13T17:18:31.276Z",
+    "updatedAt": "2022-04-13T17:18:31.276Z"
+  },
+  {
+    "id": 138,
+    "email": "admin115212@mail.com",
+    "password": "$2b$10$5EOgyd3Cu9ouuZqOjm0Vm.w8OpZhuF9I39Syma48oyH18yiPSH7iS",
+    "role": "admin",
+    "createdAt": "2022-04-13T17:20:29.789Z",
+    "updatedAt": "2022-04-13T17:20:29.789Z"
+  },
+  {
+    "id": 139,
+    "email": "test@test.com",
+    "password": "$2b$10$wHkgDHulpW2ef8BiAiqNUO4ZNgFlI3OdU56ftts6961eKx7OKDqS.",
+    "role": "admin",
+    "createdAt": "2022-04-13T17:21:12.780Z",
+    "updatedAt": "2022-04-13T17:21:12.780Z"
+  },
+  {
+    "id": 140,
+    "email": "admin789@mail.com",
+    "password": "$2b$10$MKLt7i9ZsrxBZZk/6gHcQOIm3H5htU.SpDbk6BtjhSpzsT1qd5.xO",
+    "role": "admin",
+    "createdAt": "2022-04-13T17:24:40.292Z",
+    "updatedAt": "2022-04-13T17:24:40.292Z"
+  },
+  {
+    "id": 141,
+    "email": "yaumul11008080@webmail.uad.ac.id",
+    "password": "$2b$10$r5SKkWHfMpXbIKMMFyhM0eJXuoURMy5Zdpir6pqEUGE.y6HXs1CIm",
+    "role": "admin",
+    "createdAt": "2022-04-13T17:34:58.320Z",
+    "updatedAt": "2022-04-13T17:34:58.320Z"
+  },
+  {
+    "id": 142,
+    "email": "musnadil@mail.com",
+    "password": "$2b$10$6Wuo10IwzmgtsI5zo1fJJ.uFaPu1tp/NyM431ni39UnW3Ikgi1zJK",
+    "role": "admin",
+    "createdAt": "2022-04-13T17:36:59.242Z",
+    "updatedAt": "2022-04-13T17:36:59.242Z"
+  },
+  {
+    "id": 143,
+    "email": "berhasil@gmail.com",
+    "password": "$2b$10$frgSZPraNDPZQqL1NFTw2u8gAsUbd6Rzuw83lk2ylZmeiJqZZh3GS",
+    "role": "admin",
+    "createdAt": "2022-04-13T17:38:58.188Z",
+    "updatedAt": "2022-04-13T17:38:58.188Z"
+  },
+  {
+    "id": 144,
+    "email": "sulthan@gmail.com",
+    "password": "$2b$10$aGgtUuN6GCxlWh99cuNK1Orptpst1sIjlU7actfqY1nNMXn8L38T.",
+    "role": "admin",
+    "createdAt": "2022-04-13T18:34:48.436Z",
+    "updatedAt": "2022-04-13T18:34:48.436Z"
+  },
+  {
+    "id": 145,
+    "email": "Sulthan@gmail.com",
+    "password": "$2b$10$/gl64JuzInkLThCfse8hcOFA4DSkbYpraHWHIRR91tFvna8MbXDB2",
+    "role": "admin",
+    "createdAt": "2022-04-13T18:36:22.383Z",
+    "updatedAt": "2022-04-13T18:36:22.383Z"
+  },
+  {
+    "id": 146,
+    "email": "isna@gmail.com",
+    "password": "$2b$10$ax2PYq.5P9jXeR956xEJS.vNUVvr3ZY2ajfhfDDzBgoMhRThpBWrW",
+    "role": "admin",
+    "createdAt": "2022-04-13T18:46:40.867Z",
+    "updatedAt": "2022-04-13T18:46:40.867Z"
+  },
+  {
+    "id": 147,
+    "email": "udin@gmail.com",
+    "password": "$2b$10$UsnNqWKp5EnsA/omG1I86u3qRzRTWLSrFq2eYaf7zQF3zlB9lyJTW",
+    "role": "admin",
+    "createdAt": "2022-04-13T19:59:54.700Z",
+    "updatedAt": "2022-04-13T19:59:54.700Z"
+  },
+  {
+    "id": 148,
+    "email": "asep@gmail.com",
+    "password": "$2b$10$DM5ZIJyE8704/lL/RkSA5.7AfPOs0.5Vpr2WT3V7jBDdLldqpI9Lm",
+    "role": "admin",
+    "createdAt": "2022-04-13T20:16:31.265Z",
+    "updatedAt": "2022-04-13T20:16:31.265Z"
+  },
+  {
+    "id": 149,
+    "email": "uajsj@gmail.com",
+    "password": "$2b$10$mMBak/ZJy3hndEjVP1UBsOlnRsNIcYZGM2ZfCFPa7vwtu4.wqO5ay",
+    "role": "admin",
+    "createdAt": "2022-04-13T20:56:23.098Z",
+    "updatedAt": "2022-04-13T20:56:23.098Z"
+  },
+  {
+    "id": 150,
+    "email": "hai@gmail.com",
+    "password": "$2b$10$1h/zTAIMCvVrjvaovhJm8.wcFlCtsTBf.SzSOuHi1VeXeE8HBdayO",
+    "role": "admin",
+    "createdAt": "2022-04-14T00:43:18.672Z",
+    "updatedAt": "2022-04-14T00:43:18.672Z"
+  },
+  {
+    "id": 151,
+    "email": "zans@yahoo.com",
+    "password": "$2b$10$r3YPXxg65KLE1oZAk19Ege/.Fe9PPuzHFQzgj33bgSLyppXffZNRC",
+    "role": null,
+    "createdAt": "2022-04-14T00:52:01.729Z",
+    "updatedAt": "2022-04-14T00:52:01.729Z"
+  },
+  {
+    "id": 152,
+    "email": "febrianto02@gmail.com",
+    "password": "$2b$10$Uj9sUEyfsa/21zCC5GdEzOLp0pBkp88yFHhBjD8ru/VauvbxXn2Cy",
+    "role": "admin",
+    "createdAt": "2022-04-14T02:51:42.327Z",
+    "updatedAt": "2022-04-14T02:51:42.327Z"
+  },
+  {
+    "id": 153,
+    "email": "koirulanwar98@gmail.com",
+    "password": "$2b$10$2FkGsl2PErJG3JtraubkZutU4G1nUzP27xg6TTPu94hKFUA7LQvpm",
+    "role": "admin",
+    "createdAt": "2022-04-14T05:05:10.929Z",
+    "updatedAt": "2022-04-14T05:05:10.929Z"
+  },
+  {
+    "id": 154,
+    "email": "admn@mail.com",
+    "password": "$2b$10$7oSSDuyS84gg9soS2elku.SP/zgiYY0cIch81Gw/Id.Nunxh0FL6C",
+    "role": "admin",
+    "createdAt": "2022-04-14T07:06:35.633Z",
+    "updatedAt": "2022-04-14T07:06:35.633Z"
+  },
+  {
+    "id": 155,
+    "email": "Musnadil@mail.com",
+    "password": "$2b$10$yAVXFtd37oeCPvdOOoPnp.EA99ahu0dp5wv1uJmGZtIs3TnECax/y",
+    "role": "admin",
+    "createdAt": "2022-04-14T07:35:20.525Z",
+    "updatedAt": "2022-04-14T07:35:20.525Z"
+  },
+  {
+    "id": 156,
+    "email": "asdjkashdjfas@mail.com",
+    "password": "$2b$10$p/apj1LT3HZqhl5R0LXr6uqVfe5yJcChLrploX.82k58RjuSmenEG",
+    "role": "admin",
+    "createdAt": "2022-04-14T07:35:35.008Z",
+    "updatedAt": "2022-04-14T07:35:35.008Z"
+  },
+  {
+    "id": 157,
+    "email": "admna@mail.com",
+    "password": "$2b$10$gRs8JOJUslEujUm7aiF32.65QrZ9KF3o92b/0V8b3.3JJC3dqLMNy",
+    "role": "admin",
+    "createdAt": "2022-04-14T07:39:52.422Z",
+    "updatedAt": "2022-04-14T07:39:52.422Z"
+  },
+  {
+    "id": 158,
+    "email": "admna@gmail.com",
+    "password": "$2b$10$okXWkQeN53pqio3GoRZnmupIO5RFJnpE94gCMUcUumldQn8LBDfp2",
+    "role": "admin",
+    "createdAt": "2022-04-14T07:40:15.311Z",
+    "updatedAt": "2022-04-14T07:40:15.311Z"
+  },
+  {
+    "id": 159,
+    "email": "klkl@gmail.com",
+    "password": "$2b$10$bYANqxLOX./UrIPG.oobkO84UiU9JnbLazhuvoxptl.z4Tt12Jfzi",
+    "role": "admin",
+    "createdAt": "2022-04-14T07:57:55.286Z",
+    "updatedAt": "2022-04-14T07:57:55.286Z"
+  },
+  {
+    "id": 160,
+    "email": "user@mail.com",
+    "password": "$2b$10$MG2ybCfhNduhDC4o4YX.f.FjnOd46DzvIWTfhPLez3RfCeb6LsB.6",
+    "role": "admin",
+    "createdAt": "2022-04-14T08:05:25.665Z",
+    "updatedAt": "2022-04-14T08:05:25.665Z"
+  },
+  {
+    "id": 161,
+    "email": "firman@gmail.com",
+    "password": "$2b$10$yogG02QGixVVLGatUJo7M.fW/.f2HnLH0x0LS.vnLIqGVM5lphh.6",
+    "role": "admin",
+    "createdAt": "2022-04-14T08:11:54.331Z",
+    "updatedAt": "2022-04-14T08:11:54.331Z"
+  },
+  {
+    "id": 162,
+    "email": "nanangarif404@gmail.com",
+    "password": "$2b$10$qs.pZG9HEPfSjhQ2UW4J3eHsrgZoHRb5402kUHCrYFqKsCgKYiUvS",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:07:53.736Z",
+    "updatedAt": "2022-04-14T15:07:53.736Z"
+  },
+  {
+    "id": 163,
+    "email": "cek@mail.com",
+    "password": "$2b$10$41WOs8R25kgFxZkDUrJ3KezYvZ6RMrNIDijzzVoaV5ovrHNi0Ey.m",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:09:01.363Z",
+    "updatedAt": "2022-04-14T15:09:01.363Z"
+  },
+  {
+    "id": 164,
+    "email": "admingj@mail.com",
+    "password": "$2b$10$529JAlZmtwx5MvYwVZ4NEuczXyyKyCYZgcl4Y/hLRLvbEgBs7XZUm",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:24:30.291Z",
+    "updatedAt": "2022-04-14T15:24:30.291Z"
+  },
+  {
+    "id": 165,
+    "email": "lim123@gmail.com",
+    "password": "$2b$10$L/du8RSuVwQyyOYg45L85.IkETLqSQjSshHq3HA1uIYJsJkXmv9GK",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:28:26.574Z",
+    "updatedAt": "2022-04-14T15:28:26.574Z"
+  },
+  {
+    "id": 166,
+    "email": "limfd@gmail.com",
+    "password": "$2b$10$zGkS58xlmC/e2MO4R7ef6OxAscJvdarfk9t3BRjzRGP6mGNsFXPs.",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:30:54.321Z",
+    "updatedAt": "2022-04-14T15:30:54.321Z"
+  },
+  {
+    "id": 167,
+    "email": "tsting@mail.com",
+    "password": "$2b$10$pc5JTRIywHaUa.gy2I/Iru8wMN.LvY7m3aIVF1tq2CZRjRApngh1q",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:36:34.891Z",
+    "updatedAt": "2022-04-14T15:36:34.891Z"
+  },
+  {
+    "id": 168,
+    "email": "tsting123@mail.com",
+    "password": "$2b$10$Z6B.EYiglRMSjoayjnfHnO8bpBFgvFB2p00gkf/zk.F/q51LQb4v2",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:36:39.379Z",
+    "updatedAt": "2022-04-14T15:36:39.379Z"
+  },
+  {
+    "id": 169,
+    "email": "tsting123asd@mail.com",
+    "password": "$2b$10$Abupy/1sfbxitrnPQ2jx6uvRriMqRk2N8MktxK.4G7Mafj2rWF3uS",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:36:42.477Z",
+    "updatedAt": "2022-04-14T15:36:42.477Z"
+  },
+  {
+    "id": 170,
+    "email": "tsting123asdasd@mail.com",
+    "password": "$2b$10$rIrIMrxF/m9o1LJUg3UAV.5Omot2ecXV2oRBY6xPIAQhNgBczjrkC",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:36:47.387Z",
+    "updatedAt": "2022-04-14T15:36:47.387Z"
+  },
+  {
+    "id": 171,
+    "email": "tsting123asdasdasd@mail.com",
+    "password": "$2b$10$BHtCrqFFp6LWBjPOBs1cROFREwuAGE5fvM1p1fiuDckgZiAt./Vb2",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:36:52.085Z",
+    "updatedAt": "2022-04-14T15:36:52.085Z"
+  },
+  {
+    "id": 172,
+    "email": "tsting123asdasdasdasd@mail.com",
+    "password": "$2b$10$9jdGS1Nxb9DTIyP5U0tQo.DtCPfrfdxh.52oyvPUPaefeEdR.38cm",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:36:59.233Z",
+    "updatedAt": "2022-04-14T15:36:59.233Z"
+  },
+  {
+    "id": 173,
+    "email": "tsting123asddasd@mail.com",
+    "password": "$2b$10$rQcl4n2lbCQo37djwkd6vOrakpP5rcS05NgLgpBjI0qkSDF9IAqNq",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:37:09.741Z",
+    "updatedAt": "2022-04-14T15:37:09.741Z"
+  },
+  {
+    "id": 174,
+    "email": "tsting123asddasd123@mail.com",
+    "password": "$2b$10$.BuThs2b1LzZ.PU/2uu6DOYswMGSm5QbVFb8PBF7U9HZIblEyrDu2",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:37:18.750Z",
+    "updatedAt": "2022-04-14T15:37:18.750Z"
+  },
+  {
+    "id": 175,
+    "email": "adminAND16@mail.com",
+    "password": "$2b$10$4a2GuG6hbmS3PG5QX7wu/OE.MJQGUK29rD0YQSc9hvL9ll3zD3aAW",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:39:01.250Z",
+    "updatedAt": "2022-04-14T15:39:01.250Z"
+  },
+  {
+    "id": 176,
+    "email": "admin1234@mail.com",
+    "password": "$2b$10$crAyU1UDfCI59lzUOYZuo.B6EIwb.LIk6jD6PcCEDFdZgQj/z4l76",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:40:06.569Z",
+    "updatedAt": "2022-04-14T15:40:06.569Z"
+  },
+  {
+    "id": 177,
+    "email": "asd134567890@gmail.com",
+    "password": "$2b$10$NtWpYKHYqfrOaaBs6caWcuxTUmTll.pxoVj39RGpRMUC.6yTJ0Yum",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:40:11.265Z",
+    "updatedAt": "2022-04-14T15:40:11.265Z"
+  },
+  {
+    "id": 178,
+    "email": "asd134567890asd@gmail.com",
+    "password": "$2b$10$bF11BnkoFTeq4yIZ7.SfL.MN6sQS5JvBblvjhXtlzZrSM2lHRHnOe",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:40:15.262Z",
+    "updatedAt": "2022-04-14T15:40:15.262Z"
+  },
+  {
+    "id": 179,
+    "email": "asd134567890asdasd@gmail.com",
+    "password": "$2b$10$S0r7iO2S7qfKY32N0ty79.wqCqx70IQdXz8FrUnW4ierO50gDYnFm",
+    "role": "admin",
+    "createdAt": "2022-04-14T15:40:17.226Z",
+    "updatedAt": "2022-04-14T15:40:17.226Z"
+  },
+  {
+    "id": 180,
+    "email": "firmananhar09@gmail.com",
+    "password": "$2b$10$Llej7AuOuf9q6nhPAuXn5u4KNgT44VwVwP9bFcog1zDPd7togH5uS",
+    "role": "admin",
+    "createdAt": "2022-04-14T16:12:36.946Z",
+    "updatedAt": "2022-04-14T16:12:36.946Z"
+  },
+  {
+    "id": 181,
+    "email": "kgjn2612@gmail.com",
+    "password": "$2b$10$GrCOvA7w7dN7EMZBQAAhHeSbiaLMuz22kJfF8/nROLPbOGmhL5M/W",
+    "role": "admin",
+    "createdAt": "2022-04-14T16:15:03.042Z",
+    "updatedAt": "2022-04-14T16:15:03.042Z"
+  },
+  {
+    "id": 182,
+    "email": "zeti@gmail.com",
+    "password": "$2b$10$ETMbgZvyjyWAsbYOnCzfh.SDuG/.Q/kudmfEEGdkmta2VeoooTTQ2",
+    "role": "admin",
+    "createdAt": "2022-04-14T16:15:13.099Z",
+    "updatedAt": "2022-04-14T16:15:13.099Z"
+  },
+  {
+    "id": 183,
+    "email": "firdausanhar09@gmail.com",
+    "password": "$2b$10$cfaqD.dhwFrPgw/pcpHMJOnMcFpDTlSRCpsaVifZVOyDRxQ4k0BTG",
+    "role": "admin",
+    "createdAt": "2022-04-14T16:22:03.145Z",
+    "updatedAt": "2022-04-14T16:22:03.145Z"
+  },
+  {
+    "id": 184,
+    "email": "firdausanhar090@gmail.com",
+    "password": "$2b$10$tu/ZJ4YmDQlD.EdwUlH.xOhWUA10QnXPd8K21gexRCH2bENKgpz6W",
+    "role": "admin",
+    "createdAt": "2022-04-14T16:22:09.978Z",
+    "updatedAt": "2022-04-14T16:22:09.978Z"
+  },
+  {
+    "id": 185,
+    "email": "firdausanhar09000@gmail.com",
+    "password": "$2b$10$IDSN28PTkTqC0ZJi1U5SN.fx2DPBWdW3u7ivPBirm.9j9LCsP67Gi",
+    "role": "admin",
+    "createdAt": "2022-04-14T16:22:14.510Z",
+    "updatedAt": "2022-04-14T16:22:14.510Z"
+  },
+  {
+    "id": 186,
+    "email": "mail@mail.com",
+    "password": "$2b$10$AdBr.SzeoBIUaXDfBmEOl.NeZR3zqkOTpmDr9SvqKEmXwaw9IAVy6",
+    "role": "admin",
+    "createdAt": "2022-04-14T16:24:28.446Z",
+    "updatedAt": "2022-04-14T16:24:28.446Z"
+  },
+  {
+    "id": 187,
+    "email": "fafirmansyah20@gmail.commm",
+    "password": "$2b$10$u3RuQqFfZEvjjuuRwTowcO6JfHARKuYtXF7lu1Zriw1W/JKTRaQlm",
+    "role": "admin",
+    "createdAt": "2022-04-14T16:26:02.695Z",
+    "updatedAt": "2022-04-14T16:26:02.695Z"
+  },
+  {
+    "id": 188,
+    "email": "maiel@mail.com",
+    "password": "$2b$10$biMXeUf.VZbrC9D/VSC7iuE9gqNQevKfriAvJxAs49gHpGiJTTR5e",
+    "role": "admin",
+    "createdAt": "2022-04-14T16:26:18.400Z",
+    "updatedAt": "2022-04-14T16:26:18.400Z"
+  },
+  {
+    "id": 189,
+    "email": "agusgimang@gmail.com",
+    "password": "$2b$10$0NbvgxL93n4rqedqT3fu6eDOh0rAGLN.BGwI21WYLOdFQN5xhwapC",
+    "role": "admin",
+    "createdAt": "2022-04-14T16:27:08.267Z",
+    "updatedAt": "2022-04-14T16:27:08.267Z"
+  },
+  {
+    "id": 190,
+    "email": "agusgimangwwww123@gmail.com",
+    "password": "$2b$10$c3uSdaxSZHoLDxvr2dRtC.vo/VwP9sddHLcIST7ZG5vG8IJiHc86W",
+    "role": "admin",
+    "createdAt": "2022-04-14T16:27:20.949Z",
+    "updatedAt": "2022-04-14T16:27:20.949Z"
+  },
+  {
+    "id": 191,
+    "email": "naruto1234qwer@gmail.com",
+    "password": "$2b$10$at2/MwXkE62dftL.gz20mOM.NkRYLhJ0ao9iWTnWQaXCgdYVzt78O",
+    "role": "admin",
+    "createdAt": "2022-04-14T16:29:13.421Z",
+    "updatedAt": "2022-04-14T16:29:13.421Z"
+  },
+  {
+    "id": 192,
+    "email": "test@mail.com",
+    "password": "$2b$10$vhUk3AmcUZe7lUgMGddaFuU5oIreAjpeZJbRjByeuxItjc94ViK5G",
+    "role": "admin",
+    "createdAt": "2022-04-14T16:50:13.047Z",
+    "updatedAt": "2022-04-14T16:50:13.047Z"
+  },
+  {
+    "id": 193,
+    "email": "android2@mail.com",
+    "password": "$2b$10$h7Lk.qnTdpYVYOYRKtcyUuJyHou6Le.HDsL7NAs2xI6MVm9q9SKdm",
+    "role": "admin",
+    "createdAt": "2022-04-14T16:57:43.939Z",
+    "updatedAt": "2022-04-14T16:57:43.939Z"
+  },
+  {
+    "id": 194,
+    "email": "satu@email.com",
+    "password": "$2b$10$OHb3yW74188ohaKnQaiQvOuYnven87S/WXJjmNjJp2yrtThTBvF0K",
+    "role": "admin",
+    "createdAt": "2022-04-14T17:13:46.602Z",
+    "updatedAt": "2022-04-14T17:13:46.602Z"
+  },
+  {
+    "id": 195,
+    "email": "dua@email.com",
+    "password": "$2b$10$EhmViJ3RzwlyErmaQRSZXObKA65dKqob3qaa5mkoY4ZzNA/lsc5Su",
+    "role": "admin",
+    "createdAt": "2022-04-14T17:28:42.867Z",
+    "updatedAt": "2022-04-14T17:28:42.867Z"
+  },
+  {
+    "id": 196,
+    "email": "kzm@mail.com",
+    "password": "$2b$10$0ctXoROq/4YfqgfA3rcYE./4gNeXaSyYCDDkkb7w7Ko7tTTjvb1R2",
+    "role": "admin",
+    "createdAt": "2022-04-14T23:06:24.977Z",
+    "updatedAt": "2022-04-14T23:06:24.977Z"
+  },
+  {
+    "id": 197,
+    "email": "fjdjxj@mail.com",
+    "password": "$2b$10$b6nH/y/mDA7lmMdiHl6dtecTncvMnpdvCoQBt5DWYNJJZh7NDCd4W",
+    "role": "admin",
+    "createdAt": "2022-04-15T00:26:07.046Z",
+    "updatedAt": "2022-04-15T00:26:07.046Z"
+  },
+  {
+    "id": 198,
+    "email": "aji@mail.com",
+    "password": "$2b$10$IOUH6TQhVQDUND8NAthn4u6VBeN6shu3VK9lwX3TdyFsNtX92TYCW",
+    "role": "admin",
+    "createdAt": "2022-04-15T00:42:20.864Z",
+    "updatedAt": "2022-04-15T00:42:20.864Z"
+  },
+  {
+    "id": 199,
+    "email": "kzmru@mail.com",
+    "password": "$2b$10$lT9OOvmwXHN.YUNM2uibWuJY7IxPxa16XYUYmO/gqtOeaOoMnQL.i",
+    "role": "admin",
+    "createdAt": "2022-04-15T00:44:26.106Z",
+    "updatedAt": "2022-04-15T00:44:26.106Z"
+  },
+  {
+    "id": 200,
+    "email": "android3@mail.com",
+    "password": "$2b$10$mmso9vY3C6TY.qxxg.bqAOic5FAqc2W4PaY6yIugQtxmoTAgLBYCu",
+    "role": "admin",
+    "createdAt": "2022-04-15T01:52:44.307Z",
+    "updatedAt": "2022-04-15T01:52:44.307Z"
+  },
+  {
+    "id": 201,
+    "email": "android2@email.com",
+    "password": "$2b$10$W64c51LosB.LJ.IZNsf.beEkPCzuVmE1yfyYcpiSnLWh1Cg2zskwa",
+    "role": "admin",
+    "createdAt": "2022-04-15T02:22:17.510Z",
+    "updatedAt": "2022-04-15T02:22:17.510Z"
+  },
+  {
+    "id": 202,
+    "email": "android@gmail.com",
+    "password": "$2b$10$VYjqIvXrZLlhRBfXS/Ywpu3QL5XDu5Aedl.fuL/6ItsX3QgzwXLfy",
+    "role": "admin",
+    "createdAt": "2022-04-15T02:25:18.369Z",
+    "updatedAt": "2022-04-15T02:25:18.369Z"
+  },
+  {
+    "id": 203,
+    "email": "xdss@gmail.com",
+    "password": "$2b$10$C2i5ksTVsCQsRjZTe/zJ0eah0Ur6i91bEDSdlsVp4wKgCamLL66/.",
+    "role": "admin",
+    "createdAt": "2022-04-15T05:33:02.488Z",
+    "updatedAt": "2022-04-15T05:33:02.488Z"
+  },
+  {
+    "id": 204,
+    "email": "mora@gmail.com",
+    "password": "$2b$10$4ko0L6ubXZsrnC0iB73tuuXPXm96G8amOVIg7EyVxBL4Ba.PaAqBS",
+    "role": "admin",
+    "createdAt": "2022-04-15T06:03:24.125Z",
+    "updatedAt": "2022-04-15T06:03:24.125Z"
+  },
+  {
+    "id": 205,
+    "email": "adminacshani@mail.com",
+    "password": "$2b$10$cgxlAOBuWXhZxNU800lUjuN0ThPvhZCvRAXyWJkSmGO4cnCnCEksy",
+    "role": "admin",
+    "createdAt": "2022-04-15T06:34:33.950Z",
+    "updatedAt": "2022-04-15T06:34:33.950Z"
+  },
+  {
+    "id": 206,
+    "email": "adminAND229@mail.com",
+    "password": "$2b$10$AZTqW5Da63Gt3cR.Mvu2tuMHip1pbyAXrQ4hOilwo.FN.iUQy3PMW",
+    "role": "admin",
+    "createdAt": "2022-04-15T06:36:26.654Z",
+    "updatedAt": "2022-04-15T06:36:26.654Z"
+  },
+  {
+    "id": 207,
+    "email": "adminAND17@mail.com",
+    "password": "$2b$10$rqXYmlfcOWAjOTMcgweR8eddt2NrIezyzANCyvCZttC.PjvC9HDOi",
+    "role": "admin",
+    "createdAt": "2022-04-15T07:13:54.413Z",
+    "updatedAt": "2022-04-15T07:13:54.413Z"
+  },
+  {
+    "id": 208,
+    "email": "abdan@gmail.com",
+    "password": "$2b$10$gyLbsmopqVkDGhxmXf8zuuZsq2XDqldep0MLt6n6P1KWyRba5kyYS",
+    "role": "admin",
+    "createdAt": "2022-04-15T07:14:23.154Z",
+    "updatedAt": "2022-04-15T07:14:23.154Z"
+  },
+  {
+    "id": 209,
+    "email": "admin123123@mail.com",
+    "password": "$2b$10$cOknAHXyaLC2Ls7xQHp2/OyFn1dqwZ.T0vY7p5noYzp0SMkF/a4um",
+    "role": " admin",
+    "createdAt": "2022-04-15T07:16:25.318Z",
+    "updatedAt": "2022-04-15T07:16:25.318Z"
+  },
+  {
+    "id": 210,
+    "email": "admin123123@mailadaasd.com",
+    "password": "$2b$10$8Fo/uhYKsy9.ic67w.5VuudFEVQ7hh7MEuqsCeGBLYrQusdKu8Blm",
+    "role": " admin",
+    "createdAt": "2022-04-15T07:16:33.652Z",
+    "updatedAt": "2022-04-15T07:16:33.652Z"
+  },
+  {
+    "id": 211,
+    "email": "admintest123oxm@ansasd.com",
+    "password": "$2b$10$tdID8kUmEhFypTyyqQeh.ea2fI9SWIJOc5yC8RgsCOD6gHqqIwnzu",
+    "role": " admin",
+    "createdAt": "2022-04-15T07:16:41.949Z",
+    "updatedAt": "2022-04-15T07:16:41.949Z"
+  },
+  {
+    "id": 212,
+    "email": "testadmin@mailasd.com",
+    "password": "$2b$10$fHFWs1sH6YJGQAj4Ti/f1uMVTZM8zvvVQIbZsV9v1wRhun4OP3Tcu",
+    "role": "admin",
+    "createdAt": "2022-04-15T07:17:45.966Z",
+    "updatedAt": "2022-04-15T07:17:45.966Z"
+  },
+  {
+    "id": 213,
+    "email": "laras123@gmail.com",
+    "password": "$2b$10$ovYe6452S.tra9VysZcyve5aESSIE6YCNBLeu.xsdPE8bh0oUpdkG",
+    "role": "admin",
+    "createdAt": "2022-04-15T07:19:46.357Z",
+    "updatedAt": "2022-04-15T07:19:46.357Z"
+  },
+  {
+    "id": 214,
+    "email": "testing@mailasd.com",
+    "password": "$2b$10$WmQOJnrjdq2DvhZFrCbHPO/SExPWGaetF4EOFROKKFt80gJz60h4u",
+    "role": "admin",
+    "createdAt": "2022-04-15T07:21:16.838Z",
+    "updatedAt": "2022-04-15T07:21:16.838Z"
+  },
+  {
+    "id": 215,
+    "email": "fuad123@gmail.com",
+    "password": "$2b$10$S8HEGPRh.tGM0cmulmblY.ZPOyfjaGFAWvjNB9kN/Go/UXw5wb6ke",
+    "role": "admin",
+    "createdAt": "2022-04-15T07:21:21.145Z",
+    "updatedAt": "2022-04-15T07:21:21.145Z"
+  },
+  {
+    "id": 216,
+    "email": "nuradi@gmail.com",
+    "password": "$2b$10$mFg1viOVNsI7h7ER1GaZA.UQ9mkwPIqSIFRW7GONsnhAwydYSZIO6",
+    "role": "admin",
+    "createdAt": "2022-04-15T07:24:59.452Z",
+    "updatedAt": "2022-04-15T07:24:59.452Z"
+  },
+  {
+    "id": 217,
+    "email": "asdasd@mail.com",
+    "password": "$2b$10$4qqLgQ3ARQHaAJKgXpF2JOasGaw4ZpZ0ff22wWUqKNoroR9QmdW/e",
+    "role": "admin",
+    "createdAt": "2022-04-15T07:26:37.739Z",
+    "updatedAt": "2022-04-15T07:26:37.739Z"
+  },
+  {
+    "id": 218,
+    "email": "test@asdasd.com",
+    "password": "$2b$10$rx2m/skudg25eryiglqGXuFsIbK9/Ql5eF6oubKOHSjqJasMLXUWu",
+    "role": "admin",
+    "createdAt": "2022-04-15T07:28:41.619Z",
+    "updatedAt": "2022-04-15T07:28:41.619Z"
+  },
+  {
+    "id": 219,
+    "email": "admintest1s23oxm@ansasd.com",
+    "password": "$2b$10$nLXCRG2Gb8z.FC2VdtGGduoJSvCbjP0vg1kQTWHXZpIrxC4Gc/pe6",
+    "role": " admin",
+    "createdAt": "2022-04-15T07:32:15.624Z",
+    "updatedAt": "2022-04-15T07:32:15.624Z"
+  },
+  {
+    "id": 220,
+    "email": "khamsa@gmail.com",
+    "password": "$2b$10$MhS4d2zmN5QlVKQKRhf9L.7d3Vbam33RWPmaxZsalToKApi2PW6NS",
+    "role": "admin",
+    "createdAt": "2022-04-15T07:40:24.365Z",
+    "updatedAt": "2022-04-15T07:40:24.365Z"
+  },
+  {
+    "id": 221,
+    "email": "zeti23@gmail.com",
+    "password": "$2b$10$srgjm.3HJ6iM0.MW8S.hme.cM8xYl0Qbsqx70OkrsGFx4WWmeSjZu",
+    "role": "admin",
+    "createdAt": "2022-04-15T07:58:13.278Z",
+    "updatedAt": "2022-04-15T07:58:13.278Z"
+  },
+  {
+    "id": 222,
+    "email": "asd@asdasd.com",
+    "password": "$2b$10$ciYctaGeb4TM8EOYol3RF.MKjkZDr0XPVcc2UxmNjxx37gsFhCwi6",
+    "role": "admin",
+    "createdAt": "2022-04-15T09:34:53.294Z",
+    "updatedAt": "2022-04-15T09:34:53.294Z"
+  },
+  {
+    "id": 223,
+    "email": "asd@asdasdasd.com",
+    "password": "$2b$10$WiObZLRnU78Sgu1eTHp7xO4uupta6quqherw8TTWrTT2toUvUgL0W",
+    "role": "admin",
+    "createdAt": "2022-04-15T09:35:21.363Z",
+    "updatedAt": "2022-04-15T09:35:21.363Z"
+  },
+  {
+    "id": 224,
+    "email": "asdasdasd@gmail.com",
+    "password": "$2b$10$2N2j6kQh6xwDo.JCH/DC/OwoWThvJRhT5gHdUXQjvZJrLhKU6mYyC",
+    "role": "admin",
+    "createdAt": "2022-04-15T09:37:25.716Z",
+    "updatedAt": "2022-04-15T09:37:25.716Z"
+  },
+  {
+    "id": 225,
+    "email": "adminshopee@mail.com",
+    "password": "$2b$10$W0.flv9qcQkH6eslZSWbF.IQcYYNH1OLtPFlqw3ItxQv.UqiUo1Li",
+    "role": "admin",
+    "createdAt": "2022-04-15T12:09:08.241Z",
+    "updatedAt": "2022-04-15T12:09:08.241Z"
+  },
+  {
+    "id": 226,
+    "email": "coba@mail.com",
+    "password": "$2b$10$PUQxiQ4pLwsE53nyCsyMhOQgH.VJebWhqCZ08Tu8s/yisOmvvLAvW",
+    "role": "admin",
+    "createdAt": "2022-04-15T12:55:05.457Z",
+    "updatedAt": "2022-04-15T12:55:05.457Z"
+  },
+  {
+    "id": 227,
+    "email": "bayu@gmail.com",
+    "password": "$2b$10$YhYosHJqWge69yDiVxrr8eji9.yGW359lg5Coqk3AFI5TL2ZsTMkG",
+    "role": "admin",
+    "createdAt": "2022-04-15T12:57:54.932Z",
+    "updatedAt": "2022-04-15T12:57:54.932Z"
+  },
+  {
+    "id": 228,
+    "email": "adminshopee1@mail.com",
+    "password": "$2b$10$.I5eQ51rT/YI004vUvUSV.yp8kyd0Oz8DFFbmkxS.giYlPOA5CrsC",
+    "role": "admin",
+    "createdAt": "2022-04-15T13:03:23.774Z",
+    "updatedAt": "2022-04-15T13:03:23.774Z"
+  },
+  {
+    "id": 229,
+    "email": "akucobanich@mail.com",
+    "password": "$2b$10$gdF2k9GFEHSsZ0KdSYm0ROaHTNMuuDIpEF/IZkL2GTPwaWnIYHB3e",
+    "role": "admin",
+    "createdAt": "2022-04-15T13:04:49.241Z",
+    "updatedAt": "2022-04-15T13:04:49.241Z"
+  },
+  {
+    "id": 230,
+    "email": "gmail@gmail.com",
+    "password": "$2b$10$tL9igYsE8FFF2oMCd5/2QOoKGcHK/v7rx9eqZHyaHHegWrFxlpe8S",
+    "role": "admin",
+    "createdAt": "2022-04-15T14:02:40.474Z",
+    "updatedAt": "2022-04-15T14:02:40.474Z"
+  },
+  {
+    "id": 231,
+    "email": "farhanfadhlurrahman@gmail.com",
+    "password": "$2b$10$rgCJUxuXoJonKrl4Es97g.PkDbOiw1pHBQY8S6Vf6uIzFxAiY6y8K",
+    "role": "admin",
+    "createdAt": "2022-04-15T14:16:25.093Z",
+    "updatedAt": "2022-04-15T14:16:25.093Z"
+  },
+  {
+    "id": 232,
+    "email": "farhanfadhlurrahm98888888888an@gmail.com",
+    "password": "$2b$10$uxzc1PpqIBpKRWm1Own.7uUAmcxstxfN5lkKWjdiBYU6/C3Qm0zNq",
+    "role": "admin",
+    "createdAt": "2022-04-15T14:16:43.704Z",
+    "updatedAt": "2022-04-15T14:16:43.704Z"
+  },
+  {
+    "id": 233,
+    "email": "admin@mailbaru.com",
+    "password": "$2b$10$mQaMQX7bC.RCIO8qYqylFek8hAzGnHfIJUS1FlDbPuALfE/PJFIie",
+    "role": "admin",
+    "createdAt": "2022-04-15T14:22:19.737Z",
+    "updatedAt": "2022-04-15T14:22:19.737Z"
+  },
+  {
+    "id": 234,
+    "email": "farhan@gmail.com",
+    "password": "$2b$10$U4Z5e0Jcj5zyDDMI0x9cwuePYC4mspFOBLlLQVV4HjTvtslLgFrOC",
+    "role": "admin",
+    "createdAt": "2022-04-15T14:48:48.924Z",
+    "updatedAt": "2022-04-15T14:48:48.924Z"
+  },
+  {
+    "id": 235,
+    "email": "agusgimangwawawawawa@awadoawdoaw.com",
+    "password": "$2b$10$1Ucl/3YSkP7Puovb0gIR0uNC0smPJihtOZVVyUCLa4qTyabfM5a7u",
+    "role": "admin",
+    "createdAt": "2022-04-15T14:52:20.833Z",
+    "updatedAt": "2022-04-15T14:52:20.833Z"
+  },
+  {
+    "id": 236,
+    "email": "asd@qwerqwrfaefas.com",
+    "password": "$2b$10$vmVOVHQnb3kv5vgcocxOceqBkybze9mMoWrSoBb940NaRxY/c5WFu",
+    "role": "admin",
+    "createdAt": "2022-04-15T14:58:25.230Z",
+    "updatedAt": "2022-04-15T14:58:25.230Z"
+  },
+  {
+    "id": 237,
+    "email": "asd@qwerqwrfaefdfqwerqwas.com",
+    "password": "$2b$10$VuYshmZ5/JM44GO7qqPUBulyIho9bldWBxr3uHiGYq0AhCTNbaw.q",
+    "role": "admin",
+    "createdAt": "2022-04-15T14:58:35.662Z",
+    "updatedAt": "2022-04-15T14:58:35.662Z"
+  },
+  {
+    "id": 238,
+    "email": "qrqawfaw@aefaf.com",
+    "password": "$2b$10$PUJXe1E4wpTtmsGWWDQU5e7a.vgsNccwzxa8R9gcrimjRPMWIBwZu",
+    "role": "admin",
+    "createdAt": "2022-04-15T14:59:55.644Z",
+    "updatedAt": "2022-04-15T14:59:55.644Z"
+  },
+  {
+    "id": 239,
+    "email": "fasdfaef@qwreqwrwq.com",
+    "password": "$2b$10$JxacdPKI5AqBz4DflUdhy.Lq.gp9kk6xPD7XnBzHje4ZnpUiYO/H.",
+    "role": "admin",
+    "createdAt": "2022-04-15T15:00:47.291Z",
+    "updatedAt": "2022-04-15T15:00:47.291Z"
+  },
+  {
+    "id": 240,
+    "email": "fudinafif45@gmail.com",
+    "password": "$2b$10$1Re6CeVuTTaiqiSDXm.k6ufCMAIc85vjTxLyDPQZhE3y7yhRLB4PS",
+    "role": "admin",
+    "createdAt": "2022-04-15T15:05:49.266Z",
+    "updatedAt": "2022-04-15T15:05:49.266Z"
+  },
+  {
+    "id": 241,
+    "email": "admin123@gmail.com",
+    "password": "$2b$10$1dX60HpwjnxNlWmNf83zX.WAN.Nr55pMAx3h62YtJmFg6BzOUBNpy",
+    "role": "admin",
+    "createdAt": "2022-04-15T19:48:05.433Z",
+    "updatedAt": "2022-04-15T19:48:05.433Z"
+  },
+  {
+    "id": 242,
+    "email": "adminnnn@mail.com",
+    "password": "$2b$10$g/uzh2eWwdTXgr5oNc1JxuRL6MLNtPkrzDpRngPBvsBOi88NhEgOm",
+    "role": "admin",
+    "createdAt": "2022-04-16T01:39:56.991Z",
+    "updatedAt": "2022-04-16T01:39:56.991Z"
+  },
+  {
+    "id": 243,
+    "email": "admin@main.com",
+    "password": "$2b$10$5EZzrjeiQGFp7Kvgjyy/UOzoEMxUc9Bpp19dlAK5V0H.ogfK9jHMu",
+    "role": "admin",
+    "createdAt": "2022-04-17T07:01:38.225Z",
+    "updatedAt": "2022-04-17T07:01:38.225Z"
+  },
+  {
+    "id": 244,
+    "email": "sunardi@gmail.com",
+    "password": "$2b$10$Jex8FfJMq8tWpOEnBdY6euwd4nX8yVkiegc.3UB8jTfrPnETXbKqe",
+    "role": "admin",
+    "createdAt": "2022-04-18T01:05:23.416Z",
+    "updatedAt": "2022-04-18T01:05:23.416Z"
+  },
+  {
+    "id": 245,
+    "email": "ronal@gmail.com",
+    "password": "$2b$10$88DRnfe5nUkfucDmzOT9Ue36JaSRnDLVA8s4xAk2Sj9xbf20hXeVi",
+    "role": "admin",
+    "createdAt": "2022-04-18T01:07:27.658Z",
+    "updatedAt": "2022-04-18T01:07:27.658Z"
+  },
+  {
+    "id": 246,
+    "email": "chap5day4@mail.com",
+    "password": "$2b$10$vNfWCaRTd3ZDtEP2Z6ciM.X0ol6QKR0J1L5CNtiUMIVS.FiKr6gny",
+    "role": "admin",
+    "createdAt": "2022-04-18T02:01:33.633Z",
+    "updatedAt": "2022-04-18T02:01:33.633Z"
+  },
+  {
+    "id": 247,
+    "email": "hudza@gmail.com",
+    "password": "$2b$10$kcobgGV6qG46XatkzS2n/OHpHQeMZ7/CVD9nDUkDFiMUllWvBPc96",
+    "role": "admin",
+    "createdAt": "2022-04-18T02:05:47.664Z",
+    "updatedAt": "2022-04-18T02:05:47.664Z"
+  },
+  {
+    "id": 248,
+    "email": "tegar@gmail.com",
+    "password": "$2b$10$92tUtXHnqm2xvE1kW/1lTuCDafPXJHWsPvtHZ6lcsKuBgXGpftyz2",
+    "role": "admin",
+    "createdAt": "2022-04-18T02:36:53.373Z",
+    "updatedAt": "2022-04-18T02:36:53.373Z"
+  },
+  {
+    "id": 249,
+    "email": "dul@gmail.com",
+    "password": "$2b$10$3DNZJv33n.DCIMmu8bVIC.HharB0tlxm8uri3Ohqwz.4tGR.V.Nz2",
+    "role": "admin",
+    "createdAt": "2022-04-18T02:46:39.577Z",
+    "updatedAt": "2022-04-18T02:46:39.577Z"
+  },
+  {
+    "id": 250,
+    "email": "far@gmail.com",
+    "password": "$2b$10$YED1znxxzdmWXyMbPw5Y0uAtmD0k/bhDuutejnRhIdFPPwSYe2R7i",
+    "role": "admin",
+    "createdAt": "2022-04-18T02:58:42.974Z",
+    "updatedAt": "2022-04-18T02:58:42.974Z"
+  },
+  {
+    "id": 251,
+    "email": "ardanspaga@gmail.com",
+    "password": "$2b$10$ODUM6lu6mdO4i7wt55eRZOUyHGqUxpQVBT/9apXaT/phem7TKoZCq",
+    "role": "admin",
+    "createdAt": "2022-04-18T03:38:39.399Z",
+    "updatedAt": "2022-04-18T03:38:39.399Z"
+  },
+  {
+    "id": 252,
+    "email": "ardanspaga@gmail.acom",
+    "password": "$2b$10$dpRkdDkl45gkz7oj5txPR.rqaaC2wQs2zxRo1j/ej5sf2YcLgRmcC",
+    "role": "admin",
+    "createdAt": "2022-04-18T03:39:55.595Z",
+    "updatedAt": "2022-04-18T03:39:55.595Z"
+  },
+  {
+    "id": 253,
+    "email": "ardanspaga@gmail.cssom",
+    "password": "$2b$10$fY0DK8OWV3ATV1/k8AH8IO7oT06y0fjoyZ3ggZCa9/q2abxMdLS4K",
+    "role": "admin",
+    "createdAt": "2022-04-18T03:43:53.649Z",
+    "updatedAt": "2022-04-18T03:43:53.649Z"
+  },
+  {
+    "id": 254,
+    "email": "ardanspaga@gmaidsadsadsal.cssom",
+    "password": "$2b$10$sUKhwb.sL805HIDqlwywv.JPCE0sI8AQjaYtBirpCSXv1uW0KayBG",
+    "role": "admin",
+    "createdAt": "2022-04-18T03:44:13.383Z",
+    "updatedAt": "2022-04-18T03:44:13.383Z"
+  },
+  {
+    "id": 255,
+    "email": "ardanspaga@gsadsadmaidsadsadsal.cssom",
+    "password": "$2b$10$JFVaL2buMgc5V.xMr8uP2eE3X495P9OJz5lnGjrfYXLdtcMdrg.Si",
+    "role": "admin",
+    "createdAt": "2022-04-18T03:44:31.084Z",
+    "updatedAt": "2022-04-18T03:44:31.084Z"
+  },
+  {
+    "id": 256,
+    "email": "lala@mail.com",
+    "password": "$2b$10$K/3sV77aa36LcHNECnxzB.6wUOzuzJtUD7V/2HWOpBBwQJJSxAXzm",
+    "role": "admin",
+    "createdAt": "2022-04-18T04:08:02.323Z",
+    "updatedAt": "2022-04-18T04:08:02.323Z"
+  },
+  {
+    "id": 257,
+    "email": "hayulutukan@gmail.com",
+    "password": "$2b$10$Vdj2rVcC0jq3JcLDDF2UGeAw3SKh9lq59pcOvK7VP0enlLFYl0ud6",
+    "role": "admin",
+    "createdAt": "2022-04-18T05:33:21.058Z",
+    "updatedAt": "2022-04-18T05:33:21.058Z"
+  },
+  {
+    "id": 258,
+    "email": "ayen@gmail.com",
+    "password": "$2b$10$8rtSoypudmEkT2xT/XkuCes6wI/qxkfd5E5aq.XFZkYlg4o7Of3Pm",
+    "role": "admin",
+    "createdAt": "2022-04-18T06:48:19.799Z",
+    "updatedAt": "2022-04-18T06:48:19.799Z"
+  },
+  {
+    "id": 259,
+    "email": "sasdad@das.com",
+    "password": "$2b$10$II51srfJuxkQy//26NiXIObLIi4D5hCadKRHP2nXdf7xR33nDyGJ2",
+    "role": "admin",
+    "createdAt": "2022-04-18T08:12:03.480Z",
+    "updatedAt": "2022-04-18T08:12:03.480Z"
+  },
+  {
+    "id": 260,
+    "email": "admin10@mail.com",
+    "password": "$2b$10$5r3p3dwqrWfU07I93dMrQeErBbHOaqeWueWeXOkvm3YxqegHMcg4u",
+    "role": "admin",
+    "createdAt": "2022-04-18T09:47:50.886Z",
+    "updatedAt": "2022-04-18T09:47:50.886Z"
+  },
+  {
+    "id": 261,
+    "email": "agdmin10@mail.com",
+    "password": "$2b$10$aIPsFgd2Mttu7iq2aNNzIeB.HkvyBKJgkGPIaAcQAuKQId/yYmSqu",
+    "role": "admin",
+    "createdAt": "2022-04-18T10:06:27.361Z",
+    "updatedAt": "2022-04-18T10:06:27.361Z"
+  },
+  {
+    "id": 262,
+    "email": "aggdmin10@mail.com",
+    "password": "$2b$10$.y6jGxda1/dtFQcbSJFyrulh/W.LMZRD8p25eikDInnndrsj3PsMK",
+    "role": "admin",
+    "createdAt": "2022-04-18T10:11:50.717Z",
+    "updatedAt": "2022-04-18T10:11:50.717Z"
+  },
+  {
+    "id": 263,
+    "email": "y@mail.com",
+    "password": "$2b$10$2OLSgmAGhT6t/ljlTFSABulOW3ZR.xjIusZT5DG/zT0GfV47fDuIS",
+    "role": "admin",
+    "createdAt": "2022-04-18T10:12:19.835Z",
+    "updatedAt": "2022-04-18T10:12:19.835Z"
+  },
+  {
+    "id": 264,
+    "email": "dccxf@mail.com",
+    "password": "$2b$10$dXjw5EaR.QgCUEO4Vxz0Zux44.VyYKGu1w3VCyzVD3asRhqzcWeZu",
+    "role": "admin",
+    "createdAt": "2022-04-18T10:16:33.391Z",
+    "updatedAt": "2022-04-18T10:16:33.391Z"
+  },
+  {
+    "id": 265,
+    "email": "admin666@mail.com",
+    "password": "$2b$10$AWpnxRT7LHfoUq4der8AieeWeiHTyCvtWm92NPcuOG/6TtiknNyyi",
+    "role": "admin",
+    "createdAt": "2022-04-18T11:51:39.546Z",
+    "updatedAt": "2022-04-18T11:51:39.546Z"
+  },
+  {
+    "id": 266,
+    "email": "admin669@mail.com",
+    "password": "$2b$10$vDl6xq/Ms39TwJQjeGaSZuvj7yec7FYLqlEKVJwiR6rPLzCJmb7US",
+    "role": "admin",
+    "createdAt": "2022-04-18T11:52:58.597Z",
+    "updatedAt": "2022-04-18T11:52:58.597Z"
+  },
+  {
+    "id": 267,
+    "email": "admin699@mail.com",
+    "password": "$2b$10$oGxpPpkrELZcy8Ct/4ggOeXDttrf.xD1bpIzFefUerPyrerM5jdSe",
+    "role": "admin",
+    "createdAt": "2022-04-18T11:54:53.991Z",
+    "updatedAt": "2022-04-18T11:54:53.991Z"
+  },
+  {
+    "id": 268,
+    "email": "admin0000@mail.com",
+    "password": "$2b$10$t5MwJc6fIcn6qBwPYS7NZOxPGMKI.eu9XwWVT/2ouEYR1UGFO8qPm",
+    "role": "admin",
+    "createdAt": "2022-04-18T11:58:58.345Z",
+    "updatedAt": "2022-04-18T11:58:58.345Z"
+  },
+  {
+    "id": 269,
+    "email": "admin0001@mail.com",
+    "password": "$2b$10$uMKM2fgk.GF//ZRT28lg6OumyHhD7WlzWLynY2eUsnog6SDDmg0pu",
+    "role": "admin",
+    "createdAt": "2022-04-18T12:42:26.490Z",
+    "updatedAt": "2022-04-18T12:42:26.490Z"
+  },
+  {
+    "id": 270,
+    "email": "adminAND224@mail.com",
+    "password": "$2b$10$YgMBlwT7Kn0jiTsA2cMuXuku5iW6mVjfjkX4P1KLmpM0o3tYh2Fae",
+    "role": "admin",
+    "createdAt": "2022-04-18T13:02:59.339Z",
+    "updatedAt": "2022-04-18T13:02:59.339Z"
+  },
+  {
+    "id": 271,
+    "email": "dwadkoawodkawkokoaw@gmail.com",
+    "password": "$2b$10$5ni5Fbue7qqTGDXsFANUR.GcRDCike65B4t8K8QnzAoQz0KNmz0PK",
+    "role": "admin",
+    "createdAt": "2022-04-18T13:12:12.194Z",
+    "updatedAt": "2022-04-18T13:12:12.194Z"
+  },
+  {
+    "id": 272,
+    "email": "Namesisiw9@gmail.com",
+    "password": "$2b$10$MwHoOvOqWsRiR5qbGMmaF.j8V3HZJT5OFevLMKP5e6fPN4trYgZ4C",
+    "role": "admin",
+    "createdAt": "2022-04-18T13:15:12.740Z",
+    "updatedAt": "2022-04-18T13:15:12.740Z"
+  },
+  {
+    "id": 273,
+    "email": "admin0002@mail.com",
+    "password": "$2b$10$8xgHvx6DoFh9ktLve7sZk.IGsNv0HpLDmQWiI5W9LDSsZMXxx2IMK",
+    "role": "admin",
+    "createdAt": "2022-04-18T13:22:23.996Z",
+    "updatedAt": "2022-04-18T13:22:23.996Z"
+  },
+  {
+    "id": 274,
+    "email": "admin0003@mail.com",
+    "password": "$2b$10$WI0uEfXKr/iAxhv3a6OFjOc1ksnmcsSOXrA12Jy5WN0aWg0IuUug2",
+    "role": "admin",
+    "createdAt": "2022-04-18T13:23:16.505Z",
+    "updatedAt": "2022-04-18T13:23:16.505Z"
+  },
+  {
+    "id": 275,
+    "email": "admin0004@mail.com",
+    "password": "$2b$10$dk41IeN/m.9v5KI4aDdD9u6BVc5sLjKibc6LdR2y5zWGR7XqUR8Jy",
+    "role": "admin",
+    "createdAt": "2022-04-18T13:26:17.890Z",
+    "updatedAt": "2022-04-18T13:26:17.890Z"
+  },
+  {
+    "id": 276,
+    "email": "admin0005@mail.com",
+    "password": "$2b$10$eoIIgPvOXOZ3eGqlAQa6ye8Bu7eAHzEgstt5Q4xGekrJYd5DOvzNC",
+    "role": "admin",
+    "createdAt": "2022-04-18T13:26:51.072Z",
+    "updatedAt": "2022-04-18T13:26:51.072Z"
+  },
+  {
+    "id": 277,
+    "email": "admin0007@mail.com",
+    "password": "$2b$10$LceL3uaRNEFc6V8aghWhUOuk2M8yOkFOQ/pn0jGIpVy2nw6hX2HMe",
+    "role": "admin",
+    "createdAt": "2022-04-18T14:24:35.821Z",
+    "updatedAt": "2022-04-18T14:24:35.821Z"
+  },
+  {
+    "id": 278,
+    "email": "tes001@email.com",
+    "password": "$2b$10$hDfgH0LOXLBR6IlfBTO8dePKZUrGgvXjNQ.Um3d5MQ8GMsxYm0eWG",
+    "role": "admin",
+    "createdAt": "2022-04-18T14:34:34.248Z",
+    "updatedAt": "2022-04-18T14:34:34.248Z"
+  },
+  {
+    "id": 279,
+    "email": "email123123@email.com",
+    "password": "$2b$10$WkjPKD9iUEvo5ZbHdNhaXey/wFqHHCCk5jPtKJ3Dtm8CpX3zrVuXC",
+    "role": null,
+    "createdAt": "2022-04-18T15:34:35.727Z",
+    "updatedAt": "2022-04-18T15:34:35.727Z"
+  },
+  {
+    "id": 280,
+    "email": "email1231231@email.com",
+    "password": "$2b$10$uHCD8ybucHS3Ei4dyjsoOOQJVZr535a53rt7iVQrLgZrRT0KOXAqi",
+    "role": "admin",
+    "createdAt": "2022-04-18T15:34:55.944Z",
+    "updatedAt": "2022-04-18T15:34:55.944Z"
+  },
+  {
+    "id": 281,
+    "email": "custMaik1@mail.com",
+    "password": "$2b$10$FOYvzqsbvfKW339Gs6wE/.XY8fJmz3pn.ZrAPwWlqNk8M/ALAxdeW",
+    "role": "Customer",
+    "createdAt": "2022-04-18T15:37:16.020Z",
+    "updatedAt": "2022-04-18T15:37:16.020Z"
+  },
+  {
+    "id": 282,
+    "email": "admi123n@mail.com",
+    "password": "$2b$10$KoUEFq7Enqyg4JsIEOxQnOoLX5q7tlnybnxcGxZS1.uoF4cNIlPWi",
+    "role": "Customer",
+    "createdAt": "2022-04-18T15:37:31.178Z",
+    "updatedAt": "2022-04-18T15:37:31.178Z"
+  },
+  {
+    "id": 283,
+    "email": "emailcustomer123@email.com",
+    "password": "$2b$10$I.X..wQ7cEmsaHoMkAH7.ujLGIbzrm5cm6zB/dc0ktwLNBXyESJle",
+    "role": "Customer",
+    "createdAt": "2022-04-18T15:39:34.832Z",
+    "updatedAt": "2022-04-18T15:39:34.832Z"
+  },
+  {
+    "id": 284,
+    "email": "valentinetsinaga14@gmail.com",
+    "password": "$2b$10$Yk7ExYiut8iVYDUxfA16Q.AhgAp3jSp5p1fvpeJuaA8o6afGeV5Z.",
+    "role": "siswa",
+    "createdAt": "2022-04-18T16:57:30.504Z",
+    "updatedAt": "2022-04-18T16:57:30.504Z"
+  },
+  {
+    "id": 285,
+    "email": "al@mail.com",
+    "password": "$2b$10$LFHBJrMRjk7BQaUzWBpTV.f9Wm3sNe8FTcn1Gmt5a9DCKLLnDHS7S",
+    "role": "admin",
+    "createdAt": "2022-04-18T16:57:44.920Z",
+    "updatedAt": "2022-04-18T16:57:44.920Z"
+  },
+  {
+    "id": 286,
+    "email": "adminbinar1@mail.com",
+    "password": "$2b$10$heEjmtxS5fIl.cMOpuhG8etmVqK3IX1mKPaiTfJwPqInTbrAucKV6",
+    "role": "admin",
+    "createdAt": "2022-04-18T21:25:08.854Z",
+    "updatedAt": "2022-04-18T21:25:08.854Z"
+  },
+  {
+    "id": 287,
+    "email": "custMaik2@gmail.com",
+    "password": "$2b$10$3KUdLgpYV1B6f/cEc9mqJ.XfBPISW/PQnB2hOW3VBkNTGo8aB/eLi",
+    "role": "Customer",
+    "createdAt": "2022-04-19T00:36:34.930Z",
+    "updatedAt": "2022-04-19T00:36:34.930Z"
+  },
+  {
+    "id": 288,
+    "email": "emailcustomer123123@email.com",
+    "password": "$2b$10$pNGC6cJpNjZbgGPHrAQzZOLalIZ.50YXBh/9b9h8uTS5mkgZy.51e",
+    "role": "Customer",
+    "createdAt": "2022-04-19T04:26:07.545Z",
+    "updatedAt": "2022-04-19T04:26:07.545Z"
+  },
+  {
+    "id": 289,
+    "email": "testtest123@gmail.com",
+    "password": "$2b$10$/h1t9552NFtqICptS1l8r.ikOv6jqKPE4DOWKAqRJHL0YyriA3APG",
+    "role": "Customer",
+    "createdAt": "2022-04-19T04:47:04.777Z",
+    "updatedAt": "2022-04-19T04:47:04.777Z"
+  },
+  {
+    "id": 290,
+    "email": "testtest123321@gmail.com",
+    "password": "$2b$10$fD8tAwjpTygKMbbEwGXe8u.jN8sJFj.LFuPP9iPDegIzAm7Eblcki",
+    "role": "Customer",
+    "createdAt": "2022-04-19T04:50:36.429Z",
+    "updatedAt": "2022-04-19T04:50:36.429Z"
+  },
+  {
+    "id": 291,
+    "email": "testtest12323@gmail.com",
+    "password": "$2b$10$ov6mLIlA444WNWKwP04i1uqdJeYnqL/cYNTXRuc3M6ivqjJPiBmGG",
+    "role": "Customer",
+    "createdAt": "2022-04-19T04:57:01.366Z",
+    "updatedAt": "2022-04-19T04:57:01.366Z"
+  },
+  {
+    "id": 292,
+    "email": "testest12332@gmail.com",
+    "password": "$2b$10$TREkB0Bt8RE1bJZVlzUfB.zWh/JwXyXvjUYAktBS8rUxZ09EupxlW",
+    "role": "Customer",
+    "createdAt": "2022-04-19T04:58:56.505Z",
+    "updatedAt": "2022-04-19T04:58:56.505Z"
+  },
+  {
+    "id": 293,
+    "email": "testtest123455@gmail.com",
+    "password": "$2b$10$S6RoWeBjjRIt7Bu8r/YjT.1wp0.gV4gMszeeTUStei7RekOx6F5SG",
+    "role": "Customer",
+    "createdAt": "2022-04-19T04:59:54.196Z",
+    "updatedAt": "2022-04-19T04:59:54.196Z"
+  },
+  {
+    "id": 294,
+    "email": "mytest@gmail.com",
+    "password": "$2b$10$E4wR63coWa4ma3mQzilZWeIGdhVcI80Ps8.CnPp46RWWSboC.ggJm",
+    "role": "Customer",
+    "createdAt": "2022-04-19T05:40:31.660Z",
+    "updatedAt": "2022-04-19T05:40:31.660Z"
+  },
+  {
+    "id": 295,
+    "email": "testakun1@gmail.com",
+    "password": "$2b$10$gtXwu0jsya.JjeKYc2UQj.AbuBPOfE/vOModJDPe4XXy9lah9bdoe",
+    "role": "Customer",
+    "createdAt": "2022-04-19T05:43:17.665Z",
+    "updatedAt": "2022-04-19T05:43:17.665Z"
+  },
+  {
+    "id": 296,
+    "email": "customer001@gmail.com",
+    "password": "$2b$10$1AwzMv32CH7XPzohuRNpBeYeSnWFnVz9/rOKLI7qUSfhCx31Oklpa",
+    "role": "Customer",
+    "createdAt": "2022-04-19T05:43:34.238Z",
+    "updatedAt": "2022-04-19T05:43:34.238Z"
+  },
+  {
+    "id": 297,
+    "email": "testakun2@gmail.com",
+    "password": "$2b$10$bSv6MffJ7yRUCyzn5/AXwue4NVPnXOc3yFIe6FL5.LEqQHx4FTYUW",
+    "role": "Customer",
+    "createdAt": "2022-04-19T05:43:34.970Z",
+    "updatedAt": "2022-04-19T05:43:34.970Z"
+  },
+  {
+    "id": 298,
+    "email": "TESTAKUN3@gmail.com",
+    "password": "$2b$10$0Znzjpv0UjXYaH0KT2cFZuZro4sztT3t6FtlfN8OfHydlR6NbXc/K",
+    "role": "Customer",
+    "createdAt": "2022-04-19T05:47:44.940Z",
+    "updatedAt": "2022-04-19T05:47:44.940Z"
+  },
+  {
+    "id": 299,
+    "email": "testakun3@gmail.com",
+    "password": "$2b$10$WaBMl29tt.TBo8W46fZ1oOprXBTVzeW6.EHAGM3pYePRMpxpf9BJu",
+    "role": "Customer",
+    "createdAt": "2022-04-19T05:48:02.967Z",
+    "updatedAt": "2022-04-19T05:48:02.967Z"
+  },
+  {
+    "id": 300,
+    "email": "testakun4@gmail.com",
+    "password": "$2b$10$olp7lJBOThTBkMhEz5mFMOwlrmV37OXKw//oZ9V9wSwtL5yPos2Ee",
+    "role": "Customer",
+    "createdAt": "2022-04-19T05:48:23.189Z",
+    "updatedAt": "2022-04-19T05:48:23.189Z"
+  },
+  {
+    "id": 301,
+    "email": "testakun5@gmail.com",
+    "password": "$2b$10$RmctcnwSYFxwLCYMwen5S.pMnjDMWMzgyaG7lm4B722xdVdqeMx.O",
+    "role": "Customer",
+    "createdAt": "2022-04-19T05:48:55.465Z",
+    "updatedAt": "2022-04-19T05:48:55.465Z"
+  },
+  {
+    "id": 302,
+    "email": "testakun6@gmail.com",
+    "password": "$2b$10$D2ZJ1R93uh18gpf5JjA4..gkEBqeZ3tqCqx5o.hkStRqRf2ZMRPBq",
+    "role": "Customer",
+    "createdAt": "2022-04-19T05:49:13.482Z",
+    "updatedAt": "2022-04-19T05:49:13.482Z"
+  },
+  {
+    "id": 303,
+    "email": "admin12@main.com",
+    "password": "$2b$10$bC/YJQog6bHbQMoRQsqmeelvq9kj2pP9g1W8lZeoBHka74kPtfxIG",
+    "role": "admin",
+    "createdAt": "2022-04-19T06:28:04.846Z",
+    "updatedAt": "2022-04-19T06:28:04.846Z"
+  },
+  {
+    "id": 304,
+    "email": "customer002@gmail.com",
+    "password": "$2b$10$D8GXuNlo5tNBD0wII4NZpeMycON7Qwc/eyZaCLsm640.ZRELjEddW",
+    "role": "Customer",
+    "createdAt": "2022-04-19T06:47:11.145Z",
+    "updatedAt": "2022-04-19T06:47:11.145Z"
+  },
+  {
+    "id": 305,
+    "email": "customer003@gmail.com",
+    "password": "$2b$10$rtuQs3gVVmLC88yphVn.eeemNYNijtObNZsTFjSB4vvmAGviUEY/W",
+    "role": "Customer",
+    "createdAt": "2022-04-19T06:51:50.965Z",
+    "updatedAt": "2022-04-19T06:51:50.965Z"
+  },
+  {
+    "id": 306,
+    "email": "custumer003@gmail.com",
+    "password": "$2b$10$ACDkKCPXZo1Mws1mxxn1Eu.fZl/R1G5Fc.SVdV/tMW7L2JjnXIYBm",
+    "role": "Customer",
+    "createdAt": "2022-04-19T06:56:06.950Z",
+    "updatedAt": "2022-04-19T06:56:06.950Z"
+  },
+  {
+    "id": 307,
+    "email": "cusomer001@gmail.com",
+    "password": "$2b$10$/UcajWe0lgTz/NHUdVp.JuUnIivVwL91Athgy9cqMcuKDBbl6MdWi",
+    "role": "Customer",
+    "createdAt": "2022-04-19T07:08:17.847Z",
+    "updatedAt": "2022-04-19T07:08:17.847Z"
+  },
+  {
+    "id": 308,
+    "email": "customer004@gmail.com",
+    "password": "$2b$10$svKG/TG/ufbEzIuae3bZQeBQvBWWIldTBBWCMkimLE8cuCX8d.ZpO",
+    "role": "Customer",
+    "createdAt": "2022-04-19T07:17:05.518Z",
+    "updatedAt": "2022-04-19T07:17:05.518Z"
+  },
+  {
+    "id": 309,
+    "email": "customer005@gmail.com",
+    "password": "$2b$10$XyNXiGEItWS8B/VKPatM1OaXXvQcFXjYXd7rcLUFaOfpKPTdGq0Qi",
+    "role": "Customer",
+    "createdAt": "2022-04-19T07:23:03.290Z",
+    "updatedAt": "2022-04-19T07:23:03.290Z"
+  },
+  {
+    "id": 310,
+    "email": "customer006@gmail.com",
+    "password": "$2b$10$z3/6wELV/Nq/np7ZEzG6WuiNlL9TJYUJM7lJAZaG3yookyIABDy4W",
+    "role": "Customer",
+    "createdAt": "2022-04-19T08:07:01.402Z",
+    "updatedAt": "2022-04-19T08:07:01.402Z"
+  },
+  {
+    "id": 311,
+    "email": "customer007@gmail.com",
+    "password": "$2b$10$YIbuXDFv4PXto23EEPGKw.OMDoONsu16t4VBy7dg.Kb888qUXkXX6",
+    "role": "Customer",
+    "createdAt": "2022-04-19T08:41:41.728Z",
+    "updatedAt": "2022-04-19T08:41:41.728Z"
+  },
+  {
+    "id": 312,
+    "email": "customer008@gmail.com",
+    "password": "$2b$10$6ZQro4uWlv/awuZ7PanfLeEZeva9.7XKnIcpxhbp2gd1TMJrP7IVy",
+    "role": "Customer",
+    "createdAt": "2022-04-19T08:44:29.798Z",
+    "updatedAt": "2022-04-19T08:44:29.798Z"
+  },
+  {
+    "id": 313,
+    "email": "testbn@gmail.com",
+    "password": "$2b$10$h7s4miO.c5unz3xjEhMWGO3dyvzLE/j7kjhFcE5548iw7zXV30QSK",
+    "role": "Customer",
+    "createdAt": "2022-04-19T13:11:16.016Z",
+    "updatedAt": "2022-04-19T13:11:16.016Z"
+  },
+  {
+    "id": 314,
+    "email": "testmail@mail.com",
+    "password": "$2b$10$3vJ.fNxInm.xPH9BgTuNu.tNspiHIzOGyxriUG0sW4oLywcBb8lhS",
+    "role": null,
+    "createdAt": "2022-04-19T13:14:41.476Z",
+    "updatedAt": "2022-04-19T13:14:41.476Z"
+  },
+  {
+    "id": 315,
+    "email": "testbn1@mail.com",
+    "password": "$2b$10$ZQnZjjBv6d9nW0TwBDcULeVVfuwmmg8xWxv2GC3oS8bQ9GloHSEd2",
+    "role": "admin",
+    "createdAt": "2022-04-19T13:18:46.996Z",
+    "updatedAt": "2022-04-19T13:18:46.996Z"
+  },
+  {
+    "id": 316,
+    "email": "testbn2@mail.com",
+    "password": "$2b$10$oBcKUT0.Fu/Hz3SjLIC4sOLvEL8Vda5xgKa8EjlNl2u2o4VSPYHNO",
+    "role": "Customer",
+    "createdAt": "2022-04-19T13:19:28.212Z",
+    "updatedAt": "2022-04-19T13:19:28.212Z"
+  },
+  {
+    "id": 317,
+    "email": "testbn4@gmail.com",
+    "password": "$2b$10$K6CSjguW1ynBIDJ9ZWoXMOrZm36iPEJi8e9tl5p.yUnsdVbcUGUiW",
+    "role": "Customer",
+    "createdAt": "2022-04-19T13:54:13.942Z",
+    "updatedAt": "2022-04-19T13:54:13.942Z"
+  },
+  {
+    "id": 318,
+    "email": "testbn5@gmail.com",
+    "password": "$2b$10$Yz3jd7bFUWyPELTvumdwjOWy860grj1nr/VJQNIdprC1fZe23JMxa",
+    "role": "Customer",
+    "createdAt": "2022-04-19T13:56:37.417Z",
+    "updatedAt": "2022-04-19T13:56:37.417Z"
+  },
+  {
+    "id": 319,
+    "email": "testbn6@gmail.com",
+    "password": "$2b$10$raZk4cMM8ybb.oU1I9hKleJO16tLis5bE4yncW6.c4TWPV.cloF2e",
+    "role": "Customer",
+    "createdAt": "2022-04-19T14:27:58.597Z",
+    "updatedAt": "2022-04-19T14:27:58.597Z"
+  },
+  {
+    "id": 320,
+    "email": "admin111@mail.com",
+    "password": "$2b$10$4c119EJwJB.F8X1O4azx4O7GNRgRc9GbRB.41MZRI8OGB3jzc3qRi",
+    "role": "Customer",
+    "createdAt": "2022-04-19T14:43:08.648Z",
+    "updatedAt": "2022-04-19T14:43:08.648Z"
+  },
+  {
+    "id": 321,
+    "email": "admin098@mail.com",
+    "password": "$2b$10$jBaa7T/yCI89aGZkysxlj.3pvcnVCyuOaomWEDV0vv/ZvDkxdeXNK",
+    "role": "admin",
+    "createdAt": "2022-04-19T14:53:34.809Z",
+    "updatedAt": "2022-04-19T14:53:34.809Z"
+  },
+  {
+    "id": 322,
+    "email": "admin4323@mail.com",
+    "password": "$2b$10$j4dPXmBsH.hp0DAVQZh.gO91XRCt67xpfClISs6qS6z9Iw2MrilxW",
+    "role": "Customer",
+    "createdAt": "2022-04-19T14:54:43.483Z",
+    "updatedAt": "2022-04-19T14:54:43.483Z"
+  },
+  {
+    "id": 323,
+    "email": "user@gmail.com",
+    "password": "$2b$10$x41WtgYOr7nzlvubRDgh6eaayv/fYENHegywaoM8VtryX4M3LtVVy",
+    "role": "Customer",
+    "createdAt": "2022-04-19T14:59:20.233Z",
+    "updatedAt": "2022-04-19T14:59:20.233Z"
+  },
+  {
+    "id": 324,
+    "email": "adminMaik12@mail.com",
+    "password": "$2b$10$RlpsIC3TJGFVNHZGamMvtuV9aRWhQgtm.Jr.k7AXrqnMuTWsnmFga",
+    "role": "admin",
+    "createdAt": "2022-04-19T15:05:51.144Z",
+    "updatedAt": "2022-04-19T15:05:51.144Z"
+  },
+  {
+    "id": 325,
+    "email": "tesuser001@email.com",
+    "password": "$2b$10$aGnuZJwQQ9cQUQ/tucnBoOL/H8qIX5U4i1bCpoMgxPD.ShdGOsCSm",
+    "role": "Customer",
+    "createdAt": "2022-04-19T15:13:17.219Z",
+    "updatedAt": "2022-04-19T15:13:17.219Z"
+  },
+  {
+    "id": 326,
+    "email": "tesadmin001@email.com",
+    "password": "$2b$10$x5lfTV42HvZ8C4OScw2koOz74IuOUJK2LE0hy7lOjFs6s2uSCnklS",
+    "role": "admin",
+    "createdAt": "2022-04-19T15:14:02.005Z",
+    "updatedAt": "2022-04-19T15:14:02.005Z"
+  },
+  {
+    "id": 327,
+    "email": "admin1111@mail.com",
+    "password": "$2b$10$UhnFg8S3vNL8IPRWi1OKg.FF9rfVtHC.7dkE9ASWs6WxeNOUCuSv.",
+    "role": "admin",
+    "createdAt": "2022-04-19T15:22:50.985Z",
+    "updatedAt": "2022-04-19T15:22:50.985Z"
+  },
+  {
+    "id": 328,
+    "email": "custMaik3@gmail.com",
+    "password": "$2b$10$3bZPKlmAAroC3VmKBuzILewi2jF1C5ikj19qRF.t03TuKvUFx6Kj6",
+    "role": "Customer",
+    "createdAt": "2022-04-19T15:26:13.254Z",
+    "updatedAt": "2022-04-19T15:26:13.254Z"
+  },
+  {
+    "id": 329,
+    "email": "admin15@gmail.com",
+    "password": "$2b$10$bnRj62hnU0ooAsymUm8fseAM.zun0womqdc0JotbQ6iVu1p0QBP/C",
+    "role": "admin",
+    "createdAt": "2022-04-20T00:57:37.874Z",
+    "updatedAt": "2022-04-20T00:57:37.874Z"
+  },
+  {
+    "id": 330,
+    "email": "adminhayuk@main.com",
+    "password": "$2b$10$Hynr8mNZN0msWue7orwHZuZdiBSLXpxZzsZSnv.uZtT5zXHFmllNK",
+    "role": "admin",
+    "createdAt": "2022-04-20T07:49:01.045Z",
+    "updatedAt": "2022-04-20T07:49:01.045Z"
+  },
+  {
+    "id": 331,
+    "email": "chap5day4@gmail.com",
+    "password": "$2b$10$NYpcVT2uQ.2SaejslKqUBeZh600Od9dk1pZUg3egdUJySsQUlNSbi",
+    "role": "admin",
+    "createdAt": "2022-04-20T13:25:18.098Z",
+    "updatedAt": "2022-04-20T13:25:18.098Z"
+  },
+  {
+    "id": 332,
+    "email": "tes1@gmail.com",
+    "password": "$2b$10$EYzDJEFwnuwUqR3x6TAD1.sp/q1I7vk6QgCcHlvrWAAKPsqPdNBAW",
+    "role": "admin",
+    "createdAt": "2022-04-20T14:03:08.731Z",
+    "updatedAt": "2022-04-20T14:03:08.731Z"
+  },
+  {
+    "id": 333,
+    "email": "testakun10@gmail.com",
+    "password": "$2b$10$H.RWTRD8jBYtBgc9EqKIquKZVJygubdvhkdSkkI3yyALiOn4peYVe",
+    "role": "Customer",
+    "createdAt": "2022-04-20T14:17:42.309Z",
+    "updatedAt": "2022-04-20T14:17:42.309Z"
+  },
+  {
+    "id": 334,
+    "email": "testercos1@email.com",
+    "password": "$2b$10$1Cl.V0IZJxpaqI0oTtBiIuJ/wVwiCAeSkgbFSo6J9Hy5e3/yuk7Si",
+    "role": "Customer",
+    "createdAt": "2022-04-20T14:28:49.677Z",
+    "updatedAt": "2022-04-20T14:28:49.677Z"
+  },
+  {
+    "id": 335,
+    "email": "cuctomer00001@mail.com",
+    "password": "$2b$10$c4/uG90.dqVCwp7D19P0G.ptmSYHSDX7rBfVxtzV5Dyf.agYVKZrC",
+    "role": "Customer",
+    "createdAt": "2022-04-20T14:33:46.504Z",
+    "updatedAt": "2022-04-20T14:33:46.504Z"
+  },
+  {
+    "id": 336,
+    "email": "hai@gmail.c.om",
+    "password": "$2b$10$.0E9OtbE3sxjeDz9V71cO.0DEVsL/zjb32rGb/92dawtKs.le64lq",
+    "role": "admin",
+    "createdAt": "2022-04-20T14:35:38.017Z",
+    "updatedAt": "2022-04-20T14:35:38.017Z"
+  },
+  {
+    "id": 337,
+    "email": "akuntest5@gmail.com",
+    "password": "$2b$10$uMNQSvRhrw/HxU5AvahFdOS.vGMBfnfVPvohfD/gnt017h0w2iomK",
+    "role": "Customer",
+    "createdAt": "2022-04-21T03:51:56.587Z",
+    "updatedAt": "2022-04-21T03:51:56.587Z"
+  },
+  {
+    "id": 338,
+    "email": "poop@gmail.com",
+    "password": "$2b$10$vlER0.4ExHgxkTmiSCcq.uMHfy75upfZUQ0AfD4dIwwTmcVuSeyhO",
+    "role": "admin",
+    "createdAt": "2022-04-21T20:52:25.529Z",
+    "updatedAt": "2022-04-21T20:52:25.529Z"
+  },
+  {
+    "id": 339,
+    "email": "testing1@gmail.com",
+    "password": "$2b$10$PQ0wrNGvMexrJBM63lJuz.vJFcusQ83m/2.NnXAWid1n6QMWkhZnu",
+    "role": "admin",
+    "createdAt": "2022-04-21T21:08:41.617Z",
+    "updatedAt": "2022-04-21T21:08:41.617Z"
+  },
+  {
+    "id": 340,
+    "email": "testing2@gmail.com",
+    "password": "$2b$10$XZ4pN43dlOFFXJKZ0cjv.estb0VWdfp1o7McMxLoNyx0H1iOs9YYe",
+    "role": "admin",
+    "createdAt": "2022-04-21T21:12:38.061Z",
+    "updatedAt": "2022-04-21T21:12:38.061Z"
+  },
+  {
+    "id": 341,
+    "email": "testing3@gmail.com",
+    "password": "$2b$10$ib9Q1YjeIX83mejmOMJQ3eOvO.O91n/e5qlj3X6k44ZlNPmr2pP6a",
+    "role": "admin",
+    "createdAt": "2022-04-21T21:13:41.974Z",
+    "updatedAt": "2022-04-21T21:13:41.974Z"
+  },
+  {
+    "id": 342,
+    "email": "testing4@gmail.com",
+    "password": "$2b$10$T6boR1AcUqv4B.Df9ihz7ex.O4zVc4oa9cQhkZRRXZb1TZx83wuBW",
+    "role": "admin",
+    "createdAt": "2022-04-21T21:22:43.101Z",
+    "updatedAt": "2022-04-21T21:22:43.101Z"
+  },
+  {
+    "id": 343,
+    "email": "xnsj@mail.com",
+    "password": "$2b$10$YnGN64rqjsTms.F6uMjyh.InN/tw0KVnkyEdEe3k6jSpgkkayMppe",
+    "role": "admin",
+    "createdAt": "2022-04-22T12:29:15.995Z",
+    "updatedAt": "2022-04-22T12:29:15.995Z"
+  },
+  {
+    "id": 344,
+    "email": "a.abdulah3@gmail.com",
+    "password": "$2b$10$y6bxv0VkdKYHCsGPcR.CJu6jK86T3DH9HtAAW5aZzNr5SsRIlWR0.",
+    "role": "admin",
+    "createdAt": "2022-04-22T15:28:47.228Z",
+    "updatedAt": "2022-04-22T15:28:47.228Z"
+  },
+  {
+    "id": 345,
+    "email": "abdullah3@gmail.com",
+    "password": "$2b$10$KFhUeaXYnieWVXGBxlTEoOmpGSqhB5Sc4EE64GyoTtreH0WjWL2qG",
+    "role": "admin",
+    "createdAt": "2022-04-22T15:29:05.442Z",
+    "updatedAt": "2022-04-22T15:29:05.442Z"
+  },
+  {
+    "id": 346,
+    "email": "dtyrtest@mail.com",
+    "password": "$2b$10$hipRgVV3V5iwmWCAauFLte1GmDfRj7ooHwudgsZT/S35mVrP7e98S",
+    "role": "admin",
+    "createdAt": "2022-04-23T09:17:17.976Z",
+    "updatedAt": "2022-04-23T09:17:17.976Z"
+  },
+  {
+    "id": 347,
+    "email": "rizkygg55@gmail.com",
+    "password": "$2b$10$B8WgMsg.ojzjQ.eMs7tCX.ufLQCvqjSJzmraHLOI20zAbLWHDjXmO",
+    "role": "admin",
+    "createdAt": "2022-04-23T15:21:01.310Z",
+    "updatedAt": "2022-04-23T15:21:01.310Z"
+  },
+  {
+    "id": 348,
+    "email": "adit@test.com",
+    "password": "$2b$10$l6pxFIreYifANZ/QnPxULuj9T1yVvr1xzry2Q32OIoxZeaO/nsLM6",
+    "role": "admin",
+    "createdAt": "2022-04-23T15:22:33.350Z",
+    "updatedAt": "2022-04-23T15:22:33.350Z"
+  },
+  {
+    "id": 349,
+    "email": "bebe@gmail.com",
+    "password": "$2b$10$b97apcdjaI7VcuQbDtb6F.IKvV6LyWW8uB4DaTJQvEoaeVknRYeFe",
+    "role": "admin",
+    "createdAt": "2022-04-26T02:06:00.654Z",
+    "updatedAt": "2022-04-26T02:06:00.654Z"
+  },
+  {
+    "id": 350,
+    "email": "admin12321313213213@mail.com",
+    "password": "$2b$10$6GZ.kTlSv8nabOFsyD5jD.uBh5V0W8q5VNSzKyDxYR9YW3YWvMVeS",
+    "role": "Customer",
+    "createdAt": "2022-04-26T09:55:10.973Z",
+    "updatedAt": "2022-04-26T09:55:10.973Z"
+  },
+  {
+    "id": 351,
+    "email": "admin324245545@mail.com",
+    "password": "$2b$10$Vi6gSMBqgrMFO7Mv3erPFuO8jx708lxQip.km4965Y6GZXBYgblq2",
+    "role": "Customer",
+    "createdAt": "2022-04-26T13:55:14.163Z",
+    "updatedAt": "2022-04-26T13:55:14.163Z"
+  },
+  {
+    "id": 352,
+    "email": "fikrirnurhidayat+BCR@gmail.com",
+    "password": "$2a$10$SyVOfaLCVDIdl3aWKgWm/ua2SJV3OYn5im5gqstN.IoyC2S7weNVi",
+    "role": "Customer",
+    "createdAt": "2022-04-26T13:55:14.163Z",
+    "updatedAt": "2022-04-26T13:55:14.163Z"
+  }
 ]

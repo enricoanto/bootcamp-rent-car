@@ -1,9 +1,28 @@
-const express = require('express').Router
-const router = express()
-const routerAdmin = require('./Admin')
-const routerCustomer = require('./Customer')
+const express = require("express").Router;
+const router = express();
+const routerAdmin = require("./Admin");
+const routerCustomer = require("./Customer");
 
-router.use('/customer', routerCustomer)
-router.use('/admin', routerAdmin)
+/**
+ * @swagger
+ * components:
+ *   responses:
+ *     InternalServerError:
+ *       description: When something went wrong.
+ *       content:
+ *         application/json:
+ *           schema:
+ *             type: object
+ *             properties:
+ *               name:
+ *                 type: string
+ *                 example: Internal Server Error
+ *               message:
+ *                 type: string
+ *                 example: Something went wrong.
+ * */
 
-module.exports = router
+router.use("/customer", routerCustomer);
+router.use("/admin", routerAdmin);
+
+module.exports = router;
